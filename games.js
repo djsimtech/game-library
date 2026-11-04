@@ -2056,5 +2056,229 @@ window.GAMES = [
   "id": "nintendo-ds-big-brain-academy",
   "cover": "covers/co31cc.jpg",
   "clip": null
+ },
+ {
+  "name": "Mario & Luigi: Paper Jam",
+  "igdbId": 11195,
+  "igdbUrl": "https://www.igdb.com/games/mario-and-luigi-paper-jam",
+  "igdbRelease": "2016-01-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4ahr.jpg",
+  "summary": "Paper Mario jumps out of a book and into the bizarre adventures of Mario & Luigi, resulting in hilarious, and dangerous, hijinks! Become the superstar team of Mario, Luigi and Paper Mario to take on quests, take down enemies, and untangle these two unique universes in this playful new entry in the Mario & Luigi series.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "AlphaDream"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "zI9Ic3tz2lc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario & Luigi Paper Jam",
+  "platform": "Nintendo 3DS",
+  "video": "zI9Ic3tz2lc",
+  "start": 0,
+  "release": "2016-01-21",
+  "precision": "day",
+  "id": "nintendo-3ds-mario-luigi-paper-jam",
+  "cover": "covers/co4ahr.jpg",
+  "clip": null
+ },
+ {
+  "name": "Tom Clancy's Ghost Recon: Shadow Wars",
+  "igdbId": 1303,
+  "igdbUrl": "https://www.igdb.com/games/tom-clancy-s-ghost-recon-shadow-wars",
+  "igdbRelease": "2011-03-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5b28.jpg",
+  "summary": "Build, train, and equip the ultimate elite special ops team using the latest in high-tech weapons and gear. From the hot deserts of Kazakhstan to the towns and villages of Ukraine and the frozen lands of Siberia, you must discover and disable the secret Soviet-era \"Dead Hand\" bases which Russian ultranationalist Yuri Treskayev is using to build an army of drones to seize power.",
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Sofia"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Tom Clancy's Ghost Recon Shadow Wars",
+  "platform": "Nintendo 3DS",
+  "video": "_Udt4_yQYrU",
+  "start": 150,
+  "release": "2011-03-27",
+  "precision": "day",
+  "id": "nintendo-3ds-tom-clancy-s-ghost-recon-shadow-wars",
+  "cover": "covers/co5b28.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Street Fighter IV: 3D Edition",
+  "igdbId": 6895,
+  "igdbUrl": "https://www.igdb.com/games/super-street-fighter-iv-3d-edition",
+  "igdbRelease": "2011-03-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1yee.jpg",
+  "summary": "The ultimate version of Street Fighter makes its seamless transition to the Nintendo 3DS with Super Street Fighter IV: 3D Edition. The console experience is now in the palm of your hand with rich new features that utilize the capabilities of the Nintendo 3DS to its fullest. Packed with 35 playable characters, bonus stages and cinematic Ultra combos, Super Street Fighter IV: 3D Edition expands the action by allowing you to fight your friends around the world using Wi-Fi. New to the franchise are the figurine mode, which utilizes the Street Pass feature to add a collectible meta-game, and the 3D over-the-shoulder camera option that takes fighting to new depths. For those new to the franchise, a simple mode has been added allowing players to pull off challenging moves with a single touch of the screen.",
+  "genres": [
+   "Fighting"
+  ],
+  "developer": [
+   "Dimps",
+   "Capcom"
+  ],
+  "publisher": [
+   "Capcom",
+   "Nintendo"
+  ],
+  "igdbVideo": "FZeREaEc4LY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Street Fighter IV 3D Edition",
+  "platform": "Nintendo 3DS",
+  "video": "FZeREaEc4LY",
+  "start": 0,
+  "release": "2011-03-27",
+  "precision": "day",
+  "id": "nintendo-3ds-super-street-fighter-iv-3d-edition",
+  "cover": "covers/co1yee.jpg",
+  "clip": null
+ },
+ {
+  "name": "Nintendogs + Cats: Toy Poodle & New Friends",
+  "igdbId": 3059,
+  "igdbUrl": "https://www.igdb.com/games/nintendogs-plus-cats-toy-poodle-and-new-friends",
+  "igdbRelease": "2011-03-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co70s7.jpg",
+  "summary": "nintendogs + cats, a game that lets players interact with realistic puppies - and kittens - in a variety of fun ways. There are three versions of the software, each with different starting breeds: French bulldog, toy poodle and golden retriever. But in each version players can unlock and enjoy more than 20 different breeds.",
+  "genres": [
+   "Simulator"
+  ],
+  "developer": [
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": 3059,
+  "sheetTitle": "Nintendogs + cats",
+  "platform": "Nintendo 3DS",
+  "video": "qhxphK4ZIh4",
+  "start": 24,
+  "release": "2011-03-27",
+  "precision": "day",
+  "id": "nintendo-3ds-nintendogs-cats-toy-poodle-new-friends",
+  "cover": "covers/co70s7.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metroid: Samus Returns",
+  "igdbId": 37140,
+  "igdbUrl": "https://www.igdb.com/games/metroid-samus-returns",
+  "igdbRelease": "2017-09-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3j82.jpg",
+  "summary": "Metroid: Samus Returns is a remake of Metroid 2: Return of Samus.\nIt uses a 3D graphic style with a side view camera that zooms in and changes for cutscenes. It also has new mechanics, items, and abilities.\n\n\"Brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. Her mission? Terminate the Metroid menace in this masterful reimagining of her 1991 Game Boy adventure. Samus Aran’s arsenal has been enhanced with new moves and abilities that are sure to help her face the deadly surprises that await. This intense, side-scrolling action platformer is a great entry point into the Metroid franchise and perfect for returning fans as well, and it’s available only on the Nintendo 3DS family of systems.\"",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Planning & Development",
+   "MercurySteam",
+   "Nintendo EPD Production Group No. 7"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "UOrkRW2NPQ8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metroid Samus Returns",
+  "platform": "Nintendo 3DS",
+  "video": "UOrkRW2NPQ8",
+  "start": 0,
+  "release": "2017-09-15",
+  "precision": "day",
+  "id": "nintendo-3ds-metroid-samus-returns",
+  "cover": "covers/co3j82.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: A Link Between Worlds",
+  "igdbId": 2909,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-a-link-between-worlds",
+  "igdbRelease": "2013-11-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3p0j.jpg",
+  "summary": "The Legend of Zelda: A Link Between Worlds is the first Zelda game made exclusively for the Nintendo 3DS. It is an indirect sequel to A Link to the Past with the same version of Hyrule but with new characters and gameplay elements. Unlike the series' tradition, many areas of the world are accessible from the beginning of the game and the dungeons can be visited in any order. Puzzles are encountered not only in dungeons but also in the open world, a part of them revolves around the game's 3D visual effect. The 3DS touch-screen display shows the world, dungeon or map depending on where you are.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "qAluniNRibs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: A link between worlds",
+  "platform": "Nintendo 3DS",
+  "video": "qAluniNRibs",
+  "start": 0,
+  "release": "2013-11-22",
+  "precision": "day",
+  "id": "nintendo-3ds-the-legend-of-zelda-a-link-between-worlds",
+  "cover": "covers/co3p0j.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario 3D Land",
+  "igdbId": 1079,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-3d-land",
+  "igdbRelease": "2011-11-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobab1.jpg",
+  "summary": "Super Mario 3D Land is the second 3D Super Mario platformer for a handheld device, and the successor to Super Mario Galaxy 2. The game is closely based on side-scrolling Mario games, as it combine elements from both traditional 2D Mario games and modern free-roaming 3D Mario games. It also introduces elements into the series, including power-ups and gameplay mechanics.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development",
+   "Brownie Brown",
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo",
+   "iQue"
+  ],
+  "igdbVideo": "kqd2SF3asbY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario 3D Land",
+  "platform": "Nintendo 3DS",
+  "video": "kqd2SF3asbY",
+  "start": 0,
+  "release": "2011-11-12",
+  "precision": "day",
+  "id": "nintendo-3ds-super-mario-3d-land",
+  "cover": "covers/cobab1.jpg",
+  "clip": null
  }
 ];
