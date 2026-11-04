@@ -1742,5 +1742,319 @@ window.GAMES = [
   "id": "psp-tactics-ogre-let-us-cling-together",
   "cover": "covers/co53gw.jpg",
   "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Link's Awakening DX",
+  "igdbId": 1027,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-link-s-awakening-dx",
+  "igdbRelease": "1998-12-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4o47.jpg",
+  "summary": "The Legend of Zelda: Link's Awakening DX is an updated re-release of Link's Awakening with several new additions, the most notable of which being the entire game is now in color.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Gradiente"
+  ],
+  "igdbVideo": "XORskc95324",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Link's Awakening DX",
+  "platform": "Game Boy Color",
+  "video": "XORskc95324",
+  "start": 0,
+  "release": "1998-12-15",
+  "precision": "day",
+  "id": "game-boy-color-the-legend-of-zelda-link-s-awakening-dx",
+  "cover": "covers/co4o47.jpg",
+  "clip": null
+ },
+ {
+  "name": "Sudoku Gridmaster",
+  "igdbId": 20538,
+  "igdbUrl": "https://www.igdb.com/games/sudoku-gridmaster",
+  "igdbRelease": "2006-06-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/evjmbnkrp0oa0f3hfzyx.jpg",
+  "summary": "SuDoku Master is a Puzzle game, developed by Greenstreet Games and published by eGames, which was released in 2005.",
+  "genres": [
+   "Strategy"
+  ],
+  "developer": [
+   "Hudson Soft"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": 20538,
+  "sheetTitle": "Sudoku: Gridmaster",
+  "platform": "Nintendo DS",
+  "video": "6FoQRdCwLdg",
+  "start": 19,
+  "release": "2006-06-26",
+  "precision": "day",
+  "id": "nintendo-ds-sudoku-gridmaster",
+  "cover": "covers/evjmbnkrp0oa0f3hfzyx.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Phantom Hourglass",
+  "igdbId": 1037,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-phantom-hourglass",
+  "igdbRelease": "2007-10-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3ocu.jpg",
+  "summary": "The Legend of Zelda: Phantom Hourglass is the first Zelda game for the Nintendo DS and a direct sequel to The Wind Waker. The art direction is the same cel-shaded style as the Wind Waker but is displayed from a classic top-down perspective. The gameplay is structured similarly to other games in the series and is divided into two major gameplay sections: sailing between islands and exploring the islands and their dungeons on foot. The touch screen is used to make Link move and attack instead of buttons, you can also make notes of secret treasures and items on the map simply by writing them down. The game received critical acclaim from reviewers, who agreed that the game was a worthy sequel to The Wind Waker.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "-gnZGtb8c7c",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Phantom Hourglass",
+  "platform": "Nintendo DS",
+  "video": "-gnZGtb8c7c",
+  "start": 0,
+  "release": "2007-10-01",
+  "precision": "day",
+  "id": "nintendo-ds-the-legend-of-zelda-phantom-hourglass",
+  "cover": "covers/co3ocu.jpg",
+  "clip": null
+ },
+ {
+  "name": "Elite Beat Agents",
+  "igdbId": 9109,
+  "igdbUrl": "https://www.igdb.com/games/elite-beat-agents",
+  "igdbRelease": "2006-11-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2dyd.jpg",
+  "summary": "The public knows of government agencies like the FBI and CIA, but little is known of this super-secret agency. Code-named \"Elite Beat Agents\", these men in black are heroes' heroes and the coolest group of guys this world has ever known. Of course, according to official records, they do not exist. Their leader, an ex-CIA agent named Commander Kahn, scans the world for cries of help. When he finds one, he dispatches the agents, who assist their targets by performing a song and dance. The hypnotic nature of their rocking revives the targets with \"Groovy\" energy that boosts their willpower and helps them overcome their obstacles. In each stage, the agents arrive in a special \"Beat Transport\" and must tap and trace patterns that appear on-screen to the beat of the music to save the day.",
+  "genres": [
+   "Music",
+   "Sport"
+  ],
+  "developer": [
+   "iNiS"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "5Ad3z9O4ooo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Elite Beat Agents",
+  "platform": "Nintendo DS",
+  "video": "5Ad3z9O4ooo",
+  "start": 0,
+  "release": "2006-11-06",
+  "precision": "day",
+  "id": "nintendo-ds-elite-beat-agents",
+  "cover": "covers/co2dyd.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metroid Prime Hunters",
+  "igdbId": 1110,
+  "igdbUrl": "https://www.igdb.com/games/metroid-prime-hunters",
+  "igdbRelease": "2006-03-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7j9t.jpg",
+  "summary": "Metroid Prime Hunters is a first-person action-adventure game that combines exploration, shooting, and competitive multiplayer gameplay. Set across interconnected locations, it features objective-based progression alongside encounters with rival bounty hunters, each with distinct abilities and weapons.\nThe game emphasizes fast-paced combat, environmental navigation, and upgrade-driven progression, with both single-player and multiplayer modes supporting a variety of playstyles.",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Software Technology",
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "_kOdXhAzHRo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metroid Prime Hunters",
+  "platform": "Nintendo DS",
+  "video": "_kOdXhAzHRo",
+  "start": 0,
+  "release": "2006-03-20",
+  "precision": "day",
+  "id": "nintendo-ds-metroid-prime-hunters",
+  "cover": "covers/co7j9t.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy III",
+  "igdbId": 393,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-iii",
+  "igdbRelease": "2006-11-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co60u4.jpg",
+  "summary": "Final Fantasy III is a remake and a complete overhaul of the 1990 version with the same title. This allowed western players to finally experience the classic Final Fantasy game localized for the very first time. The graphics are rendered in full 3D and various changes have been implemented.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Matrix Software"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "v1yZCE0DdQY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy III",
+  "platform": "Nintendo DS",
+  "video": "v1yZCE0DdQY",
+  "start": 0,
+  "release": "2006-11-14",
+  "precision": "day",
+  "id": "nintendo-ds-final-fantasy-iii",
+  "cover": "covers/co60u4.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario & Luigi: Partners in Time",
+  "igdbId": 3364,
+  "igdbUrl": "https://www.igdb.com/games/mario-luigi-partners-in-time",
+  "igdbRelease": "2005-11-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coba41.jpg",
+  "summary": "The famous Mario Brothers return in this sequel to the humorous Superstar Saga. In this adventure, Princess Peach takes a trip in a time machine, but when it returns, there's only a monster inside! The heroic brothers travel back in time only to discover that evil alien life forms known as the Shroobs have taken over the Mushroom Kingdom, and no-one is safe! They soon meet up with their younger selves, and set out to stop the alien menace, not to mention rescue the Princess!",
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "AlphaDream",
+   "Nintendo SPD Production Group No. 4"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "XB838mqScx4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario & Luigi Partners in Time",
+  "platform": "Nintendo DS",
+  "video": "XB838mqScx4",
+  "start": 0,
+  "release": "2005-11-28",
+  "precision": "day",
+  "id": "nintendo-ds-mario-luigi-partners-in-time",
+  "cover": "covers/coba41.jpg",
+  "clip": null
+ },
+ {
+  "name": "Chrono Trigger",
+  "igdbId": 20398,
+  "igdbUrl": "https://www.igdb.com/games/chrono-trigger--1",
+  "igdbRelease": "2008-11-25",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobzr6.jpg",
+  "summary": "When a newly developed teleportation device malfunctions at the Millennial Fair, young Crono must travel through time to rescue his misfortunate companion from an intricate web of past and present perils. The swashbuckling adventure that ensues soon unveils an evil force set to destroy the world, triggering Crono's race against time to change the course of history and bring about a brighter future.",
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Square Enix Product Development Division 5",
+   "Tose"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "fMDHzQy_Geo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Chrono trigger",
+  "platform": "Nintendo DS",
+  "video": "fMDHzQy_Geo",
+  "start": 0,
+  "release": "2008-11-25",
+  "precision": "day",
+  "id": "nintendo-ds-chrono-trigger",
+  "cover": "covers/cobzr6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Brain Age: Train Your Brain in Minutes a Day!",
+  "igdbId": 2712,
+  "igdbUrl": "https://www.igdb.com/games/brain-age-train-your-brain-in-minutes-a-day",
+  "igdbRelease": "2006-04-16",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5p93.jpg",
+  "summary": "Brain Age keeps the brain active through a series of mathematical questions, Stroop tests and Sudoku.",
+  "genres": [
+   "Puzzle",
+   "Quiz/Trivia"
+  ],
+  "developer": [
+   "Nintendo SPD Production Group No. 2"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "FbJMTtCV0Ds",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Brain Age",
+  "platform": "Nintendo DS",
+  "video": "FbJMTtCV0Ds",
+  "start": 0,
+  "release": "2006-04-16",
+  "precision": "day",
+  "id": "nintendo-ds-brain-age-train-your-brain-in-minutes-a-day",
+  "cover": "covers/co5p93.jpg",
+  "clip": null
+ },
+ {
+  "name": "Big Brain Academy",
+  "igdbId": 2744,
+  "igdbUrl": "https://www.igdb.com/games/big-brain-academy",
+  "igdbRelease": "2006-06-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co31cc.jpg",
+  "summary": "Big Brain Academy features 15 activities that test their brain powers in areas like logic, memory, math and analysis. Up to eight people can play with a single game card, and each activity takes less than a minute to complete.",
+  "genres": [
+   "Puzzle"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.4"
+  ],
+  "publisher": [
+   "Nintendo",
+   "iQue"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Big Brain Academy",
+  "platform": "Nintendo DS",
+  "video": "IZhdb6k8-gU",
+  "start": 274,
+  "release": "2006-06-05",
+  "precision": "day",
+  "id": "nintendo-ds-big-brain-academy",
+  "cover": "covers/co31cc.jpg",
+  "clip": null
  }
 ];
