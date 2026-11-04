@@ -1,0 +1,9 @@
+# Secrets - never commit
+igdb.env
+*.env
+
+# Excel lock files
+~$*
+
+__pycache__/
+match_report.txt

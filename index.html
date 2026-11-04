@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Danny's physical video game collection, from NES to Switch 2.">
+<title>Danny's Game Library</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <span class="cart" aria-hidden="true"></span>
+      <div>
+        <h1>Danny's Game Library</h1>
+        <p id="stats" class="stats">Loading collection…</p>
+      </div>
+    </div>
+
+    <div class="controls">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="q" type="search" placeholder="Search titles, developers, genres…" autocomplete="off">
+        <kbd>/</kbd>
+      </label>
+      <select id="sort" aria-label="Sort">
+        <option value="oldest">Release date · oldest first</option>
+        <option value="newest">Release date · newest first</option>
+        <option value="title">Title A–Z</option>
+        <option value="platform">Platform</option>
+      </select>
+      <button id="surprise" class="btn">Surprise me</button>
+    </div>
+
+    <nav id="chips" class="chips" aria-label="Filter by platform"></nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="library"></div>
+  <p id="empty" class="empty" hidden>No games match that search.</p>
+</main>
+
+<footer class="wrap foot">
+  Physical collection · game data and box art from <a href="https://www.igdb.com" target="_blank" rel="noopener">IGDB</a> · videos from YouTube
+</footer>
+
+<dialog id="modal" aria-labelledby="m-title">
+  <button class="close" aria-label="Close">&times;</button>
+  <div class="m-media" id="m-media"></div>
+  <div class="m-body">
+    <img id="m-cover" alt="">
+    <div class="m-info">
+      <span id="m-platform" class="badge"></span>
+      <h2 id="m-title"></h2>
+      <p id="m-meta" class="meta"></p>
+      <p id="m-summary" class="summary"></p>
+      <p class="links"><a id="m-igdb" target="_blank" rel="noopener">IGDB page</a></p>
+    </div>
+  </div>
+</dialog>
+
+<noscript><p class="wrap">This catalog needs JavaScript turned on.</p></noscript>
+<script src="games.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
