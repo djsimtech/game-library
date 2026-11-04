@@ -557,6 +557,196 @@ window.GAMES = [
   "clip": null
  },
  {
+  "name": "Battleship",
+  "igdbId": 220787,
+  "igdbUrl": "https://www.igdb.com/games/battleship--9",
+  "igdbRelease": "1993-09-01",
+  "igdbPrecision": "month",
+  "igdbCover": "covers/co5fsi.jpg",
+  "summary": "Battleship is a 1993 video game based on the board game of the same name.\n\nThe object is to sink the opponent's entire fleet without them sinking the player's fleet first. In this updated version, both the player and the computer get extra firepower from military aircraft and support weapons. There are even scenarios that start a player off in a pre-played game that he must resume (and overcome a bleak scenario).",
+  "genres": [
+   "Turn-based strategy (TBS)",
+   "Card & Board Game"
+  ],
+  "developer": [
+   "Mindscape",
+   "Kalisto"
+  ],
+  "publisher": [
+   "Mindscape"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Battleship",
+  "platform": "NES",
+  "video": "aH37l5PkeC8",
+  "start": 595,
+  "release": "1993-09-01",
+  "precision": "month",
+  "id": "nes-battleship",
+  "cover": "covers/co5fsi.jpg",
+  "clip": null
+ },
+ {
+  "name": "Donkey Kong Classics",
+  "igdbId": 48175,
+  "igdbUrl": "https://www.igdb.com/games/donkey-kong-classics",
+  "igdbRelease": "1988-09-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wk6.jpg",
+  "summary": "What's more fun than a barrel of monkeys? A Donkey Kong double feature! In DONKEY KONG you'll duck barrel bombs and flaming fireballs as you help Mario save his girlfriend Pauline from the clutches of Donkey Kong. In DONKEY KONG JR., you'll join forces with these madcap monkeys to help Donkey Kong Jr. rescue his father from Mario's prison. Are you ready for laughter? You'd better be. Because this double dose of monkey business will have you rolling in the aisles!",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Nintendo R&D2"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "szP1q0U7KmE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Donkey Kong Classics",
+  "platform": "NES",
+  "video": "szP1q0U7KmE",
+  "start": 0,
+  "release": "1988-09-09",
+  "precision": "day",
+  "id": "nes-donkey-kong-classics",
+  "cover": "covers/co1wk6.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda",
+  "igdbId": 1022,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda",
+  "igdbRelease": "1987-08-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1uii.jpg",
+  "summary": "The Legend of Zelda is the first title in the Zelda series, it has marked the history of video games particularly for it's game mechanics and universe. The player controls Link and must make his way through the forests, graveyards, plains and deserts of the Otherworld to find the secret entrances to the eight dungeons and try to restore the broken Triforce. Among the game's mechanics, it was the first time we saw a continuous world that could be freely explored, power-ups that permanently enhanced the main character's abilities and a battery save feature that allowed players to keep their progress instead of having to start over. The gameplay balanced action sequences with discovery, secrets and exploration.",
+  "genres": [
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo R&D4"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Playtronic"
+  ],
+  "igdbVideo": "-ShryDiv2gc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda",
+  "platform": "NES",
+  "video": "-ShryDiv2gc",
+  "start": 0,
+  "release": "1987-08-22",
+  "precision": "day",
+  "id": "nes-the-legend-of-zelda",
+  "cover": "covers/co1uii.jpg",
+  "clip": null
+ },
+ {
+  "name": "Silent Service",
+  "igdbId": 8825,
+  "igdbUrl": "https://www.igdb.com/games/silent-service",
+  "igdbRelease": "1989-12-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6yj9.jpg",
+  "summary": "Exciting World War II Submarine Action in the South Pacific by Sid Meier.\n\n0400 hours, Tuesday 1942... BATTLE STATIONS!! BATTLE STATIONS!! Enemy convoy identified on radar!!\n\nSILENT SERVICE, The Submarine Simulation, brings exciting action, great strategy, detailed graphics and an ultra-realistic simulation of a World War II U.S. submarine in the South Pacific.\n\nSILENT SERVICE's outstanding features include: all the critical battle stations 0 engine room, conning tower and ship's bridge; challenging and realistic combat versus single ships and heavily escorted convoys; and an infinite variety of situations using complete maps and charts for the entire South-west Pacific and a sophisticated and realistic attack plotting system.\n\nSILENT SERVICE is the most detailed and realistic submarine simulation for home computers. Player selected \"reality levels\" allow the player to customize complexity, and time scaling ensures that the actions and decisions are constantly required. SILENT SERVICE provides a wide selection of historical scenarios from individual attacks to patrol missions that bring challenge and fun to both the first time player and the experienced submarine veteran. Will you, as submarine captain, select a quiet patrol sector in the Marianas Islands, or choose the dangerous waters off the coast of Japan? Is the submerged daylight periscope attack best, or do you charge in on the surface at night using only radar bearing to guide you? Do you pick off the enemy with a single torpedo shot? These decisions and many more are yours to make as you take your place among the elite ranks of the SILENT SERVICE!",
+  "genres": [
+   "Simulator"
+  ],
+  "developer": [
+   "MicroProse Software, Inc.",
+   "MicroProse Software, Inc."
+  ],
+  "publisher": [
+   "Ultra Software Corporation",
+   "MicroProse Software, Inc.",
+   "France Image Logiciel"
+  ],
+  "igdbVideo": "w3WpiONz5yo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Silent Service",
+  "platform": "NES",
+  "video": "w3WpiONz5yo",
+  "start": 0,
+  "release": "1989-12-01",
+  "precision": "day",
+  "id": "nes-silent-service",
+  "cover": "covers/co6yj9.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mike Tyson's Punch-Out!!",
+  "igdbId": 2195,
+  "igdbUrl": "https://www.igdb.com/games/mike-tysons-punch-out",
+  "igdbRelease": "1987-10-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6386.jpg",
+  "summary": "Punch-Out!!, originally released in North America as Mike Tyson's Punch-Out!!, is a boxing sports fighting video game for the Nintendo Entertainment System (NES) developed and published by Nintendo in 1987. Part of the Punch-Out!! series, it is a port of both the Punch-Out!! and Super Punch-Out!! arcade games (particularly the latter) with some variations.\nPunch-Out!! features a boxer known as Little Mac working his way up the professional boxing circuits, facing a series of colorful, fictional boxers, leading to a final fight with real-life boxer, the then-World Heavyweight Champion, which is Mike Tyson in the original version and Mr. Dream in the later version.\nLittle Mac has a limited repertoire compared to most of his opponents. His punches are limited to left and right jabs, left and right body blows, and a powerful uppercut. The uppercut can only be used once the player earns a star, which is typically accomplished by counter-punching the opponent directly before or after certain attacks are launched. The player can acquire up to three stars. To perform the uppercut, the player needs to press the start button once a star is earned. To defend, Mac can dodge left or right, duck, and block punches by putting up his guard.\nLittle Mac also has a heart meter, which decreases by three upon being struck by an opponent and one upon blocking an attack or an opponent blocking/dodging the player's attack. When the heart meter decreases to zero, Little Mac temporarily turns pink and appears exhausted, leaving the player unable to attack but still able to dodge or block. At this point, Mac can regain some hearts (and his normal color palette) only by avoiding the opponent's punches. He immediately loses all of his hearts upon being knocked down, but can regain some by getting up.\nA bout can end by knockout (KO), if a fighter is unable to get up within ten seconds after being knocked down; by technical knockout (TKO), if a fighter is knocked down three times in one round; or by decision, if the bout lasts three full rounds without a clear winner. In order to win by decision, the player must accumulate higher than a certain point total by punching the opponent and/or knocking him down (different boxers require different point totals to win by decision). However, some bouts cannot be won in this manner and will automatically result in a loss for the player if the opponent is not knocked out. Mac can only get up three times during any one bout; if he is knocked down a fourth time, he will be unable to rise and thus lose by knockout.\nWhen Mac loses his first bout to a ranked opponent, he will have a chance to fight a rematch. However, if he loses a Title Bout, he will fall in the rankings - one place for the Minor or Major Circuits, two places for the World Circuit. Losing a rematch causes him to fall one place (unless he is already at the bottom of his circuit), forcing him to fight his way back up. A third loss (not necessarily a consecutive one) ends the game. The exception is the final fight against Mike Tyson/Mr. Dream; a loss to them automatically results in a game over.",
+  "genres": [
+   "Fighting",
+   "Sport"
+  ],
+  "developer": [
+   "Nintendo R&D3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "pPooTVA45SQ",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mike Tyson's Punch-out!!",
+  "platform": "NES",
+  "video": "RNmCWIbmWBU",
+  "start": 4,
+  "release": "1987-10-18",
+  "precision": "day",
+  "id": "nes-mike-tyson-s-punch-out",
+  "cover": "covers/co6386.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super C",
+  "igdbId": 84919,
+  "igdbUrl": "https://www.igdb.com/games/super-c--1",
+  "igdbRelease": "1990-04-23",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6fkf.jpg",
+  "summary": "The alien Red Falcon is back, and planning on taking over the planet Earth.",
+  "genres": [
+   "Shooter",
+   "Adventure",
+   "Arcade"
+  ],
+  "developer": [
+   "Konami"
+  ],
+  "publisher": [
+   "Konami",
+   "Playtronic"
+  ],
+  "igdbVideo": "2-z8xXA_v8k",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super C",
+  "platform": "NES",
+  "video": "2-z8xXA_v8k",
+  "start": 0,
+  "release": "1990-04-23",
+  "precision": "day",
+  "id": "nes-super-c",
+  "cover": "covers/co6fkf.jpg",
+  "clip": null
+ },
+ {
   "name": "Tetris",
   "igdbId": 326807,
   "igdbUrl": "https://www.igdb.com/games/tetris--41",
@@ -1070,6 +1260,487 @@ window.GAMES = [
   "precision": "day",
   "id": "snes-the-legend-of-zelda-a-link-to-the-past",
   "cover": "covers/co3vzn.jpg",
+  "clip": null
+ },
+ {
+  "name": "Advance Wars",
+  "igdbId": 1691,
+  "igdbUrl": "https://www.igdb.com/games/advance-wars",
+  "igdbRelease": "2001-09-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob9nu.jpg",
+  "summary": "Just because this battle fits in the palm of your hand doesn't mean the stakes are small. On the contrary, this all-or-nothing fight will have you accessing guns, grenades, launchers, and weaponry of all sorts. Players assume command of an army that's out to reclaim a world that's been broken up by warring factions. The battle map is essentially a grid, and moving units is like moving chess pieces on a board -- each of the units can move a specific amount of spaces within this grid, and can only attack at a certain distance from specific enemies. Advance Wars features more than 115 maps, a map editor, head-to-head play via link cable, and an easy-to-understand tutorial mode for beginners.",
+  "genres": [
+   "Simulator",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo",
+   "iQue"
+  ],
+  "igdbVideo": "cmrncNt9xUA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Advance Wars",
+  "platform": "Game Boy Advance",
+  "video": "aFctAym0zb8",
+  "start": 0,
+  "release": "2001-09-10",
+  "precision": "day",
+  "id": "game-boy-advance-advance-wars",
+  "cover": "covers/cob9nu.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fire Emblem",
+  "igdbId": 1439,
+  "igdbUrl": "https://www.igdb.com/games/fire-emblem",
+  "igdbRelease": "2003-11-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobbmr.jpg",
+  "summary": "It is the seventh game of the Fire Emblem series, the second game in the series to be released for the Game Boy Advance, and the first to be released in both North America and Europe. It features a prologue storyline designed to introduce newcomers to Fire Emblem gameplay and tactical basics. The overall narrative is a prequel to the events of the previous game, Fire Emblem: The Binding Blade, which is set twenty years later.\n\nThe game was first released under the localized title \"Fire Emblem\" in the West, but it was later rebranded as \"Fire Emblem: The Blazing Blade\" when Fire Emblem Heroes was released.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "ArGxu00WTdo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fire Emblem",
+  "platform": "Game Boy Advance",
+  "video": "n3OVfPf_1d4",
+  "start": 445,
+  "release": "2003-11-03",
+  "precision": "day",
+  "id": "game-boy-advance-fire-emblem",
+  "cover": "covers/cobbmr.jpg",
+  "clip": null
+ },
+ {
+  "name": "Advance Wars 2: Black Hole Rising",
+  "igdbId": 1692,
+  "igdbUrl": "https://www.igdb.com/games/advance-wars-2-black-hole-rising",
+  "igdbRelease": "2003-06-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob9nm.jpg",
+  "summary": "In Advance Wars 2: Black Hole Rising brings your GBA all-new strategic action and all-new fighting action! Thrilling turn-based strategy gameplay that will put your brain & your reflexes to the test, in this sequel to the original hit!",
+  "genres": [
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "9ngSpG4fdDI",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Advance Wars 2",
+  "platform": "Game Boy Advance",
+  "video": "9TwD2auVjVg",
+  "start": 925,
+  "release": "2003-06-24",
+  "precision": "day",
+  "id": "game-boy-advance-advance-wars-2-black-hole-rising",
+  "cover": "covers/cob9nm.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Four Swords",
+  "igdbId": 163572,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-four-swords",
+  "igdbRelease": "2002-12-02",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5w9w.jpg",
+  "summary": "The Legend of Zelda: Four Swords is a multiplayer game in the Zelda series originally released together with The Legend of Zelda: A Link to the Past for the Game Boy Advance. The game has many features not seen in the series and it requires at least two people to play and uses randomly generated dungeons. During the game, players must collect as many Ruppees as possible while solving puzzles and defeating enemies. When enough Ruppees are collected, the Great Fairy will give the players a key to open the unlockable level. At the end of each level, the one who collects the most Ruppees will be the winner.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Capcom Production Studio 1"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": null,
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Zelda Four Swords",
+  "platform": "Game Boy Advance",
+  "video": "HPiZ5hHz4GU",
+  "start": 120,
+  "release": "2002-12-02",
+  "precision": "day",
+  "id": "game-boy-advance-the-legend-of-zelda-four-swords",
+  "cover": "covers/co5w9w.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: The Minish Cap",
+  "igdbId": 1035,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-the-minish-cap",
+  "igdbRelease": "2005-01-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3nsk.jpg",
+  "summary": "The Legend of Zelda: The Minish Cap is a top-down action adventure game that tells the origins of the evil Vaati from Four Swords. Like most other titles in the series, The Minish Cap features the fully explorable land of Hyrule, although it can be viewed from the eyes of a human or the eyes of a Minish, a race of tiny people and an alternate form that Link can transform into. Unlike the multiplayer focus of the other games in the series, The Minish Cap retains the original form of exploration and dungeons as seen in A Link to the Past, Oracle of Seasons, and Oracle of Ages, as well as returning characters and game mechanics such as Malon and the Spin Attack. New features include fusing Kinstones and shrinking to the size of a Minish.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Capcom Production Studio 1"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "cSIDghMWVMA",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Zelda: Minish Cap",
+  "platform": "Game Boy Advance",
+  "video": "q38pDhDWDnQ",
+  "start": 2250,
+  "release": "2005-01-10",
+  "precision": "day",
+  "id": "game-boy-advance-the-legend-of-zelda-the-minish-cap",
+  "cover": "covers/co3nsk.jpg",
+  "clip": null
+ },
+ {
+  "name": "Golden Sun",
+  "igdbId": 1172,
+  "igdbUrl": "https://www.igdb.com/games/golden-sun",
+  "igdbRelease": "2001-11-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1uca.jpg",
+  "summary": "Evil is slowly covering the world. Forces of darkness are pursuing the lost art of Alchemy, and the fate of mankind hangs in the balance. You and your companions, armed with weapons, Psynergy magic, and a host of elemental creatures, must return peace to the world.\n\nGolden Sun is an epic role-playing game with an engrossing story, set in a massive world. Gather the elemental Djinn – fire, water, wind and earth – and combine them in unique ways to produce awesome magical effects.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Camelot Software Planning"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "_9qzEFbbM9U",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Golden Sun",
+  "platform": "Game Boy Advance",
+  "video": "Q6TVwFg9av8",
+  "start": 35,
+  "release": "2001-11-12",
+  "precision": "day",
+  "id": "game-boy-advance-golden-sun",
+  "cover": "covers/co1uca.jpg",
+  "clip": null
+ },
+ {
+  "name": "Golden Sun: The Lost Age",
+  "igdbId": 1173,
+  "igdbUrl": "https://www.igdb.com/games/golden-sun-the-lost-age",
+  "igdbRelease": "2003-04-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co25rt.jpg",
+  "summary": "The story of Golden Sun: The Lost Age picks up right near the end of the first game. Golden Sun veterans will be surprised to learn that The Lost Age is played from the point of view of the party being chased as they try to light the remaining two lighthouses, which will unlock the power of alchemy for the world--or will it instead unlock the world's destruction?\n\n* LAN PVP mode via GBA Game Link Cable",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Camelot Software Planning"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "H6MuI1qHLSw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Golden Sun: The lost age",
+  "platform": "Game Boy Advance",
+  "video": "H6MuI1qHLSw",
+  "start": 0,
+  "release": "2003-04-14",
+  "precision": "day",
+  "id": "game-boy-advance-golden-sun-the-lost-age",
+  "cover": "covers/co25rt.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy Tactics Advance",
+  "igdbId": 414,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-tactics-advance",
+  "igdbRelease": "2003-09-08",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob8fn.jpg",
+  "summary": "Squaresoft brings its popular Final Fantasy franchise to the Game Boy Advance in the form of strategic warfare. Final Fantasy Tactics Advance trails the story of a young boy named Marche who is magically transported from his sleepy modern-time home to a strange kingdom where magic and adventure reign supreme.\n\nPlayers control a set of troops who specialize in various fighting, healing, magic, and archery skills (or job classes). Strategically positioning characters on the battle map, and calculating offensive advances are the keys to success. Two players can battle and trade items with the aid of the GBA link cable.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Square Product Development Division 4"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Square Enix",
+   "Square"
+  ],
+  "igdbVideo": "sLvY1zlPBCk",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy Tactics",
+  "platform": "Game Boy Advance",
+  "video": "sLvY1zlPBCk",
+  "start": 0,
+  "release": "2003-09-08",
+  "precision": "day",
+  "id": "game-boy-advance-final-fantasy-tactics-advance",
+  "cover": "covers/cob8fn.jpg",
+  "clip": null
+ },
+ {
+  "name": "Jeanne d'Arc",
+  "igdbId": 11326,
+  "igdbUrl": "https://www.igdb.com/games/jeanne-darc",
+  "igdbRelease": "2007-08-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1pnd.jpg",
+  "summary": "Jeanne d'Arc is a tactical role-playing video game loosely based on the story of Joan of Arc and her struggles against the English occupation of France during the Hundred Years' War in the early 15th century.\n\nThe game has an amount of historical accuracy when it comes to the cast of characters, and contains many who were contemporaries and allies of Joan of Arc. This contrasts starkly with the many fantasy elements of the game, such as characters possessing magical armlets that give the wearer special abilities, and the suggestion that King Henry VI of England was possessed by demons and used them to aid his armies in destroying France during the Hundred Years' War.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Tactical"
+  ],
+  "developer": [
+   "LEVEL-5"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "aZs39-XLAJw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Jeanne D`arc",
+  "platform": "PSP",
+  "video": "aZs39-XLAJw",
+  "start": 0,
+  "release": "2007-08-21",
+  "precision": "day",
+  "id": "psp-jeanne-d-arc",
+  "cover": "covers/co1pnd.jpg",
+  "clip": null
+ },
+ {
+  "name": "God of War: Chains of Olympus",
+  "igdbId": 552,
+  "igdbUrl": "https://www.igdb.com/games/god-of-war-chains-of-olympus",
+  "igdbRelease": "2008-03-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3dip.jpg",
+  "summary": "Kratos makes his inaugural appearance on a portable gaming platform in the third instalment of the God of War series. Chains of Olympus serves as a prequel, unfolding its narrative a decade before the events in the original God of War. While retaining the familiar gameplay dynamics of its predecessors, subtle modifications enhance the overall experience. Kratos embarks on a journey through various levels, engaging in relentless combat against foes and formidable bosses, deciphering puzzles based on manipulating boxes, and participating in quick-time events. Throughout his odyssey, he amasses red orbs to fortify his weapons and abilities, secures Gorgon eyeballs to augment his health, and acquires Phoenix feathers to amplify his magical prowess.\n\nThe game's controls underwent refinement to harmonize with the reduced button configuration of the PSP. Dodging, for instance, now necessitates the utilization of both shoulder buttons and the analogue stick. The iconic Blades of Chaos, synonymous with the God of War series, make a return, accompanied by an array of new weapons and magical spells such as the Sun Shield, Efreet spell, and Light of Dawn.\n\nThe narrative unfolds as the Gods dispatch Kratos to the city of Attica, charging him with the defence against an encroaching Persian army. However, as Morpheus unleashes chaos, Kratos finds himself compelled to harness his formidable powers to once again rescue the world from impending doom.",
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Ready At Dawn",
+   "SCE Santa Monica Studio"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment",
+   "Capcom"
+  ],
+  "igdbVideo": "89fgA0CY82k",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "God of War: Chains of Olympus",
+  "platform": "PSP",
+  "video": "89fgA0CY82k",
+  "start": 0,
+  "release": "2008-03-04",
+  "precision": "day",
+  "id": "psp-god-of-war-chains-of-olympus",
+  "cover": "covers/co3dip.jpg",
+  "clip": null
+ },
+ {
+  "name": "Crisis Core: Final Fantasy VII",
+  "igdbId": 2407,
+  "igdbUrl": "https://www.igdb.com/games/crisis-core-final-fantasy-vii",
+  "igdbRelease": "2008-03-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1trb.jpg",
+  "summary": "In CRISIS CORE, players can experience the D.M.W (Digital Mind Wave) system, which enhances the real-time battle system, allowing players to unleash special attacks or call upon various FINAL FANTASY summons. Players can also witness graphics and CG cutscenes coupled with voice acting in a 16:9 widescreen presentation, made possible by the PSP system hardware.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Enix Product Development Division 1"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "iQoLYigS_6g",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Crisis Core",
+  "platform": "PSP",
+  "video": "iQoLYigS_6g",
+  "start": 0,
+  "release": "2008-03-24",
+  "precision": "day",
+  "id": "psp-crisis-core-final-fantasy-vii",
+  "cover": "covers/co1trb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Patapon",
+  "igdbId": 7812,
+  "igdbUrl": "https://www.igdb.com/games/patapon",
+  "igdbRelease": "2008-02-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobe8f.jpg",
+  "summary": "Set among a variety of colorful 2D backgrounds, Patapon unfolds through more than 30 missions with more than 20 different environments, where players are tasked with outfitting the Patapon army, collecting resources, and using strategy to grow the tribe into a devastating fighting force. Incorporating various button-timed drumbeats in real-time to control the Patapons, players will strategically traverse through each environment, battling enemies each step of the way. The game presents a variety of warrior types such as archers, infantry, cavalry, and more that players can unlock, along with a wide selection of more than 100 weapon and shield upgrades, allowing players to customize their forces throughout the funky adventure.",
+  "genres": [
+   "Music",
+   "Real Time Strategy (RTS)",
+   "Strategy"
+  ],
+  "developer": [
+   "SCE Japan Studio",
+   "Pyramid"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "D4xkjTafCE4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Patapon",
+  "platform": "PSP",
+  "video": "D4xkjTafCE4",
+  "start": 0,
+  "release": "2008-02-26",
+  "precision": "day",
+  "id": "psp-patapon",
+  "cover": "covers/cobe8f.jpg",
+  "clip": null
+ },
+ {
+  "name": "Daxter",
+  "igdbId": 1533,
+  "igdbUrl": "https://www.igdb.com/games/daxter",
+  "igdbRelease": "2006-03-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1pn3.jpg",
+  "summary": "Daxter is a platformer developed by Ready at Dawn and published by Sony Computer Entertainment. Released in 2006 for the PlayStation Portable (PSP), it serves as a midquel set between Jak II and Jak 3 from the Jak and Daxter series.\n\nThe game follows Daxter, a comical ottsel, as he works as a pest exterminator in Haven City while searching for his captured friend, Jak. Gameplay focuses on platforming, combat, and gadget-based puzzles, with Daxter using unique tools like a bug swatter and spray gun to defeat enemies. It features detailed environments, engaging minigames, and the series' signature humor.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Ready At Dawn"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "3tZfRVIs2lQ",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Daxter",
+  "platform": "PSP",
+  "video": "3tZfRVIs2lQ",
+  "start": 0,
+  "release": "2006-03-14",
+  "precision": "day",
+  "id": "psp-daxter",
+  "cover": "covers/co1pn3.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metal Gear Solid: Peace Walker",
+  "igdbId": 382,
+  "igdbUrl": "https://www.igdb.com/games/metal-gear-solid-peace-walker",
+  "igdbRelease": "2010-06-08",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coawb5.jpg",
+  "summary": "Metal Gear Solid: Peace Walker is an action-adventure stealth video game and is the third action-based Metal Gear title made specifically for the PSP. The gameplay consists of two primary modes: Mission and Mother Base. Mission are the actual action sequences of the game where the player must infiltrate an enemy territory or fight a boss, whereas Mother Base is an army management. Some changes have been made to the standard Metal Gear formula: the player is now unable to move or shoot while laying down and while pinned to a wall, making Peace Walker the first game since Metal Gear to lack any crawling ability.",
+  "genres": [
+   "Shooter",
+   "Strategy",
+   "Tactical"
+  ],
+  "developer": [
+   "Kojima Productions"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "0chmJjO8xT4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metal Gear Solid: Peace Walker",
+  "platform": "PSP",
+  "video": "xUNvu5zbKPw",
+  "start": 0,
+  "release": "2010-06-08",
+  "precision": "day",
+  "id": "psp-metal-gear-solid-peace-walker",
+  "cover": "covers/coawb5.jpg",
+  "clip": null
+ },
+ {
+  "name": "Tactics Ogre: Let Us Cling Together",
+  "igdbId": 132992,
+  "igdbUrl": "https://www.igdb.com/games/tactics-ogre-let-us-cling-together--1",
+  "igdbRelease": "2011-02-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co53gw.jpg",
+  "summary": "A remake version of the Super Famicom game Tactics Ogre: Let Us Cling Together, released on PlayStation Portable. The North American and European versions keep the original Title: \"Tactics Ogre: Let Us Cling Together\".\nThe PSP remake presents several changes compared to the previous releases. New characters and events are included, and the script has been re-translated. Most importantly, the remake severely downplays the effects of a character's death in battle, giving players extra opportunities to keep characters alive even if their hit points have been reduced to zero in battle. The previous releases permanently eliminated characters once their hit points had been reduced to zero in battle. The remake also adds a crafting system and completely revamps the experience system, giving experience to all the party members after a battle, instead of giving it to single party members after executing individual actions",
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Square Enix Product Development Division 4"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "cgH1oHxS4cg",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Tactics Ogre",
+  "platform": "PSP",
+  "video": "cgH1oHxS4cg",
+  "start": 0,
+  "release": "2011-02-15",
+  "precision": "day",
+  "id": "psp-tactics-ogre-let-us-cling-together",
+  "cover": "covers/co53gw.jpg",
   "clip": null
  }
 ];
