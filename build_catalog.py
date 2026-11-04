@@ -15,10 +15,12 @@ Optional columns you can add to the sheet any time (header text must match):
     Video     - a YouTube video ID or URL to use instead of IGDB's
     Start     - seconds into the video to start playing (e.g. 90)
     Released  - your own release date when IGDB's is wrong: 1989-11, 1989-11-15 or just 1989
+    Cover     - your own box art: an image URL, or a file name in the covers folder (e.g. tetris-nes.jpg)
 """
 
 import json
 import os
+import hashlib
 import re
 import sys
 import time
@@ -219,6 +221,31 @@ def download_cover(image_id):
     return f"covers/{image_id}.jpg"
 
 
+def custom_cover(v, game_id):
+    """Box art from the 'Cover' column: an image URL (downloaded once) or a local file."""
+    if v is None or str(v).strip() == "":
+        return None
+    s = str(v).strip()
+    if s.lower().startswith(("http://", "https://")):
+        ext = Path(urllib.parse.urlparse(s).path).suffix.lower()
+        ext = ext if ext in (".jpg", ".jpeg", ".png", ".webp", ".gif") else ".jpg"
+        name = f"custom-{game_id}-{hashlib.sha1(s.encode()).hexdigest()[:8]}{ext}"
+        path = COVERS / name
+        if not path.exists():
+            COVERS.mkdir(exist_ok=True)
+            try:
+                path.write_bytes(http(s))
+            except Exception as e:
+                print(f"  ! Couldn't download the cover for {game_id}: {e}")
+                return None
+        return f"covers/{name}"
+    for candidate in (HERE / s, COVERS / s):
+        if candidate.is_file():
+            return candidate.relative_to(HERE).as_posix()
+    print(f"  ! Cover file not found for {game_id}: {s} (put it in the covers folder)")
+    return None
+
+
 # ---------- main ----------
 
 def read_sheet():
@@ -239,6 +266,7 @@ def read_sheet():
             "video": get("video"),
             "start": get("start"),
             "released": get("released"),
+            "cover": get("cover"),
         })
     return rows
 
@@ -307,7 +335,7 @@ def main():
                     "igdbUrl": f"https://www.igdb.com/games/{best.get('slug', '')}",
                     "igdbRelease": time.strftime("%Y-%m-%d", time.gmtime(ts)) if ts else None,
                     "igdbPrecision": precision if ts else None,
-                    "cover": download_cover((best.get("cover") or {}).get("image_id")),
+                    "igdbCover": download_cover((best.get("cover") or {}).get("image_id")),
                     "summary": best.get("summary"),
                     "genres": [x["name"] for x in best.get("genres", [])],
                     "developer": companies(best, "developer"),
@@ -324,6 +352,7 @@ def main():
         own = parse_released(row["released"])
         g["release"], g["precision"] = own or (g.get("igdbRelease", g.get("release")), g.get("igdbPrecision", "day"))
         g["id"] = slugify(f"{row['platform']}-{g['name']}")
+        g["cover"] = custom_cover(row["cover"], g["id"]) or g.get("igdbCover", g.get("cover"))
         clip = HERE / "clips" / f"{g['id']}.webm"
         g["clip"] = f"clips/{clip.name}" if clip.exists() else None
         games.append(g)

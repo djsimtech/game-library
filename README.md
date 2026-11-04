@@ -15,7 +15,13 @@ A catalog of my physical video game collection, sorted by release date. Click a 
    It looks up each new game on IGDB, downloads box art into `covers/`, and writes `games.js`.
    Games already in `games.js` are reused; `python build_catalog.py --refresh` looks everything up again.
 3. Check `match_report.txt` for anything flagged.
-4. Open `index.html` in a browser to preview, then commit and push.
+4. Preview it with a local web server (YouTube videos refuse to play when `index.html` is opened directly as a file):
+
+   ```
+   python -m http.server 8000
+   ```
+
+   Then browse to http://localhost:8000. When it looks right, commit and push.
 
 ## Fixing things from the spreadsheet
 
@@ -27,6 +33,7 @@ Add any of these columns to the Games sheet when you need them (header text must
 | `Video`   | A YouTube URL or video ID to use instead of IGDB's pick. |
 | `Start`   | Seconds into the video to start playing. |
 | `Released` | Your own release date when IGDB's is wrong: `1989`, `1989-11` or `1989-11-15`. |
+| `Cover`   | Your own box art: an image URL, or a file name you've put in the `covers` folder (e.g. `tetris-nes.jpg`). |
 
 ## Hover clips (optional)
 

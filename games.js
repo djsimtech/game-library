@@ -501,7 +501,7 @@ window.GAMES = [
   "igdbUrl": "https://www.igdb.com/games/tetris--6",
   "igdbRelease": "1989-05-01",
   "igdbPrecision": "month",
-  "cover": "covers/coc4yb.jpg",
+  "cover": "covers/tetris-nes.jpg",
   "summary": "Tengen, an Atari label, released an unlicensed version of Tetris for the Nintendo Entertainment System. After they lost a lawsuit to Nintendo, which acquired the rights from Russia to port the game to home consoles (they already had the handheld consoles rights), Tengen had to destroy every spare cartridge unsold at the time.\n\nThe Tengen game featured a two-player simultaneous mode not available in Nintendo's version",
   "genres": [
    "Puzzle"
