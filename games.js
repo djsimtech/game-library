@@ -270,7 +270,7 @@ window.GAMES = [
   "platform": "NES",
   "video": "vfVuqrNtxMY",
   "start": 102,
-  "release": "1992-12-31",
+  "release": "1991-12-31",
   "precision": "year",
   "id": "nes-hatris",
   "clip": null
