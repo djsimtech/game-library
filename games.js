@@ -555,5 +555,521 @@ window.GAMES = [
   "precision": "day",
   "id": "nes-zelda-ii-the-adventure-of-link",
   "clip": null
+ },
+ {
+  "name": "Tetris",
+  "igdbId": 326807,
+  "igdbUrl": "https://www.igdb.com/games/tetris--41",
+  "igdbRelease": "2024-12-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co9idd.jpg",
+  "summary": "Tetris for the Chromatic (an FPGA based Game Boy Color handheld) is a game released on December 1, 2024. It is a Game Boy and Game Boy Color game that is bundled with the Mod Retro Chromatic.\n\nThe game features modern and retro game settings, as well as the standard modes: marathon, sprint, ultra, and endless.\n\nPlayers can customize various options, including toggling the ghost piece, selecting from two speed curves, toggling the hold function, and choosing between the bag or random pieces. Players can input a 9-digit seed to determine piece sequences, or leave it unset for a random seed every game.\n\nMost mechanics follow standard guideline rules. Both IRS (Initial Rotation System) and IHS (Initial Hold System) are present. However, pieces are rotated on the first frame rather than entering pre-rotated, which means they cannot prevent a block out.",
+  "genres": [],
+  "developer": [
+   "ModRetro"
+  ],
+  "publisher": [
+   "ModRetro"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Tetris",
+  "platform": "Game Boy",
+  "video": "VNbo1AGqKrI",
+  "start": 18,
+  "release": "1989-07-01",
+  "precision": "month",
+  "id": "game-boy-tetris",
+  "cover": "covers/tetris-gb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario Land",
+  "igdbId": 1069,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-land",
+  "igdbRelease": "1989-07-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7o14.jpg",
+  "summary": "Super Mario Land is the first Mario's outing on the Game Boy. It is a side-scrolling platformer much in the vein of the previous Super Mario Bros. This time, Mario must save Princess Daisy, rather than Princess Toadstool, from her kidnapper Tatanga, a mysterious spaceman. The game follows largely the same formula of its aforementioned predecessor, with Mario defeating enemies by jumping on them and collecting coins and power ups by hitting floating blocks, with each world leading up to a boss fight which is defeated using by collapsing the floor. A unique feature of this installment is two scrolling shoot-'em-up levels, the first of which Mario pilots a submarine, and the second an aeroplane.",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Nintendo R&D1"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Playtronic",
+   "Mani"
+  ],
+  "igdbVideo": "PG1q5q0spQE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario Land",
+  "platform": "Game Boy",
+  "video": "PG1q5q0spQE",
+  "start": 0,
+  "release": "1989-07-31",
+  "precision": "day",
+  "id": "game-boy-super-mario-land",
+  "cover": "covers/co7o14.jpg",
+  "clip": null
+ },
+ {
+  "name": "Catrap",
+  "igdbId": 7820,
+  "igdbUrl": "https://www.igdb.com/games/catrap",
+  "igdbRelease": "1990-09-01",
+  "igdbPrecision": "month",
+  "igdbCover": "covers/co2mia.jpg",
+  "summary": "Catrap is more than just a game of mind-bending intrigue and action. Be the architect of the underground labyrinth and make your own games of intricate mazes. But watch it! Every maze has monsters patrolling the depths of the labyrinth. Help Catgirl and Catboy push around huge blocks to bridge a path to yet another maze, or topple a block a few stories over the pursuing monsters. If you make a mistake, simply use the rewind function and travel back in time to correct it. With 100 mazes in this labyrinth, it will be quite a challenge to get out of the curse's reach.\n\nWhether you choose to be a maze builder or a maze solver, we know you can help Catboy and Catgirl land on their feet.",
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Strategy"
+  ],
+  "developer": [
+   "Nintendo",
+   "Asmik Ace Entertainment"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Asmik Ace Entertainment"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "catrap",
+  "platform": "Game Boy",
+  "video": "l9NIReIiGY0",
+  "start": 17,
+  "release": "1990-09-01",
+  "precision": "month",
+  "id": "game-boy-catrap",
+  "cover": "covers/co2mia.jpg",
+  "clip": null
+ },
+ {
+  "name": "Star Fox",
+  "igdbId": 8581,
+  "igdbUrl": "https://www.igdb.com/games/star-fox",
+  "igdbRelease": "1993-03-23",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co99og.jpg",
+  "summary": "Star Fox, released as Starwing in Europe, is a 1993 rail shooter video game developed and published by Nintendo, with assistance from Argonaut Software, for the Super Nintendo Entertainment System. The first game in the Star Fox series, Star Fox follows Fox McCloud and the rest of the Star Fox team defending their homeworld of Corneria against the attacking forces of Andross.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Playtronic"
+  ],
+  "igdbVideo": "ZnmnpWKoUS0",
+  "score": 0.93,
+  "igdbOverride": null,
+  "sheetTitle": "Starfox",
+  "platform": "SNES",
+  "video": "ZnmnpWKoUS0",
+  "start": 0,
+  "release": "1993-03-23",
+  "precision": "day",
+  "id": "snes-star-fox",
+  "cover": "covers/co99og.jpg",
+  "clip": null
+ },
+ {
+  "name": "Donkey Kong Country",
+  "igdbId": 1090,
+  "igdbUrl": "https://www.igdb.com/games/donkey-kong-country",
+  "igdbRelease": "1994-11-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co70qn.jpg",
+  "summary": "Donkey Kong Country is a side scrolling platformer by British developers Rare in 1994. It featured revolutionary pre-rendered 3D graphics that give the game a very unique look compared to most other games on consoles at the time. The two playable characters featured in the game are the titular character, Donkey Kong and his nephew, Diddy Kong. Together the two swing, climb, jump, swim, cartwheel, ride animals, and blast out of barrels on their way to recover their stolen bannanas from the evil King K. Rool and his Kremling army. The adventure takes you through a variety of different environments and levels that continually change up gameplay. Donkey Kong Country also provides plenty of opportunities for exploration with almost every level having a multitude of collectible, shortcuts, and hidden bonus areas.",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Rare"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Gradiente",
+   "Playtronic",
+   "Hyundai"
+  ],
+  "igdbVideo": "d4EUEsEM328",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Donkey Kong Country",
+  "platform": "SNES",
+  "video": "d4EUEsEM328",
+  "start": 0,
+  "release": "1994-11-21",
+  "precision": "day",
+  "id": "snes-donkey-kong-country",
+  "cover": "covers/co70qn.jpg",
+  "clip": null
+ },
+ {
+  "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+  "igdbId": 1092,
+  "igdbUrl": "https://www.igdb.com/games/donkey-kong-country-2-diddy-s-kong-quest",
+  "igdbRelease": "1995-12-01",
+  "igdbPrecision": "month",
+  "igdbCover": "covers/co217m.jpg",
+  "summary": "Donkey Kong Country 2: Diddy's Kong Quest is the sequel to Donkey Kong Country. It was developed by Rare and is one of the best selling Super Nintendo games.",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Rare"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Gradiente",
+   "Playtronic",
+   "Hyundai"
+  ],
+  "igdbVideo": "ryM1lxnSjuM",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Donkey Kong Country 2: Diddy's Kong Quest",
+  "platform": "SNES",
+  "video": "ryM1lxnSjuM",
+  "start": 0,
+  "release": "1995-12-01",
+  "precision": "month",
+  "id": "snes-donkey-kong-country-2-diddy-s-kong-quest",
+  "cover": "covers/co217m.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy: Mystic Quest",
+  "igdbId": 415,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-mystic-quest",
+  "igdbRelease": "1992-10-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2y0b.jpg",
+  "summary": "Focus Tower is the center of the world and balances the forces of the world. However 4 monsters have taken the 4 elemental crystals (Earth, Water, Fire, Wind) for their own use, and also taken the 4 keys that for doors inside of Focus Tower. With the balance disrupted, disasters befall the world. A young boy by the name of Benjamin finds his home village destroyed. Meeting a mysterious old man while trying to escape from earthquakes, he soon learns that he is the prophesized hero and the only one who can save the world. Benjamin must recover the 4 crystals, unlock Focus Tower and defeat the ultimate monster before the 5th crystal, the Crystal of Life is corrupted.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Osaka Development Department"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Square Enix",
+   "Square"
+  ],
+  "igdbVideo": "Udell2uijys",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy Mystic Quest",
+  "platform": "SNES",
+  "video": "Udell2uijys",
+  "start": 0,
+  "release": "1992-10-05",
+  "precision": "day",
+  "id": "snes-final-fantasy-mystic-quest",
+  "cover": "covers/co2y0b.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario RPG: Legend of the Seven Stars",
+  "igdbId": 5418,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-rpg-legend-of-the-seven-stars",
+  "igdbRelease": "1996-05-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5r6p.jpg",
+  "summary": "A JRPG entry in the Super Mario franchise in which Mario meets many unlikely allies in order to jump and fight his way through the Mushroom Kingdom and collect stars to repair the Star Road, the pathway that grants people's wishes, which was destroyed by Smithy, the otherworldly entity that hijacked Bowser's castle and threw the Kingdom into disarray.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square",
+   "Square Enix"
+  ],
+  "publisher": [
+   "Nintendo",
+   "Playtronic",
+   "Hyundai"
+  ],
+  "igdbVideo": "F_yaNcmZM04",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario RPG: Legend of the seven stars",
+  "platform": "SNES",
+  "video": "F_yaNcmZM04",
+  "start": 0,
+  "release": "1996-05-13",
+  "precision": "day",
+  "id": "snes-super-mario-rpg-legend-of-the-seven-stars",
+  "cover": "covers/co5r6p.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mortal Kombat",
+  "igdbId": 242151,
+  "igdbUrl": "https://www.igdb.com/games/mortal-kombat--5",
+  "igdbRelease": "1993-09-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co69x7.jpg",
+  "summary": "The SNES version of Mortal Kombat was censored due to Nintendo's policies on violence, removing a lot of what the game was known for in the Arcades and other ports (such as the Genesis version).",
+  "genres": [
+   "Fighting"
+  ],
+  "developer": [
+   "Midway"
+  ],
+  "publisher": [
+   "Acclaim Japan",
+   "Acclaim Entertainment",
+   "Playtronic"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mortal Kombat",
+  "platform": "SNES",
+  "video": "hKLSzTTW-I0",
+  "start": 84,
+  "release": "1993-09-09",
+  "precision": "day",
+  "id": "snes-mortal-kombat",
+  "cover": "covers/co69x7.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mortal Kombat II",
+  "igdbId": 1619,
+  "igdbUrl": "https://www.igdb.com/games/mortal-kombat-ii",
+  "igdbRelease": "1994-12-31",
+  "igdbPrecision": "year",
+  "igdbCover": "covers/co6bxu.jpg",
+  "summary": "Mortal Kombat II is a fighting game originally developed by Midway for arcades in 1993. It serves as the second main installment in the Mortal Kombat franchise and follows the success of its predecessor by enhancing the gameplay and further developing the original game's mythos. Mortal Kombat II introduces more varied finishing moves and several iconic characters, such as Kitana, Mileena, Kung Lao, the hidden character Noob Saibot, and the series' recurring villain, Shao Kahn.",
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ],
+  "developer": [
+   "Midway"
+  ],
+  "publisher": [
+   "Midway",
+   "Tec Toy",
+   "Acclaim Entertainment",
+   "Playtronic"
+  ],
+  "igdbVideo": "oYoU61lJ35s",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mortal Kombat II",
+  "platform": "SNES",
+  "video": "oYoU61lJ35s",
+  "start": 0,
+  "release": "1994-12-31",
+  "precision": "year",
+  "id": "snes-mortal-kombat-ii",
+  "cover": "covers/co6bxu.jpg",
+  "clip": null
+ },
+ {
+  "name": "Secret of Evermore",
+  "igdbId": 1359,
+  "igdbUrl": "https://www.igdb.com/games/secret-of-evermore",
+  "igdbRelease": "1995-10-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co8kz6.jpg",
+  "summary": "Secret of Evermore is another famous RPG developed and released by Square in 1995. A day at the movies for a young boy & his dog turns into an adventure that spans across several different time periods and locations, on their journey they discover the Secret of Evermore and find their way home. Produced by the North American branch of Square, Evermore's soundtrack would be the first major work by Jeremy Soule, the famed Elder Scrolls composer.",
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "SquareSoft USA"
+  ],
+  "publisher": [
+   "Square"
+  ],
+  "igdbVideo": "aRfH-pmZOXA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Secret of Evermore",
+  "platform": "SNES",
+  "video": "aRfH-pmZOXA",
+  "start": 0,
+  "release": "1995-10-17",
+  "precision": "day",
+  "id": "snes-secret-of-evermore",
+  "cover": "covers/co8kz6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Jurassic Park",
+  "igdbId": 11067,
+  "igdbUrl": "https://www.igdb.com/games/jurassic-park--1",
+  "igdbRelease": "1993-10-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2znx.jpg",
+  "summary": "Jurassic Park is an action-adventure video game for the Super NES based on the movie adaptation of the book by Michael Crichton.\nIt was developed by Ocean Software and released in 1993 in North America and PAL regions, and published and released by Jaleco in 1994 for Japan. Most of the game is viewed from a top-down view. When the player enters a building, the gameplay perspective shifts to a first-person view. The game is significant for combining two different perspectives and for being an early game mastered in surround sound (Dolby Pro Logic).",
+  "genres": [
+   "Point-and-click",
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Ocean Software"
+  ],
+  "publisher": [
+   "Jaleco",
+   "Ocean Software",
+   "Playtronic"
+  ],
+  "igdbVideo": "iWePCTDfsFs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Jurassic Park",
+  "platform": "SNES",
+  "video": "iWePCTDfsFs",
+  "start": 0,
+  "release": "1993-10-01",
+  "precision": "day",
+  "id": "snes-jurassic-park",
+  "cover": "covers/co2znx.jpg",
+  "clip": null
+ },
+ {
+  "name": "Soul Blazer",
+  "igdbId": 11616,
+  "igdbUrl": "https://www.igdb.com/games/soul-blazer",
+  "igdbRelease": "1992-11-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co8kzd.jpg",
+  "summary": "Soul Blazer, known in Japan as Soul Blader, is a Super Nintendo Entertainment System action role-playing game developed by Quintet and published by Enix (now Square Enix). Soul Blazer was released on January 31, 1992 in Japan, on November 27, 1992 in North America, and on January 27, 1994 in Europe. Similar to the company's previous game ActRaiser, the player takes the role of a divine angel, deity or lesser-deity, or avatar, sent by a divinity, called The Master, to destroy monsters and release the captured souls of a world's inhabitants. Soul Blazer was scored by Yukihide Takekawa.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Quintet"
+  ],
+  "publisher": [
+   "St. GIGA",
+   "Enix"
+  ],
+  "igdbVideo": "Ljyd3o7ceUc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Soul Blazer",
+  "platform": "SNES",
+  "video": "Ljyd3o7ceUc",
+  "start": 0,
+  "release": "1992-11-27",
+  "precision": "day",
+  "id": "snes-soul-blazer",
+  "cover": "covers/co8kzd.jpg",
+  "clip": null
+ },
+ {
+  "name": "Street Fighter II",
+  "igdbId": 321621,
+  "igdbUrl": "https://www.igdb.com/games/street-fighter-ii--11",
+  "igdbRelease": "1992-07-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co960a.jpg",
+  "summary": "Street Fighter II for the Super Nintendo Entertainment System is a home console port of Capcom’s arcade fighting game. It retains the one-on-one fighting structure, eight playable World Warriors, four boss opponents, and special-move system from the arcade version.\n\nThe port adapts the arcade game for the SNES/Super Famicom hardware, with reduced animation, altered audio, and some presentation changes. Unlike most earlier home computer conversions, it is a relatively close version of the arcade game, using the console’s six-button controller layout to reproduce the original punch and kick controls more directly.",
+  "genres": [
+   "Fighting",
+   "Arcade"
+  ],
+  "developer": [
+   "Capcom"
+  ],
+  "publisher": [
+   "Capcom"
+  ],
+  "igdbVideo": "LJWhWmYTVtw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Street Fighter II",
+  "platform": "SNES",
+  "video": "LJWhWmYTVtw",
+  "start": 0,
+  "release": "1992-07-15",
+  "precision": "day",
+  "id": "snes-street-fighter-ii",
+  "cover": "covers/co960a.jpg",
+  "clip": null
+ },
+ {
+  "name": "Chrono Trigger+",
+  "igdbId": 219077,
+  "igdbUrl": "https://www.igdb.com/games/chrono-trigger-plus",
+  "igdbRelease": "2022-04-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobxzx.jpg",
+  "summary": "This hack adds a ton of cut content back into the game, allows access to previously unexplorable areas, fixes some bugs and offers some options to remove the linearity from the game. Full list of changes in the readme.\n\nIn addition 1999 is fully explorable and offers tons of stuff to do. As well as more Easter eggs and quality of life improvements.\n\nMore stuff carries over like names money, fair prizes and cats.",
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "ThegreatBen"
+  ],
+  "publisher": [
+   "ThegreatBen"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Chrono trigger",
+  "platform": "SNES",
+  "video": "J7hzHlIsjwY",
+  "start": 35,
+  "release": "1995-03-01",
+  "precision": "month",
+  "id": "snes-chrono-trigger",
+  "cover": "covers/cobxzx.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: A Link to the Past",
+  "igdbId": 1026,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-a-link-to-the-past",
+  "igdbRelease": "1992-04-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3vzn.jpg",
+  "summary": "Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule.\n\nIn your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "St. GIGA",
+   "Nintendo",
+   "Playtronic",
+   "Gradiente",
+   "Hyundai"
+  ],
+  "igdbVideo": "OLSQ8K1jSWw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: A link to the past",
+  "platform": "SNES",
+  "video": "OLSQ8K1jSWw",
+  "start": 0,
+  "release": "1992-04-13",
+  "precision": "day",
+  "id": "snes-the-legend-of-zelda-a-link-to-the-past",
+  "cover": "covers/co3vzn.jpg",
+  "clip": null
  }
 ];
