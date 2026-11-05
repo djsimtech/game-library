@@ -2344,6 +2344,268 @@ window.GAMES = [
   "clip": null
  },
  {
+  "name": "SSX 3",
+  "igdbId": 4174,
+  "igdbUrl": "https://www.igdb.com/games/ssx-3",
+  "igdbRelease": "2003-10-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1o4m.jpg",
+  "summary": "Players can discover the open mountain in the newest version of the smash-hit SSX snowboarding franchise.\n\nSSX 3 allows gamers to go anywhere gravity will take them. Players will discover a colossal mountain where they can immerse themselves in a free-roaming snow paradise. The ultimate all-mountain experience, SSX 3 features all-new events and courses, awe-inspiring tricks and a cast of cool, customisable characters. Discover the open terrain, explore its hidden crevices, and conquer its peaks.\n\nProduced under the EA SPORTS BIG brand, the SSX 3 development team at EA Canada is adding technologies that bring to life rich natural graphics such as snow that sparkles and blows in the wind and realistic character shadowing. A new gameplay experience allows users to seamlessly ride from one awesome area to the next- entering competitions, taking on Big Challenges and discovering hidden collectibles. SSX 3 has blown out the trick component with unlimited combos and new, over-the-top tricks.\n\nIn addition to the new boarding venues, Big Challenges rewards players for completing any of the more than 100 unique challenges as they explore the mountain's vast world. Grind billboards, board press logs, even hand plant the fence line.\n\nThe musical soundtrack features a broad range of music from artists including the X-Ecutioners, Felix Da Housecat, Queens of the Stone Age, N.E.R.D., and many more.",
+  "genres": [
+   "Racing",
+   "Sport"
+  ],
+  "developer": [
+   "EA Canada"
+  ],
+  "publisher": [
+   "Electronic Arts",
+   "EA Sports BIG"
+  ],
+  "igdbVideo": "sMiq5Wi2dxs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "SSX 3",
+  "platform": "Xbox",
+  "video": "sMiq5Wi2dxs",
+  "start": 0,
+  "release": "2003-10-20",
+  "precision": "day",
+  "id": "xbox-ssx-3",
+  "cover": "covers/co1o4m.jpg",
+  "clip": null
+ },
+ {
+  "name": "Midway Arcade Treasures",
+  "igdbId": 4007,
+  "igdbUrl": "https://www.igdb.com/games/midway-arcade-treasures",
+  "igdbRelease": "2003-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co9ech.jpg",
+  "summary": "Midway Arcade Treasures is a collection of 24 arcade games developed by Digital Eclipse and released by Midway for the GameCube, PlayStation 2, Xbox and PC.\n\nMidway followed up the Arcade Treasures with successive compilations featuring different games: Midway Arcade Treasures 2, Midway Arcade Treasures 3, the portable Midway Arcade Treasures: Extended Play and the Windows-exclusive Midway Arcade Treasures Deluxe Edition.\n\nAfter Midway's bankruptcy, Warner Bros. owns the rights and released another arcade compilation called Midway Arcade Origins for the PlayStation 3 and Xbox 360 which includes 29 select games from Volumes 1 and 2 plus Super Off Road from Volume 3. It also contains Vindicators Part II which replaced the original Vindicators from Midway Arcade Treasures.",
+  "genres": [
+   "Fighting",
+   "Shooter",
+   "Platform",
+   "Racing",
+   "Sport",
+   "Hack and slash/Beat 'em up",
+   "Adventure",
+   "Arcade"
+  ],
+  "developer": [
+   "Backbone Entertainment",
+   "Digital Eclipse"
+  ],
+  "publisher": [
+   "Zoo Digital",
+   "Midway"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Midway Arcade Treasures",
+  "platform": "Xbox",
+  "video": "z7RE3o96F5Y",
+  "start": 132,
+  "release": "2003-11-18",
+  "precision": "day",
+  "id": "xbox-midway-arcade-treasures",
+  "cover": "covers/co9ech.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fable: The Lost Chapters",
+  "igdbId": 694,
+  "igdbUrl": "https://www.igdb.com/games/fable-the-lost-chapters",
+  "igdbRelease": "2005-10-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co24mu.jpg",
+  "summary": "Fable was expanded and rereleased as Fable: The Lost Chapters for Xbox and Windows PC platforms in September 2005. The game was later ported to Mac OS X by Robosoft Technologies and published by Feral Interactive on 31 March 2008.\nThe Lost Chapters features all the content found in the original Fable, as well as additional new content such as new monsters, weapons, alignment based spells, items, armour, towns, buildings, and expressions, as well as the ability to give children objects. The story receives further augmentation in the form of nine new areas and sixteen additional quests. Characters such as Briar Rose and Scythe, who played only minor roles in the original game, are now given more importance and are included in certain main and side quests. Other character-based augmentations include the voice of the antagonist, Jack of Blades, sounding deeper, harsher and more demonic, and the ability to uncover (and resolve) the murder mystery of Lady Grey's sister. The updated edition of the game also applied fixes for certain glitches, such as the \"dig glitch,\" in which the protagonist would move backward each time he used the shovel, pushing him through solid objects and sometimes trapping him.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Big Blue Box",
+   "Lionhead Studios"
+  ],
+  "publisher": [
+   "Microsoft Game Studios",
+   "Feral Interactive"
+  ],
+  "igdbVideo": "iz7fNCqXn-E",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fable: The Lost Chapters",
+  "platform": "Xbox",
+  "video": "iz7fNCqXn-E",
+  "start": 0,
+  "release": "2005-10-18",
+  "precision": "day",
+  "id": "xbox-fable-the-lost-chapters",
+  "cover": "covers/co24mu.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fable",
+  "igdbId": 521,
+  "igdbUrl": "https://www.igdb.com/games/fable",
+  "igdbRelease": "2004-09-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2q4c.jpg",
+  "summary": "In Fable, the players' every action determines their character's skills, appearances and moralities. Life stories are created from childhood through adulthood and on to old age. Players may choose the paths of righteousness or dedicate their characters' lives to evil; observing as they transform into reflections of their actions and decisions. As players' characters develop, the world reacts to them and their actions. People comment on their successes, failures, appearances and behaviors. Their many opinions are expressed through applause, mockery, trepidation, panic and even flirtation. With each person characters aid and every creature they slay, the world is changed forever. In Fable, gamers decide: \"Who will I be?\"",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Big Blue Box"
+  ],
+  "publisher": [
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "CD0UqWyZGlc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fable",
+  "platform": "Xbox",
+  "video": "CD0UqWyZGlc",
+  "start": 0,
+  "release": "2004-09-14",
+  "precision": "day",
+  "id": "xbox-fable",
+  "cover": "covers/co2q4c.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Elder Scrolls III: Morrowind",
+  "igdbId": 56,
+  "igdbUrl": "https://www.igdb.com/games/the-elder-scrolls-iii-morrowind",
+  "igdbRelease": "2002-06-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2knd.jpg",
+  "summary": "The Elder Scrolls III: Morrowind is an open-world first-person role-playing game and the third main entry in The Elder Scrolls series. Set on the island of Vvardenfell in the province of Morrowind, the player arrives as a released prisoner and becomes involved in the political and religious conflicts of the Dunmer people. Gameplay combines freeform exploration, real-time combat, and character customization across a vast landscape of ashlands, swamps, and volcanic terrain, with a main quest centered on an ancient prophecy.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": [
+   "ZeniMax Media",
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "HQSsbS-Z4JQ",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Elder Scrolls III: Morrowind",
+  "platform": "Xbox",
+  "video": "HQSsbS-Z4JQ",
+  "start": 0,
+  "release": "2002-06-06",
+  "precision": "day",
+  "id": "xbox-the-elder-scrolls-iii-morrowind",
+  "cover": "covers/co2knd.jpg",
+  "clip": null
+ },
+ {
+  "name": "Star Wars: The Clone Wars",
+  "igdbId": 3760,
+  "igdbUrl": "https://www.igdb.com/games/star-wars-the-clone-wars",
+  "igdbRelease": "2003-04-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1p1l.jpg",
+  "summary": "The Clone Wars has you deep inside the battles of the Old Republic through 16 missions, piloting a range of vehicles including speeder bikes, Republic Gunships and fighter tanks as well as the weapon of the Jedi, your lightsabre, for close combat. Whereas the Rogue Squadron series concentrated on aerial battles, The Clone Wars contains almost all ground battles. You must fight as Anakin Skywalker, Obi Wan Kenobi, Mace Windu, and others throughout the game to prevent the Confederacy from gaining a deadly weapon. Multiplayer options are also included for up to four players with game types including deathmatch, conquest, and a co-op ground and vehicle survival mode.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Pandemic Studios"
+  ],
+  "publisher": [
+   "LucasArts"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Star Wars: The Clone Wars",
+  "platform": "Xbox",
+  "video": "PfoTtnGojI0",
+  "start": 205,
+  "release": "2003-04-22",
+  "precision": "day",
+  "id": "xbox-star-wars-the-clone-wars",
+  "cover": "covers/co1p1l.jpg",
+  "clip": null
+ },
+ {
+  "name": "ToeJam & Earl III: Mission to Earth",
+  "igdbId": 6202,
+  "igdbUrl": "https://www.igdb.com/games/toejam-earl-iii-mission-to-earth",
+  "igdbRelease": "2002-10-23",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7u7r.jpg",
+  "summary": "The alien duo is back in an all-new adventure. In ToeJam & Earl III: Mission to Earth, ToeJam, Big Earl, and their new friend, Latisha, embark on a mission to retrieve the 12 sacred Albums of Funk, stolen by the inhabitantats of Earth. Across expansive environments, you must guide this group toward a showdown with the evil Anti-Funk. You'll collect a wide variety of power-ups, take on dangerous side quests, and double-team the clueless Earthlings in style.",
+  "genres": [
+   "Platform",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "ToeJam & Earl Productions",
+   "Visual Concepts"
+  ],
+  "publisher": [
+   "Sega",
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "2e4vIRa1K5o",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "ToeJam and Earl III",
+  "platform": "Xbox",
+  "video": "2e4vIRa1K5o",
+  "start": 0,
+  "release": "2002-10-23",
+  "precision": "day",
+  "id": "xbox-toejam-earl-iii-mission-to-earth",
+  "cover": "covers/co7u7r.jpg",
+  "clip": null
+ },
+ {
+  "name": "Conker: Live & Reloaded",
+  "igdbId": 1425,
+  "igdbUrl": "https://www.igdb.com/games/conker-live-reloaded",
+  "igdbRelease": "2005-06-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2w7f.jpg",
+  "summary": "Conker, gaming’s notoriously naughty squirrel, arrives on the Xbox with a bang in an all-new Xbox Live-enabled team-based shooter, Conker: Live and Reloaded.\n\nThe game features intense Deathmatch and Campaign story line modes via Xbox Live and System Link, and players can compete as one of six combat specialists across multi-mission campaigns covering Old War and Future War. The warfare promises to deliver the non-stop action, humor, and innuendos Conker is famous for.\n\nAlso included is the critically acclaimed single-player game, Conker’s Bad Fur Day, completely recreated for the Xbox with stunning graphics and unparalleled attitude.",
+  "genres": [
+   "Shooter",
+   "Platform"
+  ],
+  "developer": [
+   "Rare"
+  ],
+  "publisher": [
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "uK2Sj6swljI",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Conker Live and Reloaded",
+  "platform": "Xbox",
+  "video": "uK2Sj6swljI",
+  "start": 0,
+  "release": "2005-06-21",
+  "precision": "day",
+  "id": "xbox-conker-live-reloaded",
+  "cover": "covers/co2w7f.jpg",
+  "clip": null
+ },
+ {
   "name": "Alan Wake",
   "igdbId": 1062,
   "igdbUrl": "https://www.igdb.com/games/alan-wake",
@@ -3706,6 +3968,96 @@ window.GAMES = [
   "precision": "day",
   "id": "playstation-2-guitar-hero-encore-rocks-the-80s",
   "cover": "covers/co7hhv.jpg",
+  "clip": null
+ },
+ {
+  "name": "NHL 2K3",
+  "igdbId": 4045,
+  "igdbUrl": "https://www.igdb.com/games/nhl-2k3",
+  "igdbRelease": "2002-11-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2hmq.jpg",
+  "summary": "NHL 2K3 is a hockey video game developed for the GameCube, PlayStation 2, and Xbox by Treyarch and published by Sega in the United States, and Atari in Europe. It features Jeremy Roenick on the cover.\n\nNHL 2K3 utilizes ESPN's presentation and was the first hockey game developed to utilize the Xbox Live online service. The rosters are from the 2002–2003 NHL season.",
+  "genres": [
+   "Sport"
+  ],
+  "developer": [
+   "Treyarch"
+  ],
+  "publisher": [
+   "Sega",
+   "Atari Europe"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "NHL 2K3",
+  "platform": "PlayStation 2",
+  "video": "VRax24vRuOU",
+  "start": 30,
+  "release": "2002-11-10",
+  "precision": "day",
+  "id": "playstation-2-nhl-2k3",
+  "cover": "covers/co2hmq.jpg",
+  "clip": null
+ },
+ {
+  "name": "NFL Blitz 2003",
+  "igdbId": 47365,
+  "igdbUrl": "https://www.igdb.com/games/nfl-blitz-2003",
+  "igdbRelease": "2002-08-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6ue7.jpg",
+  "summary": "Football with no rules.",
+  "genres": [
+   "Sport"
+  ],
+  "developer": [],
+  "publisher": [
+   "Midway Games"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "NFL Blitz 2003",
+  "platform": "PlayStation 2",
+  "video": "Jc2A298_I2I",
+  "start": 0,
+  "release": "2002-08-12",
+  "precision": "day",
+  "id": "playstation-2-nfl-blitz-2003",
+  "cover": "covers/co6ue7.jpg",
+  "clip": null
+ },
+ {
+  "name": "NFL Street 2",
+  "igdbId": 4042,
+  "igdbUrl": "https://www.igdb.com/games/nfl-street-2",
+  "igdbRelease": "2004-12-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7l5m.jpg",
+  "summary": "NFL Street 2 is the second game in EA's arcade football series. Players try to become the world's best urban footballer by conquering other teams using several gravity-defying tricks like up-the-wall passes, off-the-wall catches, and highlight-reel wall jukes.",
+  "genres": [
+   "Sport"
+  ],
+  "developer": [
+   "EA Orlando"
+  ],
+  "publisher": [
+   "Electronic Arts",
+   "EA Sports BIG"
+  ],
+  "igdbVideo": null,
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Street 2",
+  "platform": "PlayStation 2",
+  "video": "rHoCLSfT3EU",
+  "start": 57,
+  "release": "2004-12-22",
+  "precision": "day",
+  "id": "playstation-2-nfl-street-2",
+  "cover": "covers/co7l5m.jpg",
   "clip": null
  }
 ];
