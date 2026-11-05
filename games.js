@@ -5460,5 +5460,572 @@ window.GAMES = [
   "id": "playstation-3-mass-effect-3",
   "cover": "covers/co1x7q.jpg",
   "clip": null
+ },
+ {
+  "name": "Rocksmith",
+  "igdbId": 2697,
+  "igdbUrl": "https://www.igdb.com/games/rocksmith",
+  "igdbRelease": "2011-10-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3w59.jpg",
+  "summary": "Rocksmith's innovative game design makes playing music visually intuitive and will engage experienced musicians as well as those who have never picked up a guitar in their lives.",
+  "genres": [
+   "Music",
+   "Simulator"
+  ],
+  "developer": [
+   "Ubisoft San Francisco"
+  ],
+  "publisher": [],
+  "igdbVideo": "XQ5eFOajQ3M",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Rocksmith",
+  "platform": "PlayStation 3",
+  "video": "XQ5eFOajQ3M",
+  "start": 0,
+  "release": "2011-10-18",
+  "precision": "day",
+  "id": "playstation-3-rocksmith",
+  "cover": "covers/co3w59.jpg",
+  "clip": null
+ },
+ {
+  "name": "L.A. Noire",
+  "igdbId": 109,
+  "igdbUrl": "https://www.igdb.com/games/l-a-noire",
+  "igdbRelease": "2011-05-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2ldn.jpg",
+  "summary": "L.A. Noire is a neo-noir detective action-adventure video game developed by Team Bondi and published by Rockstar Games. It was initially released for the PlayStation 3 and Xbox 360 platforms on 17 May 2011; a Microsoft Windows port was later released on 8 November 2011.\n\nL.A. Noire is set in Los Angeles in 1947 and challenges the player, controlling a Los Angeles Police Department (LAPD) officer, to solve a range of cases across five divisions. Players must investigate crime scenes for clues, follow up leads, and interrogate suspects, and the player's success at these activities will impact how much of each case's story is revealed.\n\nThe game draws heavily from both the plot and aesthetic elements of film noir—stylistic films made popular in the 1940s and 1950s that share similar visual styles and themes, including crime and moral ambiguity—along with drawing inspiration from real-life crimes for its in-game cases, based upon what was reported by the Los Angeles media in 1947.\n\nThe game uses a distinctive colour palette, but in homage to film noir it includes the option to play the game in black and white. Various plot elements reference the major themes of detective and mobster stories such as The Naked City, Chinatown, The Untouchables, The Black Dahlia, and L.A. Confidential.",
+  "genres": [
+   "Strategy",
+   "Adventure"
+  ],
+  "developer": [
+   "Team Bondi",
+   "Rockstar Leeds",
+   "Rockstar North"
+  ],
+  "publisher": [
+   "Take-Two Interactive",
+   "Rockstar Games"
+  ],
+  "igdbVideo": "jeYym1U226M",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "L.A. Noire",
+  "platform": "PlayStation 3",
+  "video": "jeYym1U226M",
+  "start": 0,
+  "release": "2011-05-17",
+  "precision": "day",
+  "id": "playstation-3-l-a-noire",
+  "cover": "covers/co2ldn.jpg",
+  "clip": null
+ },
+ {
+  "name": "Ni no Kuni II: Revenant Kingdom",
+  "igdbId": 14748,
+  "igdbUrl": "https://www.igdb.com/games/ni-no-kuni-ii-revenant-kingdom--1",
+  "igdbRelease": "2018-03-23",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co25ub.jpg",
+  "summary": "The sequel to Ni no Kuni being developed for Windows and PlayStation 4.\nPlayers control Evan Pettiwhisker Tildrum, a young king who was usurped from his castle and sets out to reclaim his kingdom. While players can freely navigate Evan throughout the game's open world, other characters can be controlled during battles against enemies. During these battles, players use magical abilities and elemental creatures known as \"Higgledies\", which are used to cast spells.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "LEVEL-5"
+  ],
+  "publisher": [
+   "Bandai Namco Entertainment"
+  ],
+  "igdbVideo": "EqnoE3S5H1U",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Ni No Kuni II Revenant Kingdom",
+  "platform": "PlayStation 4",
+  "video": "EqnoE3S5H1U",
+  "start": 0,
+  "release": "2018-03-23",
+  "precision": "day",
+  "id": "playstation-4-ni-no-kuni-ii-revenant-kingdom",
+  "cover": "covers/co25ub.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy XV",
+  "igdbId": 359,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-xv",
+  "igdbRelease": "2016-11-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6nz1.jpg",
+  "summary": "Play as Noctis, the Crown Prince of the Kingdom of Lucis, as you seek to reclaim your homeland from the imperial army. With your closest friends along for the ride, you’ll travel through the breath-taking world of Eos, encountering larger-than-life beasts and unforgiving enemies. Face thrilling combat as you learn to master your weaponry and magic skills by channeling the power of your ancestors.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Luminous Productions",
+   "Square Enix Business Division 2"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "q5S6PKUjxBI",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy XV",
+  "platform": "PlayStation 4",
+  "video": "q5S6PKUjxBI",
+  "start": 0,
+  "release": "2016-11-29",
+  "precision": "day",
+  "id": "playstation-4-final-fantasy-xv",
+  "cover": "covers/co6nz1.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy VII Remake",
+  "igdbId": 11169,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-vii-remake",
+  "igdbRelease": "2020-04-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobcwt.jpg",
+  "summary": "A modern reimagining of one of the most iconic games of all time, Final Fantasy VII Remake harnesses the very latest technology to recreate and expand Square Enix's legendary RPG adventure for the current generation. Set in a post-industrial fantasy world that has fallen under the control of the shadowy Shinra Electric Power Company, take on the role of Cloud Strife - a mercenary and former member of Shinra's elite Soldier unit - and team up with anti-Shinra organization Avalanche as they step-up their resistance.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Enix Creative Business Unit I"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "QLYyWAqTTAo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy VII Remake",
+  "platform": "PlayStation 4",
+  "video": "QLYyWAqTTAo",
+  "start": 0,
+  "release": "2020-04-10",
+  "precision": "day",
+  "id": "playstation-4-final-fantasy-vii-remake",
+  "cover": "covers/cobcwt.jpg",
+  "clip": null
+ },
+ {
+  "name": "Bloodborne",
+  "igdbId": 7334,
+  "igdbUrl": "https://www.igdb.com/games/bloodborne",
+  "igdbRelease": "2015-03-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob99l.jpg",
+  "summary": "An action RPG in which the player embodies a Hunter who, after being transfused with the mysterious blood local to the city of Yharnam, sets off into a \"night of the Hunt\", an extended night in which Hunters may phase in and out of dream and reality in order to thin the outbreak of abominable beasts that plague the land and, for the more resilient and insightful Hunters, uncover the answers to the Hunt's many mysteries.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "FromSoftware",
+   "Japan Studio"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "2UJxaWZoK6Y",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Bloodborne",
+  "platform": "PlayStation 4",
+  "video": "2UJxaWZoK6Y",
+  "start": 0,
+  "release": "2015-03-24",
+  "precision": "day",
+  "id": "playstation-4-bloodborne",
+  "cover": "covers/cob99l.jpg",
+  "clip": null
+ },
+ {
+  "name": "Cyberpunk 2077",
+  "igdbId": 1877,
+  "igdbUrl": "https://www.igdb.com/games/cyberpunk-2077",
+  "igdbRelease": "2020-12-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coaih8.jpg",
+  "summary": "Cyberpunk 2077 is an open-world action-adventure game set in Night City, a sprawling metropolis driven by power, glamour, and body modification. Players assume the role of V, a mercenary outlaw in pursuit of a unique implant that holds the key to immortality. The game allows extensive customization of cyberware, skills, and playstyle. Choices made throughout the journey influence both the narrative and the world.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "CD Projekt RED"
+  ],
+  "publisher": [
+   "CD Projekt"
+  ],
+  "igdbVideo": "vjF9GgrY9c0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Cyberpunk 2077",
+  "platform": "PlayStation 4",
+  "video": "vjF9GgrY9c0",
+  "start": 0,
+  "release": "2020-12-10",
+  "precision": "day",
+  "id": "playstation-4-cyberpunk-2077",
+  "cover": "covers/coaih8.jpg",
+  "clip": null
+ },
+ {
+  "name": "Uncharted 4: A Thief's End",
+  "igdbId": 7331,
+  "igdbUrl": "https://www.igdb.com/games/uncharted-4-a-thief-s-end",
+  "igdbRelease": "2016-05-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1r7h.jpg",
+  "summary": "Several years after his last adventure, retired fortune hunter, Nathan Drake, is forced back into the world of thieves. With the stakes much more personal, Drake embarks on a globe-trotting journey in pursuit of a historical conspiracy behind a fabled pirate treasure. His greatest adventure will test his physical limits, his resolve, and ultimately what he's willing to sacrifice to save the ones he loves.",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Naughty Dog"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "BcpbnNYh4Fg",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Uncharted 4",
+  "platform": "PlayStation 4",
+  "video": "BcpbnNYh4Fg",
+  "start": 0,
+  "release": "2016-05-10",
+  "precision": "day",
+  "id": "playstation-4-uncharted-4-a-thief-s-end",
+  "cover": "covers/co1r7h.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero Live",
+  "igdbId": 9741,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-live",
+  "igdbRelease": "2015-10-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wpe.jpg",
+  "summary": "Guitar Hero Live is a music game that served as a reboot of the Guitar Hero franchise, being the first new entry in the series since Warriors of Rock in 2010. Guitar Hero Live introduced major changes to the core gameplay and experience of the Guitar Hero franchise, including a revamped guitar controller with a new, 6-button layout, a new in-game presentation style that utilizes full motion video, simulating a real-world concert setting from the perspective of the guitarist, and a new Guitar Hero TV mode to encompass multiplayer and curated playlists in the style of television music channels.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "FreeStyleGames"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "B2KnvCuOIqg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero Live",
+  "platform": "PlayStation 4",
+  "video": "B2KnvCuOIqg",
+  "start": 0,
+  "release": "2015-10-20",
+  "precision": "day",
+  "id": "playstation-4-guitar-hero-live",
+  "cover": "covers/co1wpe.jpg",
+  "clip": null
+ },
+ {
+  "name": "Watch Dogs",
+  "igdbId": 1121,
+  "igdbUrl": "https://www.igdb.com/games/watch-dogs",
+  "igdbRelease": "2014-05-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2p5w.jpg",
+  "summary": "Set in Chicago, where a central network of computers connects everyone and everything, Watch Dogs explores the impact of technology within our society. Using the city as your weapon, you will embark on a personal mission to inflict your own brand of justice. Chicago's overarching network is known as the Central Operating System (ctOS), and it controls almost all of the city's technology and information - including key data on all of the city's residents.",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "kPYgXvgS6Ww",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Watch Dogs",
+  "platform": "PlayStation 4",
+  "video": "kPYgXvgS6Ww",
+  "start": 0,
+  "release": "2014-05-27",
+  "precision": "day",
+  "id": "playstation-4-watch-dogs",
+  "cover": "covers/co2p5w.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fallout 76",
+  "igdbId": 103020,
+  "igdbUrl": "https://www.igdb.com/games/fallout-76",
+  "igdbRelease": "2018-11-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1yc4.jpg",
+  "summary": "Fallout 76 is an online action role-playing game and the first multiplayer entry in the Fallout series. Set in 2102 in Appalachia, West Virginia, players control a resident of Vault 76 who ventures into the open world 25 years after a nuclear war. The game features exploration, questing, base building, and combat against mutated creatures and hostile factions. It can be played solo or cooperatively, with players sharing servers and engaging in trade or PvP combat.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": [
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "Iw_rcuuZ3I8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fallout 76",
+  "platform": "PlayStation 4",
+  "video": "Iw_rcuuZ3I8",
+  "start": 0,
+  "release": "2018-11-14",
+  "precision": "day",
+  "id": "playstation-4-fallout-76",
+  "cover": "covers/co1yc4.jpg",
+  "clip": null
+ },
+ {
+  "name": "Assassin's Creed Origins",
+  "igdbId": 28540,
+  "igdbUrl": "https://www.igdb.com/games/assassins-creed-origins",
+  "igdbRelease": "2017-10-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1rbe.jpg",
+  "summary": "Assassin’s Creed Origins is an action-adventure game set in ancient Egypt at the end of the Ptolemaic era. The story follows Bayek, a Medjay tasked with protecting the people, as personal tragedy draws him into a wider conflict that leads to the origins of the Assassin Brotherhood.\n\nThe game features a large open-world recreation of Egypt, including cities, deserts, and the Nile, with an increased emphasis on exploration. Gameplay combines stealth, melee and ranged combat, and role-playing elements such as character leveling, skill trees, and gear progression.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "L3wlPbf6JKQ",
+  "score": 0.98,
+  "igdbOverride": null,
+  "sheetTitle": "Assassins Creed Origins",
+  "platform": "PlayStation 4",
+  "video": "L3wlPbf6JKQ",
+  "start": 0,
+  "release": "2017-10-27",
+  "precision": "day",
+  "id": "playstation-4-assassin-s-creed-origins",
+  "cover": "covers/co1rbe.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fallout 4",
+  "igdbId": 9630,
+  "igdbUrl": "https://www.igdb.com/games/fallout-4",
+  "igdbRelease": "2015-11-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1yc6.jpg",
+  "summary": "Bethesda Game Studios welcome you to the world of Fallout 4, their most ambitious game ever, and the next generation of open-world gaming. As the sole survivor of Vault 111, you enter a world destroyed by nuclear war. Every second is a fight for survival, and every choice is yours. Only you can rebuild and determine the fate of the Wasteland. Welcome home.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": [
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "qeu4fFyRXLA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fallout 4",
+  "platform": "PlayStation 4",
+  "video": "qeu4fFyRXLA",
+  "start": 0,
+  "release": "2015-11-10",
+  "precision": "day",
+  "id": "playstation-4-fallout-4",
+  "cover": "covers/co1yc6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Destiny",
+  "igdbId": 1939,
+  "igdbUrl": "https://www.igdb.com/games/destiny",
+  "igdbRelease": "2014-09-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1rco.jpg",
+  "summary": "Bungie has emphasized that the universe of Destiny will be \"alive\". Events may happen in-game that are not necessarily controlled or planned by the developer, which will help to create a dynamic developing experience for Bungie and a dynamic playing experience for gamers. The game's style has been described a first-person shooter that will incorporate massively multiplayer online game (MMO) elements, but Bungie has avoided defining Destiny as a traditional MMO game. Instead, the game has been referred to as a \"shared-world shooter,\" as it lacks many of the characteristics of a traditional MMO game. For instance, rather than players being able to see and interact with all other players in the game or on a particular server—as is the case in many conventional MMO games—Destiny will include on-the-fly matchmaking that will allow players to see and interact only with other players with whom they are \"matched\" by the game.\nDestiny will incorporate a new game engine that allows global illuminations and real-time dynamic lighting to occur together. An innovation in Bungie's \"hopper\" technology, which has been the backbone for Halo's matchmaking system, will allow better player matchmaking in order to create a more natural experience in either cooperative or competitive multiplayer modes.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Bungie"
+  ],
+  "publisher": [
+   "Activision",
+   "ND Games"
+  ],
+  "igdbVideo": "j6YHtaccWlg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Destiny",
+  "platform": "PlayStation 4",
+  "video": "j6YHtaccWlg",
+  "start": 0,
+  "release": "2014-09-09",
+  "precision": "day",
+  "id": "playstation-4-destiny",
+  "cover": "covers/co1rco.jpg",
+  "clip": null
+ },
+ {
+  "name": "Red Dead Redemption 2",
+  "igdbId": 25076,
+  "igdbUrl": "https://www.igdb.com/games/red-dead-redemption-2",
+  "igdbRelease": "2018-10-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1q1f.jpg",
+  "summary": "Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Rockstar Games"
+  ],
+  "publisher": [
+   "Take-Two Interactive",
+   "Rockstar Games"
+  ],
+  "igdbVideo": "94B-38sX5fs",
+  "score": 0.93,
+  "igdbOverride": null,
+  "sheetTitle": "Red Dead Redemption II",
+  "platform": "PlayStation 4",
+  "video": "94B-38sX5fs",
+  "start": 0,
+  "release": "2018-10-26",
+  "precision": "day",
+  "id": "playstation-4-red-dead-redemption-2",
+  "cover": "covers/co1q1f.jpg",
+  "clip": null
+ },
+ {
+  "name": "Horizon Zero Dawn",
+  "igdbId": 11156,
+  "igdbUrl": "https://www.igdb.com/games/horizon-zero-dawn",
+  "igdbRelease": "2017-02-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2una.jpg",
+  "summary": "Welcome to a vibrant world rich with the beauty of nature – but inhabited by awe-inspiring, highly advanced machines. As a young machine hunter named Aloy, you must unravel the mysteries of this world and find your own destiny.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Guerrilla Games"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "J4WTJOE2ty8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Horizon Zero Dawn",
+  "platform": "PlayStation 4",
+  "video": "J4WTJOE2ty8",
+  "start": 0,
+  "release": "2017-02-28",
+  "precision": "day",
+  "id": "playstation-4-horizon-zero-dawn",
+  "cover": "covers/co2una.jpg",
+  "clip": null
+ },
+ {
+  "name": "Marvel's Spider-Man",
+  "igdbId": 19565,
+  "igdbUrl": "https://www.igdb.com/games/marvels-spider-man",
+  "igdbRelease": "2018-09-07",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1r77.jpg",
+  "summary": "Starring the world’s most iconic Super Hero, Spider-Man features the acrobatic abilities, improvisation and web-slinging that the wall-crawler is famous for, while also introducing elements never-before-seen in a Spider-Man game. From traversing with parkour and utilizing the environment, to new combat and blockbuster set pieces, it’s Spider-Man unlike any you’ve played before.",
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Insomniac Games"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "2y3CGcyF7W4",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Spider-Man",
+  "platform": "PlayStation 4",
+  "video": "2y3CGcyF7W4",
+  "start": 0,
+  "release": "2018-09-07",
+  "precision": "day",
+  "id": "playstation-4-marvel-s-spider-man",
+  "cover": "covers/co1r77.jpg",
+  "clip": null
+ },
+ {
+  "name": "Elden Ring",
+  "igdbId": 119133,
+  "igdbUrl": "https://www.igdb.com/games/elden-ring",
+  "igdbRelease": "2022-02-25",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4jni.jpg",
+  "summary": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord.\n\nThe game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "FromSoftware"
+  ],
+  "publisher": [
+   "Bandai Namco Entertainment",
+   "FromSoftware"
+  ],
+  "igdbVideo": "E3Huy2cdih0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Elden Ring",
+  "platform": "PlayStation 4",
+  "video": "E3Huy2cdih0",
+  "start": 0,
+  "release": "2022-02-25",
+  "precision": "day",
+  "id": "playstation-4-elden-ring",
+  "cover": "covers/co4jni.jpg",
+  "clip": null
  }
 ];
