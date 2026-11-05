@@ -2790,5 +2790,257 @@ window.GAMES = [
   "id": "xbox-360-dance-central",
   "cover": "covers/co1ws7.jpg",
   "clip": null
+ },
+ {
+  "name": "Forza Motorsport 5",
+  "igdbId": 2131,
+  "igdbUrl": "https://www.igdb.com/games/forza-motorsport-5",
+  "igdbRelease": "2013-11-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2q6o.jpg",
+  "summary": "Forza Motorsport 5 is a cinematic automotive journey starring the world’s greatest cars and tracks. Built from the ground up to take advantage of Xbox One and the vast power of the cloud, no game better delivers the wide-eyed thrill of racing.",
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "developer": [
+   "Turn 10 Studios"
+  ],
+  "publisher": [
+   "Microsoft Studios"
+  ],
+  "igdbVideo": "Gc0ysDsbxqY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Forza Motorsport 5",
+  "platform": "Xbox One",
+  "video": "Gc0ysDsbxqY",
+  "start": 0,
+  "release": "2013-11-22",
+  "precision": "day",
+  "id": "xbox-one-forza-motorsport-5",
+  "cover": "covers/co2q6o.jpg",
+  "clip": null
+ },
+ {
+  "name": "Star Wars: Rogue Squadron II - Rogue Leader",
+  "igdbId": 4181,
+  "igdbUrl": "https://www.igdb.com/games/star-wars-rogue-squadron-ii-rogue-leader",
+  "igdbRelease": "2001-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co9v76.jpg",
+  "summary": "In Star Wars Rogue Squadron II: Rogue Leader you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire.\n\nAs in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience.\n\nAerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Factor 5",
+   "LucasArts"
+  ],
+  "publisher": [
+   "Activision",
+   "LucasArts"
+  ],
+  "igdbVideo": "LcqT8g7CBX8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Star Wars: Rogue Squadron II - Rogue Leader",
+  "platform": "GameCube",
+  "video": "LcqT8g7CBX8",
+  "start": 0,
+  "release": "2001-11-18",
+  "precision": "day",
+  "id": "gamecube-star-wars-rogue-squadron-ii-rogue-leader",
+  "cover": "covers/co9v76.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario Kart: Double Dash!!",
+  "igdbId": 2344,
+  "igdbUrl": "https://www.igdb.com/games/mario-kart-double-dash",
+  "igdbRelease": "2003-11-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7ndu.jpg",
+  "summary": "The Mushroom Kingdom just got a whole lot more hectic as Mario and friends double up for furious kart racing. This time around, each kart holds two racers that can switch places at any time, so choose from a huge cast of favorites and pair them up any way you see fit. The character in front handles the driving duties, while the character in the rear doles out damage with six normal items and eight special items that only specific characters can use. Get ready for some intense multiplayer mayhem with your favorite characters, including Mario, Luigi, Donkey Kong, Peach, Bowser, and Koopa.",
+  "genres": [
+   "Racing",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "3krr7HqO0-E",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario Kart Double Dash",
+  "platform": "GameCube",
+  "video": "3krr7HqO0-E",
+  "start": 0,
+  "release": "2003-11-17",
+  "precision": "day",
+  "id": "gamecube-mario-kart-double-dash",
+  "cover": "covers/co7ndu.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Ocarina of Time - Master Quest",
+  "igdbId": 45142,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-ocarina-of-time-master-quest",
+  "igdbRelease": "2003-02-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5zdv.jpg",
+  "summary": "The Legend of Zelda: Ocarina of Time - Master Quest is a reworked version of the original Ocarina of Time for the Nintendo 64. Master Quest contains largely the same content as the original game but with more redesigned and difficult dungeons. Master Quest was available on a special bonus disc that also contained the original Ocarina of Time, it was given out in limited quantities with preorders of The Wind Waker. It was previously developed to be released as an expansion to the original game via the Nintendo 64DD, but that version was cancelled due to the lackluster sales of the hardware.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": null,
+  "score": 0.96,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda Ocarina of Time and Master Quest",
+  "platform": "GameCube",
+  "video": "Q0p_KQ51hAQ",
+  "start": 0,
+  "release": "2003-02-17",
+  "precision": "day",
+  "id": "gamecube-the-legend-of-zelda-ocarina-of-time-master-quest",
+  "cover": "covers/co5zdv.jpg",
+  "clip": null
+ },
+ {
+  "name": "Bomberman Generation",
+  "igdbId": 3832,
+  "igdbUrl": "https://www.igdb.com/games/bomberman-generation",
+  "igdbRelease": "2002-06-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2w96.jpg",
+  "summary": "Bomberman returns with a new cel-shaded 3D look. The same storyline applies, however. Bomberman has been given the task of taking back a powerful element of magic, and protecting it from the hands of evil. To do so, he must use his bombing abilites to blast his way through mazes filled with crazy enemies and hidden secrets. There are 5 worlds in all, each with 16 levels to complete. And after completing cetain objectives and picking up items, Bomberman will learn new techniques and abilities to improve his range with his bombs or use new weapons.\n\nAlso included is a 4 player classic bomberman multi-player modes. Unlike the adventure mode, all of the multi-player modes are set in the original 2D, top down style perspective. The last man standing wins in most rounds, with the added twist of other enemies on screen and timed battles.",
+  "genres": [
+   "Adventure"
+  ],
+  "developer": [
+   "Game Arts"
+  ],
+  "publisher": [
+   "Vivendi Universal",
+   "Majesco Entertainment",
+   "Hudson Soft"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Bomberman Generation",
+  "platform": "GameCube",
+  "video": "amhPr10Bykg",
+  "start": 339,
+  "release": "2002-06-05",
+  "precision": "day",
+  "id": "gamecube-bomberman-generation",
+  "cover": "covers/co2w96.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metroid Prime 2: Echoes",
+  "igdbId": 1108,
+  "igdbUrl": "https://www.igdb.com/games/metroid-prime-2-echoes",
+  "igdbRelease": "2004-11-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobbn6.jpg",
+  "summary": "An exploration-driven 3D metroidvania/first-person shooter hybrid and sequel to Metroid Prime (2002) in which Samus lands on Aether, an intricate planet torn into light and dark versions of itself, to help its remaining inhabitants defend against the invaders from its dark incarnation by traversing both the light and dark worlds, acquiring new power-ups and braving oppressive environments.",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Retro Studios"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "Gbl91ADbM9c",
+  "score": 0.95,
+  "igdbOverride": null,
+  "sheetTitle": "Metroid Prime Echoes",
+  "platform": "GameCube",
+  "video": "Gbl91ADbM9c",
+  "start": 0,
+  "release": "2004-11-15",
+  "precision": "day",
+  "id": "gamecube-metroid-prime-2-echoes",
+  "cover": "covers/cobbn6.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: The Wind Waker",
+  "igdbId": 1033,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-the-wind-waker",
+  "igdbRelease": "2003-03-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3ohz.jpg",
+  "summary": "The Legend of Zelda: The Wind Waker is the first Zelda game for the Nintendo GameCube and also the first in the series to employ cel-shading, a lighting and texturing technique that results in the game having a cartoon-like appearance. Like its predecessors, The Wind Waker is an action game with puzzle-solving and light role-playing elements. Basic gameplay mechanics are similar to those found in Ocarina of Time, but it differentiates itself with its massive Great Sea which must be explored using a boat named King of Red Lions.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "RxMos9muPYQ",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda The Wind Waker",
+  "platform": "GameCube",
+  "video": "RxMos9muPYQ",
+  "start": 0,
+  "release": "2003-03-24",
+  "precision": "day",
+  "id": "gamecube-the-legend-of-zelda-the-wind-waker",
+  "cover": "covers/co3ohz.jpg",
+  "clip": null
+ },
+ {
+  "name": "Paper Mario: The Thousand-Year Door",
+  "igdbId": 3349,
+  "igdbUrl": "https://www.igdb.com/games/paper-mario-the-thousand-year-door",
+  "igdbRelease": "2004-10-11",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co25us.jpg",
+  "summary": "Paper Mario: The Thousand-Year Door is a turn-based role-playing game and the second entry in the Paper Mario series, set in a world styled to look like paper. Players guide Mario through themed locations, solving puzzles and battling enemies in a timing-based combat system where well-timed button presses strengthen attacks and defense. Battles play out on a stage before an audience whose reactions can help or hinder the player, and Mario recruits a party of companions with unique skills while equipping badges that grant new abilities. Brief segments also let the player control Princess Peach and Bowser between chapters.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "e8HxEVtxiSI",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Paper Mario the Thousand-Year Door",
+  "platform": "GameCube",
+  "video": "e8HxEVtxiSI",
+  "start": 0,
+  "release": "2004-10-11",
+  "precision": "day",
+  "id": "gamecube-paper-mario-the-thousand-year-door",
+  "cover": "covers/co25us.jpg",
+  "clip": null
  }
 ];

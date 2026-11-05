@@ -71,7 +71,7 @@ select, .btn {
 .btn:hover, select:hover { border-color: #5a6496; }
 .btn { font-weight: 600; }
 
-.chips { display: flex; gap: 8px; margin-top: 12px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .chip {
   flex: none; display: inline-flex; align-items: center; gap: 7px;
   background: var(--panel); border: 1px solid var(--line); color: var(--text);
@@ -168,6 +168,13 @@ dialog::backdrop { background: rgba(5, 6, 12, .78); backdrop-filter: blur(4px); 
 .links { margin: 0; font-size: 13px; }
 
 @media (max-width: 600px) {
+  /* Phones: one swipeable row, with a fade on the right edge so it's clear there's more */
+  .chips {
+    flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; padding-right: 24px;
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent);
+            mask-image: linear-gradient(to right, #000 calc(100% - 32px), transparent);
+  }
+  .chips::-webkit-scrollbar { display: none; }
   h1 { font-size: 12px; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 14px; }
   .card .t { font-size: 13px; }
