@@ -2342,5 +2342,453 @@ window.GAMES = [
   "id": "xbox-black",
   "cover": "covers/co8c32.jpg",
   "clip": null
+ },
+ {
+  "name": "Alan Wake",
+  "igdbId": 1062,
+  "igdbUrl": "https://www.igdb.com/games/alan-wake",
+  "igdbRelease": "2010-05-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2dft.jpg",
+  "summary": "Alan Wake is a psychological horror action-adventure game developed by Remedy Entertainment. The narrative centres on Alan Wake, a bestselling thriller novelist experiencing writer's block. He travels to the small town of Bright Falls with his wife, Alice, seeking a change of environment. Shortly after their arrival, Alice vanishes under mysterious circumstances.\n\nAs Alan searches for her, he discovers pages of a thriller novel he does not recall writing. The events described in these pages begin to manifest in reality, and Alan encounters hostile supernatural entities known as the \"Taken,\" who are controlled by darkness. The gameplay involves navigating Bright Falls and using light to combat these dark forces. The storyline explores themes of reality and fiction, along with the influence of the written word.",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Remedy Entertainment"
+  ],
+  "publisher": [
+   "E-Frontier",
+   "Legacy Interactive",
+   "Namco Bandai Partners",
+   "Microsoft Game Studios",
+   "Remedy Entertainment",
+   "Nordic Games Publishing"
+  ],
+  "igdbVideo": "qSGPU3FnD8Q",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Alan Wake",
+  "platform": "Xbox 360",
+  "video": "qSGPU3FnD8Q",
+  "start": 0,
+  "release": "2010-05-18",
+  "precision": "day",
+  "id": "xbox-360-alan-wake",
+  "cover": "covers/co2dft.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Elder Scrolls V: Skyrim",
+  "igdbId": 472,
+  "igdbUrl": "https://www.igdb.com/games/the-elder-scrolls-v-skyrim",
+  "igdbRelease": "2011-11-11",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cocs1l.jpg",
+  "summary": "Skyrim reimagines and revolutionizes the open-world fantasy epic, bringing to life a complete virtual world open for you to explore any way you choose. Play any type of character you can imagine, and do whatever you want; the legendary freedom of choice, storytelling, and adventure of The Elder Scrolls is realized like never before.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": [
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "2doLV4hNMIg",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Skyrim",
+  "platform": "Xbox 360",
+  "video": "2doLV4hNMIg",
+  "start": 0,
+  "release": "2011-11-11",
+  "precision": "day",
+  "id": "xbox-360-the-elder-scrolls-v-skyrim",
+  "cover": "covers/cocs1l.jpg",
+  "clip": null
+ },
+ {
+  "name": "Kinect Adventures",
+  "igdbId": 2657,
+  "igdbUrl": "https://www.igdb.com/games/kinect-adventures",
+  "igdbRelease": "2010-11-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co22p6.jpg",
+  "summary": "Kinect Adventures! is a sports video game released by Microsoft Game Studios for the Xbox 360. Released in 2010, it is a collection of five adventure and sports minigames and was developed by Good Science Studio, a subsidiary of Microsoft Game Studios. The game utilizes the Kinect motion camera and was offered as a pack-in game with the console. It was officially unveiled at the 2010 Electronic Entertainment Expo in Los Angeles and went on to become the best selling game on the Xbox 360, selling 24 million units worldwide.",
+  "genres": [
+   "Sport",
+   "Adventure"
+  ],
+  "developer": [
+   "Good Science Studio"
+  ],
+  "publisher": [
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "nee86i_vInE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Kinect Adventures",
+  "platform": "Xbox 360",
+  "video": "nee86i_vInE",
+  "start": 0,
+  "release": "2010-11-04",
+  "precision": "day",
+  "id": "xbox-360-kinect-adventures",
+  "cover": "covers/co22p6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Kingdoms of Amalur: Reckoning",
+  "igdbId": 1059,
+  "igdbUrl": "https://www.igdb.com/games/kingdoms-of-amalur-reckoning",
+  "igdbRelease": "2012-02-07",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co25rk.jpg",
+  "summary": "Kingdoms of Amalur: Reckoning is an epic, open-world role-playing game set in Amalur, a mysterious and magical new fantasy world created by New York Times best-selling author R. A. Salvatore. Brought to life visually through the trademark visceral style of renowned artist and Spawn creator Todd McFarlane, Reckoning brings a new level of intense action combat to the RPG genre.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up"
+  ],
+  "developer": [
+   "38 Studios",
+   "Big Huge Games"
+  ],
+  "publisher": [
+   "Electronic Arts",
+   "38 Studios"
+  ],
+  "igdbVideo": "6lhzDkaKi1w",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Kingdoms of Amalur Reckoning",
+  "platform": "Xbox 360",
+  "video": "6lhzDkaKi1w",
+  "start": 0,
+  "release": "2012-02-07",
+  "precision": "day",
+  "id": "xbox-360-kingdoms-of-amalur-reckoning",
+  "cover": "covers/co25rk.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fable III",
+  "igdbId": 504,
+  "igdbUrl": "https://www.igdb.com/games/fable-iii",
+  "igdbRelease": "2010-10-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co231s.jpg",
+  "summary": "Set 50 years after the events of Fable II, the continent of Albion (where the Fable series is set) is under the control of Logan, a tyrant king and the Hero's older brother[1]. The player's character, the \"Hero\", is forced into a quest to become a revolutionary leader to defeat Logan after he reveals his true personality to the Hero. Over the course of the first half of the game, the Hero will overthrow Logan and become ruler of Albion themselves. During the second half of the game, a strange force from Aurora, called The Darkness will threaten Albion and the player has to decide how to react to it.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Simulator",
+   "Strategy",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Lionhead Studios"
+  ],
+  "publisher": [
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "lpR2Uy2VLMc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fable III",
+  "platform": "Xbox 360",
+  "video": "lpR2Uy2VLMc",
+  "start": 0,
+  "release": "2010-10-26",
+  "precision": "day",
+  "id": "xbox-360-fable-iii",
+  "cover": "covers/co231s.jpg",
+  "clip": null
+ },
+ {
+  "name": "Gears of War 2",
+  "igdbId": 548,
+  "igdbUrl": "https://www.igdb.com/games/gears-of-war-2",
+  "igdbRelease": "2008-11-07",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co28gg.jpg",
+  "summary": "Gears of War 2 is a third-person shooter built around tactical use of cover. Players fight through a campaign as a soldier of the Coalition of Ordered Governments, carrying a limited loadout of weapons and using cover, melee attacks, and the series' chainsaw bayonet against enemy forces. It supports cooperative campaign play and a range of competitive multiplayer modes, and introduces Horde mode, in which up to five players survive escalating waves of enemies together.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Epic Games"
+  ],
+  "publisher": [
+   "Microsoft Game Studios"
+  ],
+  "igdbVideo": "rXIjDzlGc5I",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Gears of War 2",
+  "platform": "Xbox 360",
+  "video": "rXIjDzlGc5I",
+  "start": 0,
+  "release": "2008-11-07",
+  "precision": "day",
+  "id": "xbox-360-gears-of-war-2",
+  "cover": "covers/co28gg.jpg",
+  "clip": null
+ },
+ {
+  "name": "Borderlands",
+  "igdbId": 498,
+  "igdbUrl": "https://www.igdb.com/games/borderlands",
+  "igdbRelease": "2009-10-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20tx.jpg",
+  "summary": "Borderlands is an action role-playing first-person shooter set on the distant planet of Pandora. Players choose from four characters, each with distinct combat abilities, and explore an open world rendered in a distinctive cartoon-style visual approach. Gameplay revolves around completing missions, defeating enemies, and collecting procedurally generated weapons with varying statistics and elemental effects. The game supports cooperative play for up to four players, with enemy difficulty scaling based on the number of participants.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Gearbox Software"
+  ],
+  "publisher": [
+   "2K Games",
+   "CyberFront",
+   "Take-Two Interactive",
+   "Feral Interactive"
+  ],
+  "igdbVideo": "z1omVnfGVYw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Borderlands",
+  "platform": "Xbox 360",
+  "video": "z1omVnfGVYw",
+  "start": 0,
+  "release": "2009-10-20",
+  "precision": "day",
+  "id": "xbox-360-borderlands",
+  "cover": "covers/co20tx.jpg",
+  "clip": null
+ },
+ {
+  "name": "Rage: Anarchy Edition",
+  "igdbId": 43033,
+  "igdbUrl": "https://www.igdb.com/games/rage-anarchy-edition",
+  "igdbRelease": "2011-10-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5w9n.jpg",
+  "summary": "Rage is a first-person shooter set in the not-too-distant future after an asteroid impacts Earth, leaving a ravaged world behind. You emerge into this vast wasteland to discover humanity working to rebuild itself against such forces as raider gangs, mutants, and the Authority – an oppressive government regime that has a special interest in you in particular.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "id Software"
+  ],
+  "publisher": [
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Rage Anarchy Edition",
+  "platform": "Xbox 360",
+  "video": "vmVDZ6Gt8q4",
+  "start": 595,
+  "release": "2011-10-04",
+  "precision": "day",
+  "id": "xbox-360-rage-anarchy-edition",
+  "cover": "covers/co5w9n.jpg",
+  "clip": null
+ },
+ {
+  "name": "Forza Motorsport 4",
+  "igdbId": 3068,
+  "igdbUrl": "https://www.igdb.com/games/forza-motorsport-4",
+  "igdbRelease": "2011-10-11",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2290.jpg",
+  "summary": "Forza Motorsport 4 is a racing video game, and the fourth in the Forza Motorsport series. Like Sony's Gran Turismo franchise, Forza games are racing simulations; heavy emphasis is placed on making the cars drive and look as realistic as possible. Races are conducted on closed circuit tracks. 500 cars are featured in the core game experience, ranging from road cars to race cars.\n\nPlayers can utilize Kinect to look into a corner using a new head tracking feature. This allows them to look toward the apex of a corner or at nearby cars. The controller or steering wheel is used to control the car while Kinect is used independently for viewing around the driver. Players can also use Kinect as a game controller. In this setting the game automatically accelerates and decelerates the player's vehicle utilizing a modified version of the feature known as Auto Brake in Forza Motorsport 3. The steering is controlled by placing the players arms out as if controlling an invisible steering wheel. Kinect will allow the player to use voice commands to start races and navigate menus.",
+  "genres": [
+   "Racing",
+   "Simulator",
+   "Sport"
+  ],
+  "developer": [
+   "Turn 10 Studios"
+  ],
+  "publisher": [
+   "Microsoft Studios"
+  ],
+  "igdbVideo": "7BTo-Wzdong",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Forza Motorsport 4",
+  "platform": "Xbox 360",
+  "video": "7BTo-Wzdong",
+  "start": 0,
+  "release": "2011-10-11",
+  "precision": "day",
+  "id": "xbox-360-forza-motorsport-4",
+  "cover": "covers/co2290.jpg",
+  "clip": null
+ },
+ {
+  "name": "Batman: Arkham Asylum",
+  "igdbId": 500,
+  "igdbUrl": "https://www.igdb.com/games/batman-arkham-asylum",
+  "igdbRelease": "2009-08-25",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1voj.jpg",
+  "summary": "Batman: Arkham Asylum is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Released in 2009, it follows Batman as he battles the Joker, who seizes control of Arkham Asylum and frees its inmates. The game features stealth, combat, and detective elements, with players using Batman's gadgets and skills to subdue enemies and solve puzzles.\n\nSet in a dark, immersive version of Gotham, the story explores Batman’s psychological battle with his foes, including Harley Quinn, Bane, and Scarecrow. The game received critical acclaim for its gameplay, atmosphere, and storytelling, becoming a defining title in superhero video games.",
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Rocksteady Studios"
+  ],
+  "publisher": [
+   "Eidos Interactive",
+   "Playcast-media",
+   "Warner Bros. Interactive Entertainment"
+  ],
+  "igdbVideo": "4F3KQjWsv_8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Batman Arkham Asylum",
+  "platform": "Xbox 360",
+  "video": "4F3KQjWsv_8",
+  "start": 0,
+  "release": "2009-08-25",
+  "precision": "day",
+  "id": "xbox-360-batman-arkham-asylum",
+  "cover": "covers/co1voj.jpg",
+  "clip": null
+ },
+ {
+  "name": "Tom Clancy's Splinter Cell: Conviction",
+  "igdbId": 562,
+  "igdbUrl": "https://www.igdb.com/games/tom-clancy-s-splinter-cell-conviction",
+  "igdbRelease": "2010-04-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1ypl.jpg",
+  "summary": "Experience an unparalleled level of action as you navigate the world of Sam Fisher. Go online or split screen in four co-op modes. Play the prologue to the single player storyline in co-op.",
+  "genres": [
+   "Shooter",
+   "Tactical"
+  ],
+  "developer": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "6Ww_IFU6kg4",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Splinter Cell Conviction",
+  "platform": "Xbox 360",
+  "video": "6Ww_IFU6kg4",
+  "start": 0,
+  "release": "2010-04-13",
+  "precision": "day",
+  "id": "xbox-360-tom-clancy-s-splinter-cell-conviction",
+  "cover": "covers/co1ypl.jpg",
+  "clip": null
+ },
+ {
+  "name": "Prototype 2",
+  "igdbId": 2988,
+  "igdbUrl": "https://www.igdb.com/games/prototype-2",
+  "igdbRelease": "2012-04-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20jt.jpg",
+  "summary": "Prototype 2 is an open-world action game published by Activision and developed by Radical Entertainment. It's a direct sequel to Prototype and was announced at the 2010 Spike Video Game Awards.\n\nThe events of Prototype 2 takes place in New York City, now known as New York Zero (NYZ), following Sgt. James Heller on his quest to destroy Alex Mercer, after having lost everything and everyone he loved to the Blacklight virus.",
+  "genres": [
+   "Platform",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Radical Entertainment"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "z32IMR5XckE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Prototype 2",
+  "platform": "Xbox 360",
+  "video": "z32IMR5XckE",
+  "start": 0,
+  "release": "2012-04-24",
+  "precision": "day",
+  "id": "xbox-360-prototype-2",
+  "cover": "covers/co20jt.jpg",
+  "clip": null
+ },
+ {
+  "name": "Gears of War 3",
+  "igdbId": 492,
+  "igdbUrl": "https://www.igdb.com/games/gears-of-war-3",
+  "igdbRelease": "2011-09-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2a21.jpg",
+  "summary": "Gears of War 3 is the spectacular conclusion to one of the most memorable and celebrated sagas in videogames. Gears of War 3 plunges players into a harrowing tale of hope, survival and brotherhood. In Gears of War 3, players fight on as Marcus Fenix, the grizzled war hero and leader of Delta Squad. Eighteen months after the fall of the last human city, the war against the Locust rages on. Meanwhile, deep beneath the surface, a fearsome new threat is infecting the planet from within. With survivors scattered and civilization in ruins, time is running out for Marcus and his comrades as they fight to save the human race.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Epic Games"
+  ],
+  "publisher": [
+   "Microsoft Studios"
+  ],
+  "igdbVideo": "3urAUG9Jyo8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Gears of War 3",
+  "platform": "Xbox 360",
+  "video": "3urAUG9Jyo8",
+  "start": 0,
+  "release": "2011-09-20",
+  "precision": "day",
+  "id": "xbox-360-gears-of-war-3",
+  "cover": "covers/co2a21.jpg",
+  "clip": null
+ },
+ {
+  "name": "Dance Central",
+  "igdbId": 18953,
+  "igdbUrl": "https://www.igdb.com/games/dance-central",
+  "igdbRelease": "2010-11-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1ws7.jpg",
+  "summary": "Featuring full-body tracking, the magic of Kinect for Xbox 360 allows you to experience real dance with your friends and family. Whether you're rehearsing in Break It Down! or owning the stage in Perform It, you'll be introduced to more than 600 moves in the game and more than 90 dance routines all created by professional choreographers.\n\nThe game features tracks from an amazing mix of pop, hip-hop and R&B artists including Lady Gaga, No Doubt, M.I.A., Bell Biv Devoe, and more. Take your moves to the next level while connecting with the music you love!",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems"
+  ],
+  "publisher": [
+   "Microsoft Game Studios",
+   "MTV Games"
+  ],
+  "igdbVideo": "dkRiHMXq6nw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dance Central",
+  "platform": "Xbox 360",
+  "video": "dkRiHMXq6nw",
+  "start": 0,
+  "release": "2010-11-04",
+  "precision": "day",
+  "id": "xbox-360-dance-central",
+  "cover": "covers/co1ws7.jpg",
+  "clip": null
  }
 ];
