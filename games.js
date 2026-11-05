@@ -3042,5 +3042,670 @@ window.GAMES = [
   "id": "gamecube-paper-mario-the-thousand-year-door",
   "cover": "covers/co25us.jpg",
   "clip": null
+ },
+ {
+  "name": "Metal Gear Solid 3: Snake Eater",
+  "igdbId": 379,
+  "igdbUrl": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater",
+  "igdbRelease": "2004-11-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5ei5.jpg",
+  "summary": "Metal Gear Solid 3: Snake Eater is the prequel to the entire Metal Gear series. Most of the series' defining gameplay elements have been carried over and as before, Snake must use stealth and wits rather than brute force to infiltrate enemy zones and eliminate his major adversaries. Unlike the previous games, this installment takes place in a large outdoor jungle. Snake is able to use camouflage, climb trees, hide in tall grass or wear clothes that make him less noticeable.",
+  "genres": [
+   "Shooter",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Konami Computer Entertainment Japan"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "DHSH8O4QhlE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metal Gear Solid 3: Snake Eater",
+  "platform": "PlayStation 2",
+  "video": "DHSH8O4QhlE",
+  "start": 0,
+  "release": "2004-11-17",
+  "precision": "day",
+  "id": "playstation-2-metal-gear-solid-3-snake-eater",
+  "cover": "covers/co5ei5.jpg",
+  "clip": null
+ },
+ {
+  "name": "SoulCalibur II",
+  "igdbId": 1565,
+  "igdbUrl": "https://www.igdb.com/games/soulcalibur-ii",
+  "igdbRelease": "2002-07-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co62a6.jpg",
+  "summary": "SoulCalibur II is the third installment in the Soul series and continues the tradition of his predecessors with improved graphics, new characters and new levels. A majority of the action takes place in Weapon Master mode where you have to choose a character and travel a set map to fight the many other warriors through different levels and challenges. Console ports were released, including guest characters from other franchises.\n\nThe Arcade version has a unique mode called \"Conquest Mode\". This mode, which uses a name and password system to save data, allows the player to select one army among four. The player then fights against enemies in a series of eight 1-round battles, win or lose (the first seven are based on the player's rank, and the eighth is chosen by the player – this can only be interrupted by a Versus challenger.) After each round, the player earns EXP and can be promoted, and the game also rates the player in four categories: Soul, Power, Wisdom and Skill. The game also keeps track of which moves the player knows and uses most often. After the eight battles, territory control is updated and the player has the option to fight a bonus round against their character played by the AI.",
+  "genres": [
+   "Fighting"
+  ],
+  "developer": [
+   "Project Soul"
+  ],
+  "publisher": [
+   "Namco"
+  ],
+  "igdbVideo": "_e58pJ6t_-I",
+  "score": 0.97,
+  "igdbOverride": null,
+  "sheetTitle": "Soul Calibur II",
+  "platform": "PlayStation 2",
+  "video": "_e58pJ6t_-I",
+  "start": 0,
+  "release": "2002-07-10",
+  "precision": "day",
+  "id": "playstation-2-soulcalibur-ii",
+  "cover": "covers/co62a6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Xenosaga Episode II: Jenseits von Gut und Böse",
+  "igdbId": 1228,
+  "igdbUrl": "https://www.igdb.com/games/xenosaga-episode-ii-jenseits-von-gut-und-bose",
+  "igdbRelease": "2005-02-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2607.jpg",
+  "summary": "Xenosaga Episode II: Jenseits von Gut und Böse is a direct sequel to the first episode of the science-fiction RPG Xenosaga series.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Adventure"
+  ],
+  "developer": [
+   "Monolith Soft"
+  ],
+  "publisher": [
+   "Namco",
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "-iXmGFp2gvo",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Xenosaga",
+  "platform": "PlayStation 2",
+  "video": "-iXmGFp2gvo",
+  "start": 0,
+  "release": "2005-02-15",
+  "precision": "day",
+  "id": "playstation-2-xenosaga-episode-ii-jenseits-von-gut-und-b-se",
+  "cover": "covers/co2607.jpg",
+  "clip": null
+ },
+ {
+  "name": "Dance Dance Revolution Extreme",
+  "igdbId": 43680,
+  "igdbUrl": "https://www.igdb.com/games/dance-dance-revolution-extreme",
+  "igdbRelease": "2004-09-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5eg5.jpg",
+  "summary": "Dance Dance Revolution Extreme is a music video game by Konami and is the eighth release in the main Dance Dance Revolution (DDR) series. It was released on December 25, 2002 for Japanese arcades, on October 9, 2003 for the Japanese PlayStation 2, and on September 21, 2004 for the North American PlayStation 2. This game is the ninth release in North America, but despite having the same name as its Japanese counterpart, its gameplay and soundtrack is significantly different[1] and won the Video Music Awards in 2005 on MTV for Best Video Game Soundtrack.\n\nWhile the PlayStation 2 version came out in North America, the arcade version was exclusive to Japan. Despite this, the arcade version was exported to many arcades in the USA (most of them being bootlegged). Dance Dance Revolution Extreme was the last game in the DDR arcade franchise for four years until Dance Dance Revolution SuperNova in 2006. The arcade release of the game contains one of the largest soundtracks of any DDR game, featuring 240 songs, as well as music from other Bemani music titles. Konami issued an in-game thank you to the fans of Dance Dance Revolution and announced a rejuvenation of the entire series, but did not go into details. Konami's announcement led people to believe that DDR Extreme might be the final DDR release or that the series might be on hiatus or rebooted in the same manner as Beatmania and Beatmania IIDX.",
+  "genres": [
+   "Music",
+   "Arcade"
+  ],
+  "developer": [
+   "Konami Computer Entertainment Tokyo",
+   "Bemani"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "g2qoiKbkJbY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dance Dance Revolution Extreme",
+  "platform": "PlayStation 2",
+  "video": "g2qoiKbkJbY",
+  "start": 0,
+  "release": "2004-09-21",
+  "precision": "day",
+  "id": "playstation-2-dance-dance-revolution-extreme",
+  "cover": "covers/co5eg5.jpg",
+  "clip": null
+ },
+ {
+  "name": "NBA Street Vol. 2",
+  "igdbId": 4036,
+  "igdbUrl": "https://www.igdb.com/games/nba-street-vol-2",
+  "igdbRelease": "2003-04-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2etl.jpg",
+  "summary": "NBA Street Vol. 2 is a basketball video game, published by EA Sports BIG and developed by EA Canada. It is the sequel to NBA Street and the second game in the NBA Street series. It was released on April 28, 2003 for the PlayStation 2, GameCube, and, for the first time in the series, on the Xbox. Japan was only able to see a PlayStation 2 release of this game. The GameCube version was also planned to be released in that region, but it was canceled for unknown reasons.",
+  "genres": [
+   "Sport",
+   "Adventure"
+  ],
+  "developer": [
+   "EA Canada"
+  ],
+  "publisher": [
+   "EA Sports BIG"
+  ],
+  "igdbVideo": "86m4wyDhsUI",
+  "score": 0.86,
+  "igdbOverride": null,
+  "sheetTitle": "Street Vol 2",
+  "platform": "PlayStation 2",
+  "video": "86m4wyDhsUI",
+  "start": 0,
+  "release": "2003-04-28",
+  "precision": "day",
+  "id": "playstation-2-nba-street-vol-2",
+  "cover": "covers/co2etl.jpg",
+  "clip": null
+ },
+ {
+  "name": "Dance Dance Revolution Extreme 2",
+  "igdbId": 43577,
+  "igdbUrl": "https://www.igdb.com/games/dance-dance-revolution-extreme-2",
+  "igdbRelease": "2005-09-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20sr.jpg",
+  "summary": "In addition to including features from the previous game, PS2 gamers will now have the opportunity to participate in exciting head-to-head DDR online competitions for the first time ever. The 100 top scorers will be recognized through an interactive ranking system, letting novice players test their dancing mettle against top-notch DDR experts. Players can also go online to access new challenge missions which will be refreshed periodically, allowing players a way to continually expand the DDR gaming experience. Whether players are looking to dance to the hottest tracks in town, choreograph, edit and create their own dance steps, or use the 'Work Out' mode to burn off excess pounds, DDR Extreme 2 will offer players of all ages an interactive and fun way to get up and groove. The game's support for the EyeToy Camera continues to add depth and dimension to the gameplay. While using the camera, players can access fast-paced mini games and use both their hands and feet while dancing and watching themselves on TV. Keeping players on the dance mat is more than 100 minutes of energetic dance music, including exclusively-licensed dance hits as well as smash-hit songs, such as \"Genie In A Bottle\" and \"Oops!...I Did It Again.\" Also adding to the impressive line-up of songs is new music by the famous video game musician Yuzo Koshiro, whose credits include composing music for hit games such as Streets of Rage series, Revenge of Shinobi and Shenmue.",
+  "genres": [
+   "Music",
+   "Puzzle",
+   "Arcade"
+  ],
+  "developer": [
+   "Konami Computer Entertainment Tokyo",
+   "Konami"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dance Dance Revolution Extreme 2",
+  "platform": "PlayStation 2",
+  "video": "oz_9cGwplpI",
+  "start": 0,
+  "release": "2005-09-27",
+  "precision": "day",
+  "id": "playstation-2-dance-dance-revolution-extreme-2",
+  "cover": "covers/co20sr.jpg",
+  "clip": null
+ },
+ {
+  "name": "DDRMax Dance Dance Revolution",
+  "igdbId": 79707,
+  "igdbUrl": "https://www.igdb.com/games/ddrmax-dance-dance-revolution",
+  "igdbRelease": "2002-10-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5p9j.jpg",
+  "summary": "DDRMAX will have you working up a sweat to over 65 songs. The 100+ minutes of music include licensed tracks, fresh dance hits, and cool new songs exclusive to the North American release. DDRMAX delivers never-before-seen in-game videos, new gameplay options, blistering 60-frames per second frame rates and the largest song library in franchise history. Further enhancing the gameplay experience is the introduction of the FREEZE ARROW option that freezes on-screen arrows and forces you to modify your dance steps thus increasing complexity and adding a twist to the routine. Popular gameplay options that return in DDRMAX are the Edit Mode that enables you to customize your own dance steps, and the special Work Out mode that tracks the number of calories burned with every move.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Konami Computer Entertainment Tokyo",
+   "Konami"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "DDRMAX Dance Dance Revolution",
+  "platform": "PlayStation 2",
+  "video": "PzlM6P-2b3Q",
+  "start": 0,
+  "release": "2002-10-28",
+  "precision": "day",
+  "id": "playstation-2-ddrmax-dance-dance-revolution",
+  "cover": "covers/co5p9j.jpg",
+  "clip": null
+ },
+ {
+  "name": "Kingdom Hearts",
+  "igdbId": 1219,
+  "igdbUrl": "https://www.igdb.com/games/kingdom-hearts",
+  "igdbRelease": "2002-09-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co30zf.jpg",
+  "summary": "The international release of Kingdom Hearts added new superbosses to the game.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Product Development Division 1"
+  ],
+  "publisher": [
+   "Disney Interactive Studios",
+   "Square Electronic Arts",
+   "Sony Computer Entertainment",
+   "Square"
+  ],
+  "igdbVideo": "ABxvDcPpJHw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Kingdom Hearts",
+  "platform": "PlayStation 2",
+  "video": "ABxvDcPpJHw",
+  "start": 0,
+  "release": "2002-09-17",
+  "precision": "day",
+  "id": "playstation-2-kingdom-hearts",
+  "cover": "covers/co30zf.jpg",
+  "clip": null
+ },
+ {
+  "name": "Legacy of Kain: Soul Reaver 2",
+  "igdbId": 7893,
+  "igdbUrl": "https://www.igdb.com/games/legacy-of-kain-soul-reaver-2",
+  "igdbRelease": "2001-10-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co93d6.jpg",
+  "summary": "Soul Reaver 2 picks up where Legacy of Kain: Soul Reaver left off, with Raziel having just plunged through the Chronoplast time portal in his relentless pursuit of Kain. Over the course of his quest for revenge, Raziel must unearth the mysteries of Nosgoth’s ancient races, expose the machinations behind the corruption of the Pillars, and the vampire genocide. Throughout the game, Raziel acquires numerous new abilities, weapon enhancements, and spells, all of which are critical to the completion of his epic adventure.\n\nSoul Reaver is a third-person combat adventure filled with devious puzzles and kick-ass combat. Fly, swim, jump, and even travel from the material world to the spectral realm to overcome obstacles and conquer your enemies. With over 40 abilities to choose from, no two fights will ever be the same.",
+  "genres": [
+   "Adventure"
+  ],
+  "developer": [
+   "Crystal Dynamics"
+  ],
+  "publisher": [
+   "Eidos Interactive"
+  ],
+  "igdbVideo": "SbI27uyTAws",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Soul Reaver 2",
+  "platform": "PlayStation 2",
+  "video": "SbI27uyTAws",
+  "start": 0,
+  "release": "2001-10-31",
+  "precision": "day",
+  "id": "playstation-2-legacy-of-kain-soul-reaver-2",
+  "cover": "covers/co93d6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Kill.Switch",
+  "igdbId": 5881,
+  "igdbUrl": "https://www.igdb.com/games/kill-dot-switch",
+  "igdbRelease": "2003-10-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co57c7.jpg",
+  "summary": "Aiming and moving in cover and blind-fire modes is tricky, though. To gain the 3-D effect, some detail gets sacrificed. Usually this is no problem, but occasionally you'll have a tough time recognizing an object. You move from area to area to engage a new group of enemies. You'll conveniently find crates for cover and barrels to help you pull off big explosions. Locking the enemy in your crosshairs, signified by your crosshairs turning red, doesn't guarantee a direct hit? The accuracy depends on the weapon of choice. A shotgun will normally provide a kill on the first shot. If you have an automatic rifle, your shots are relatively inaccurate even if your aim is true.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Namco"
+  ],
+  "publisher": [
+   "Namco",
+   "Hip Interactive"
+  ],
+  "igdbVideo": "M8HCJkip138",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Kill Switch",
+  "platform": "PlayStation 2",
+  "video": "M8HCJkip138",
+  "start": 0,
+  "release": "2003-10-28",
+  "precision": "day",
+  "id": "playstation-2-kill-switch",
+  "cover": "covers/co57c7.jpg",
+  "clip": null
+ },
+ {
+  "name": "Gran Turismo 3: A-Spec",
+  "igdbId": 1600,
+  "igdbUrl": "https://www.igdb.com/games/gran-turismo-3-a-spec",
+  "igdbRelease": "2001-07-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5xru.jpg",
+  "summary": "More than two years in the making, Gran Turismo 3 A-spec features over 150 detailed cars -- each composed of more than 4,000 polygons -- 60 beginner, amateur and professional championship races, as well as ten endurance races and ten rally races. In addition to all-new special effects, such as sun glare, heat distortion and reflections, Gran Turismo 3 A-spec also offers up a soundtrack of more than 20 licensed tracks, and an even better replay mode with TV-style camera views. Two players can go head-to-head via split-screen and up to six can duke it out by linking multiple systems together via i.LINK. Released worldwide in 2001, Gran Turismo 3 a-Spec was designed by Polyphony Digital.",
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "developer": [
+   "Polyphony Digital"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "3n1WTytK1Dw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Gran Turismo 3 A-spec",
+  "platform": "PlayStation 2",
+  "video": "3n1WTytK1Dw",
+  "start": 0,
+  "release": "2001-07-10",
+  "precision": "day",
+  "id": "playstation-2-gran-turismo-3-a-spec",
+  "cover": "covers/co5xru.jpg",
+  "clip": null
+ },
+ {
+  "name": "Arc the Lad: Twilight of the Spirits",
+  "igdbId": 21558,
+  "igdbUrl": "https://www.igdb.com/games/arc-the-lad-twilight-of-the-spirits",
+  "igdbRelease": "2003-06-25",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1osr.jpg",
+  "summary": "The world of Arc: Twilight of the Spirits is populated by two races: human and Deimos. The two races prefer to avoid contact with each other, but both depend on the Spirit Stones to sustain the balance in the world. Recently, the human army began sweeping across the lands, taking over countries. This army is going after the five great Spirit Stones. The Spirits, however, are determined to prevent this; to achieve their goal, they choose two heroes who would eventually be able to unite the two races in a battle for justice. One of them a is a human nobleman named Kharg, who hates the Deimos and is planning revenge; another is a Deimos slave named Darc, who dreams of uniting and commanding his race. Will the two heroes be able to put aside their differences and save the world?..\n\nArc: Twilight of the Spirits is the fourth entry in the Arc the Lad series. Like its two immediate predecessors, the game has tactical battles which allow free positioning and movement of the characters on the combat field. However, the game is closer to being a \"regular\" Japanese-style role-playing game rather than a tactical RPG. The player controls a relatively small party (up to six active combatants), and is able to explore towns and dungeons in a standard RPG fashion. In the beginning, the game puts the player into control of Kharg, but afterwards the chapters alternate between the human hero and Darc, each with his own party. Characters can use a variety of techniques, accumulating SP (spirit points) in battles and them using them to learn special attacks.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Cattle Call"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "oW4LXLRpuJc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Arc the Lad: Twilight of the Spirits",
+  "platform": "PlayStation 2",
+  "video": "oW4LXLRpuJc",
+  "start": 0,
+  "release": "2003-06-25",
+  "precision": "day",
+  "id": "playstation-2-arc-the-lad-twilight-of-the-spirits",
+  "cover": "covers/co1osr.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metal Gear Solid 2: Substance",
+  "igdbId": 474,
+  "igdbUrl": "https://www.igdb.com/games/metal-gear-solid-2-substance",
+  "igdbRelease": "2003-03-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5eg1.jpg",
+  "summary": "Metal Gear Solid 2: Substance is a re-vamped and revised edition of the original Metal Gear Solid 2: Sons of Liberty, in which Solid Snake must recover the stolen Metal Gear Ray from a group of terrorists bent on using its power for unthinkable reasons. Along with the original espionage shooter comes a collection of 200 VR missions. Missions range from killing certain targets and using particular weapons, as well as seeing the world of Solid Snake from different perspectives and styles, with first-person target modes and a variety mode including crazy characters of different shapes and sizes. Also included are various alternative missions, ranging from the protagonist sneaking around and snapping photos of targets to bomb disposal, all out destruction, and more.",
+  "genres": [
+   "Shooter",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Konami Computer Entertainment Japan"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "FSJSD6gqGrE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metal Gear Solid 2: Substance",
+  "platform": "PlayStation 2",
+  "video": "FSJSD6gqGrE",
+  "start": 0,
+  "release": "2003-03-03",
+  "precision": "day",
+  "id": "playstation-2-metal-gear-solid-2-substance",
+  "cover": "covers/co5eg1.jpg",
+  "clip": null
+ },
+ {
+  "name": "Need for Speed: Underground",
+  "igdbId": 96,
+  "igdbUrl": "https://www.igdb.com/games/need-for-speed-underground",
+  "igdbRelease": "2003-11-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co209g.jpg",
+  "summary": "Need for Speed: Underground is a 2003 racing video game and the seventh installment in the Need for Speed series. It rebooted the franchise, ignoring previous Need for Speed games that featured sports cars and exotics. Underground is the first game in the series to offer a career mode that features a comprehensive storyline, as well as a garage mode that allows players to fully customize their cars with a large variety of brand-name performance and visual upgrades.",
+  "genres": [
+   "Racing"
+  ],
+  "developer": [
+   "EA Black Box"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "h73zuHvSffk",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Need for Speed Underground",
+  "platform": "PlayStation 2",
+  "video": "h73zuHvSffk",
+  "start": 0,
+  "release": "2003-11-17",
+  "precision": "day",
+  "id": "playstation-2-need-for-speed-underground",
+  "cover": "covers/co209g.jpg",
+  "clip": null
+ },
+ {
+  "name": "Grand Theft Auto: Vice City",
+  "igdbId": 733,
+  "igdbUrl": "https://www.igdb.com/games/grand-theft-auto-vice-city",
+  "igdbRelease": "2002-10-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2lbb.jpg",
+  "summary": "In the year 1986, Tommy Vercetti is heavily indebted to his mafia superiors after a drug deal gone awry, but his dreams of taking over Vice City (based on Miami) push him down a different path. Featuring a wide variety of vehicles and weapons, radio stations playing hit songs from the era and an intense atmosphere, GTA: Vice City is an open-world sandbox satire of '80's Miami.",
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure",
+   "Arcade"
+  ],
+  "developer": [
+   "Rockstar North"
+  ],
+  "publisher": [
+   "Rockstar Games",
+   "Take-Two Interactive"
+  ],
+  "igdbVideo": "Iq2Jzksu8BA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Grand Theft Auto: Vice City",
+  "platform": "PlayStation 2",
+  "video": "Iq2Jzksu8BA",
+  "start": 0,
+  "release": "2002-10-27",
+  "precision": "day",
+  "id": "playstation-2-grand-theft-auto-vice-city",
+  "cover": "covers/co2lbb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Grand Theft Auto: San Andreas",
+  "igdbId": 732,
+  "igdbUrl": "https://www.igdb.com/games/grand-theft-auto-san-andreas",
+  "igdbRelease": "2004-10-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2lb9.jpg",
+  "summary": "Returning after his mother's murder to the semi-fictional city of Los Santos (based on Los Angeles), Carl Johnson, a former gang banger, must take back the streets for his family and friends by gaining respect and once again gaining control over the streets. However, a story filled with crime, lies and corruption will lead him to trudge the entire state of San Andreas (based on California and Nevada) to rebuild his life.",
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "developer": [
+   "Rockstar North"
+  ],
+  "publisher": [
+   "Take-Two Interactive",
+   "Rockstar Games"
+  ],
+  "igdbVideo": "ZaqpcybxUqs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Grand Theft Auto: San Andreas",
+  "platform": "PlayStation 2",
+  "video": "ZaqpcybxUqs",
+  "start": 0,
+  "release": "2004-10-26",
+  "precision": "day",
+  "id": "playstation-2-grand-theft-auto-san-andreas",
+  "cover": "covers/co2lb9.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero",
+  "igdbId": 1285,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero",
+  "igdbRelease": "2005-11-08",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wa0.jpg",
+  "summary": "Guitar Hero is a 2005 music rhythm video game developed by Harmonix and published by RedOctane for the PlayStation 2. It is the first entry in the Guitar Hero series. Guitar Hero was released in November 2005 in North America, April 2006 in Europe and June 2006 in Australia. The game's development was a result of collaboration between RedOctane and Harmonix to bring a Guitar Freaks-like game to United States.\n\nThe game features a guitar-shaped controller (resembling a miniature Gibson SG) that the player uses to simulate playing rock music. The gameplay is similar to GuitarFreaks, in that the player presses buttons on the guitar controller in time with musical notes that scroll on the game screen. The game features covers of 30 popular rock songs spanning five decades of rock, from the 1960s up through 2005, in addition to bonus tracks. Guitar Hero became a surprise hit, earning critical acclaim and winning many awards from major video game publications, and was considered one of the most influential games of the first decade of the 21st century. The game's success launched the Guitar Hero franchise, which has earned more than $2 billion in sales, spawning several sequels, expansions, and other game-related products.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems"
+  ],
+  "publisher": [
+   "RedOctane"
+  ],
+  "igdbVideo": "E8JYB2uiUe0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero",
+  "platform": "PlayStation 2",
+  "video": "E8JYB2uiUe0",
+  "start": 0,
+  "release": "2005-11-08",
+  "precision": "day",
+  "id": "playstation-2-guitar-hero",
+  "cover": "covers/co1wa0.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero 5",
+  "igdbId": 2672,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-5",
+  "igdbRelease": "2009-09-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co53lb.jpg",
+  "summary": "Guitar Hero 5 (initially referred to as Guitar Hero V) is a music rhythm game and the fifth main entry in the Guitar Hero series. The game was developed by Neversoft and published by Activision, and released internationally in September 2009 for the Xbox 360, PlayStation 2, 3 and Wii consoles. Similar to the preceding title, Guitar Hero World Tour, Guitar Hero 5 is geared towards playing in a four-person band experience, including lead and bass guitar, drums, and vocals. The game is available as a standalone title, allowing players to use existing compatible instrument controllers, and as a bundle that provides these controllers. Guitar Hero 5 adds several new features, such as drop-in/drop-out play, bands composed of any combination of available instruments, a Rockfest competitive mode consisting of several various scoring mechanisms, and both song-specific and general Challenges to unlock new avatars, clothing, and other extras in the game. Many of these changes were added to make the game a more social experience, allowing players across a range of skill levels to be able to play cooperatively and competitively against each other both locally and online.\n\nGuitar Hero 5's track list contains 85 songs by 83 separate artists, and like previous Guitar Hero games, several musicians with works in the game have been modeled through motion capture for playable characters in the game, including Johnny Cash, Carlos Santana, Shirley Manson, Matthew Bellamy, and Kurt Cobain. Players can also create their own character and instrument to play with. The game continues to support the user-created music studio introduced in World Tour through GHTunes, and additional downloadable content for the game was also made available. A majority of existing downloadable tracks from World Tour are forward-compatible with Guitar Hero 5, along with selected on-disc tracks from World Tour and Guitar Hero Smash Hits, and songs from the game could also be exported for a fee to play in its sequel, Guitar Hero: Warriors of Rock, and spin-off game Band Hero.\n\nThe game was well received by reviewers, who appreciated the improvements in the accessibility of the game, allowing players to immediately jump in and play without spending excessive time in the game's menus. The game also sold well, however, it sold about less than 50 percent of Guitar Hero: World Tour's sales, specifically selling 1.2 million copies across all platforms. Improvements to both the Career and competitive multiplayer modes were also highlights of the game. However, the game's track list was considered to be too broad, and controversy arose over the ability to use the avatar of Kurt Cobain to perform in any other song within the game.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Neversoft Entertainment"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "Wq8cMcLP74s",
+  "score": 0.92,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero 2",
+  "platform": "PlayStation 2",
+  "video": "Wq8cMcLP74s",
+  "start": 0,
+  "release": "2009-09-01",
+  "precision": "day",
+  "id": "playstation-2-guitar-hero-5",
+  "cover": "covers/co53lb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy XII",
+  "igdbId": 398,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-xii",
+  "igdbRelease": "2006-10-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3rhx.jpg",
+  "summary": "The game takes place in the fictional land of Ivalice, where the empires of Archadia and Rozarria are waging an endless war. Dalmasca, a small kingdom, is caught between the warring nations. When Dalmasca is annexed by Archadia, its princess, Ashe, creates a resistance movement. During the struggle, she meets Vaan, a young adventurer who dreams of commanding an airship. They are quickly joined by a band of allies; together, they rally against the tyranny of the Archadian Empire.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Enix Product Development Division 4"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "NZgDzyqLFTY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy XII",
+  "platform": "PlayStation 2",
+  "video": "NZgDzyqLFTY",
+  "start": 0,
+  "release": "2006-10-31",
+  "precision": "day",
+  "id": "playstation-2-final-fantasy-xii",
+  "cover": "covers/co3rhx.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy X",
+  "igdbId": 418,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-x",
+  "igdbRelease": "2001-12-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1tr1.jpg",
+  "summary": "Final Fantasy X is the tenth main installment in the FF series and the first title released on sixth-generation consoles. It was also the first game to feature fully three-dimensional areas rather than including pre-rendered backdrops, and the first to include voice acting. Final Fantasy X tells the story of a star blitzball player, Tidus, who journeys with a young and beautiful summoner named Yuna on her quest to save the world of Spira from an endless cycle of destruction wrought by the colossal menace Sin.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Product Development Division 1"
+  ],
+  "publisher": [
+   "Square Electronic Arts",
+   "Square",
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "hWpz_KUkRuw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy X",
+  "platform": "PlayStation 2",
+  "video": "hWpz_KUkRuw",
+  "start": 0,
+  "release": "2001-12-17",
+  "precision": "day",
+  "id": "playstation-2-final-fantasy-x",
+  "cover": "covers/co1tr1.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero Encore: Rocks the 80s",
+  "igdbId": 2676,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-encore-rocks-the-80s--1",
+  "igdbRelease": "2007-07-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7hhv.jpg",
+  "summary": "Guitar Hero Encore: Rocks the 80s (titled Guitar Hero: Rocks the 80s in Europe) is a music rhythm game and the third installment in the popular Guitar Hero series. It was released in July 2007 in North America and Europe, and in August 2007 in Australia.\n\nPlayers use a guitar-shaped controller (purchased separately) to simulate playing rock music by hitting notes as they scroll towards the player. Rocks the 80s is an incremental title in the Guitar Hero series, rather than a full sequel. No changes in gameplay from Guitar Hero II have been introduced to this game. As implied by the game's title, the game features a 1980s theme, consisting of songs from the decade and playable characters, fashions, and artwork that reflect the time period.\n\nThe game was not as well-received as the prior two Guitar Hero games, due to the lack of new gameplay features and reduced soundtrack. Rocks the 80s is the third and final title in the Guitar Hero series to be developed by Harmonix before they moved on to create Rock Band.[5] The next major installment of the series, Guitar Hero III: Legends of Rock, was developed by Activision's Neversoft division.[6]",
+  "genres": [
+   "Music",
+   "Simulator"
+  ],
+  "developer": [
+   "Harmonix Music Systems"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "E_IZTRqQhN8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero Encore: Rocks the 80s",
+  "platform": "PlayStation 2",
+  "video": "E_IZTRqQhN8",
+  "start": 0,
+  "release": "2007-07-24",
+  "precision": "day",
+  "id": "playstation-2-guitar-hero-encore-rocks-the-80s",
+  "cover": "covers/co7hhv.jpg",
+  "clip": null
  }
 ];
