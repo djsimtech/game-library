@@ -6850,5 +6850,168 @@ window.GAMES = [
   "id": "wii-punch-out",
   "cover": "covers/co2f72.jpg",
   "clip": null
+ },
+ {
+  "name": "Super Mario 3D World",
+  "igdbId": 2180,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-3d-world",
+  "igdbRelease": "2013-11-21",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob8wi.jpg",
+  "summary": "Super Mario 3D World is a 3D platformer action game for the Wii U, and a follow-up of the Nintendo 3DS installment Super Mario 3D Land. The game builds upon the previous installment, following a similar 3D level-design convention inspired from the 2D platformer titles where players must navigate through a linear-designed level within a time limit to reach a level's Goal Pole. One key aspect introduced in this title is the simultaneous multiplayer: while not the first game in the series to do so, it is the first 3D title in the Mario series to incorporate up to four players cooperating with each other to reach the goal. Players can select their character from a pool of playable characters prior to starting the game, and each of these characters have their own unique playstyle that gives them advantages and disadvantages over other characters. The game makes use of several Wii U exclusive features, such as tapping blocks with the touch screen on the GamePad and blowing into the mic to reveal hidden items and blow away enemies. Various new power-ups are introduced in this title, with the trademark suit being the Cat power-up, which enables characters to perform a melee attack, climb up walls, and leap while midair, as well as the game generally having a cat-based theme.",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development",
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "ID4UYlhyJR0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario 3D World",
+  "platform": "Wii U",
+  "video": "ID4UYlhyJR0",
+  "start": 0,
+  "release": "2013-11-21",
+  "precision": "day",
+  "id": "wii-u-super-mario-3d-world",
+  "cover": "covers/cob8wi.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "igdbId": 7346,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild",
+  "igdbRelease": "2017-03-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3p2d.jpg",
+  "summary": "The Legend of Zelda: Breath of the Wild is the first 3D open-world game in the Zelda series. Link can travel anywhere and be equipped with weapons and armor found throughout the world to grant him various bonuses. Unlike many games in the series, Breath of the Wild does not impose a specific order in which quests or dungeons must be completed. While the game still has environmental obstacles such as weather effects, inhospitable lands, or powerful enemies, many of them can be overcome using the right method. A lot of critics ranked Breath of the Wild as one of the best video games of all time.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "Ze05xdORvYs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Breath of the Wild",
+  "platform": "Wii U",
+  "video": "Ze05xdORvYs",
+  "start": 0,
+  "release": "2017-03-03",
+  "precision": "day",
+  "id": "wii-u-the-legend-of-zelda-breath-of-the-wild",
+  "cover": "covers/co3p2d.jpg",
+  "clip": null
+ },
+ {
+  "name": "New Super Mario Bros. U",
+  "igdbId": 2171,
+  "igdbUrl": "https://www.igdb.com/games/new-super-mario-bros-u",
+  "igdbRelease": "2012-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co21ts.jpg",
+  "summary": "New Super Mario Bros. U is a side-scrolling 2.5D platform game, and the fourth and latest installment in the New Super Mario Bros. series. As the sequel to New Super Mario Bros. Wii, the game is a follow-up game of New Super Mario Bros. 2. It uses new, more detailed background styles and models and introduces the Flying Squirrel power-up, acquired by Mario and his friends from an item called the Super Acorn, as well as utilizing the Wii U GamePad in Boost Mode. In addition to the core campaign, there are also challenge modes.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development",
+   "Nintendo",
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "1uetntyZ5fA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "New Super Mario Bros: U",
+  "platform": "Wii U",
+  "video": "1uetntyZ5fA",
+  "start": 0,
+  "release": "2012-11-18",
+  "precision": "day",
+  "id": "wii-u-new-super-mario-bros-u",
+  "cover": "covers/co21ts.jpg",
+  "clip": null
+ },
+ {
+  "name": "Nintendo Land",
+  "igdbId": 2172,
+  "igdbUrl": "https://www.igdb.com/games/nintendo-land",
+  "igdbRelease": "2012-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1p9c.jpg",
+  "summary": "Nintendo Land is a fun and lively virtual theme park filled with attractions based on popular Nintendo game worlds. Explore the Nintendo Land Plaza as your Mii character, and play in park attractions featuring unique and innovative gameplay made possible by the Wii U GamePad controller. Enjoy team, competitive, and solo gameplay experiences for up to five players!",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Puzzle",
+   "Racing",
+   "Adventure",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.2",
+   "Nintendo",
+   "Nintendo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "sawZZVrlsSo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Nintendo Land",
+  "platform": "Wii U",
+  "video": "sawZZVrlsSo",
+  "start": 0,
+  "release": "2012-11-18",
+  "precision": "day",
+  "id": "wii-u-nintendo-land",
+  "cover": "covers/co1p9c.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario Kart 8",
+  "igdbId": 2350,
+  "igdbUrl": "https://www.igdb.com/games/mario-kart-8",
+  "igdbRelease": "2014-05-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co213q.jpg",
+  "summary": "Mario Kart 8 is a kart racing game in which players control characters from the Mario universe and other Nintendo franchises. Racers compete on themed tracks using power-ups found in item boxes to gain advantages or hinder opponents. The game introduces anti-gravity sections where players drive on walls and ceilings, gaining speed boosts from collisions. It supports up to twelve players online, four locally on one system, and features modes including Grand Prix racing and arena-based battles. Vehicle customization allows players to mix kart bodies, wheels, and gliders. The Nintendo Switch version, Mario Kart 8 Deluxe, includes all previous downloadable content, a revamped battle mode with dedicated arenas, and accessibility features for newer players.",
+  "genres": [
+   "Racing",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "NA6CAgv6p6g",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario Kart 8",
+  "platform": "Wii U",
+  "video": "NA6CAgv6p6g",
+  "start": 0,
+  "release": "2014-05-29",
+  "precision": "day",
+  "id": "wii-u-mario-kart-8",
+  "cover": "covers/co213q.jpg",
+  "clip": null
  }
 ];
