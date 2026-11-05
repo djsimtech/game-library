@@ -3306,6 +3306,233 @@ window.GAMES = [
   "clip": null
  },
  {
+  "name": "Dance Dance Revolution",
+  "igdbId": 3679,
+  "igdbUrl": "https://www.igdb.com/games/dance-dance-revolution",
+  "igdbRelease": "1999-04-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2puf.jpg",
+  "summary": "Dance Dance Revolution (ダンスダンスレボリューション Dansu Dansu Reboryūshon?), abbreviated DDR and also known as Dancing Stage in earlier games in Europe and Australasia, and some other games in Japan, is a music video game series produced by Konami. Introduced in Japan in 1998 as part of the Bemani series, and released in North America and Europe in 1999, Dance Dance Revolution is the pioneering series of the rhythm and dance genre in video games. Players stand on a \"dance platform\" or stage and hit colored arrows laid out in a cross with their feet to musical and visual cues. Players are judged by how well they time their dance to the patterns presented to them and are allowed to choose more music to play to if they receive a passing score.\n\nDance Dance Revolution has been given much critical acclaim for its originality and stamina in the video game market. There have been dozens of arcade-based releases across several countries and hundreds of home video game console releases, promoting a music library of original songs produced by Konami's in-house artists and an eclectic set of licensed music from many different genres. The DDR series has inspired similar games such as Pump It Up by Andamiro and In the Groove by Roxor",
+  "genres": [
+   "Music",
+   "Simulator"
+  ],
+  "developer": [
+   "Bemani"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "sSpUTjqbyFo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dance Dance Revolution",
+  "platform": "PlayStation",
+  "video": "sSpUTjqbyFo",
+  "start": 0,
+  "release": "1999-04-10",
+  "precision": "day",
+  "id": "playstation-dance-dance-revolution",
+  "cover": "covers/co2puf.jpg",
+  "clip": null
+ },
+ {
+  "name": "Vagrant Story",
+  "igdbId": 2216,
+  "igdbUrl": "https://www.igdb.com/games/vagrant-story",
+  "igdbRelease": "2000-05-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2rso.jpg",
+  "summary": "Adventure into a world of unparalleled depth and danger with SquareSoft's Vagrant Story. In this sweeping dungeon-crawling epic you play as Ashley Riot, a young assassin and spy for the organization known as Riskbreakers. Your goal is to unravel a deep and twisted plot and come to terms with the recent death of your wife and child. If this sounds a bit too cerebral never fear. Your path to recapturing your sense of humanity hinges on the destruction of countless vicious monsters and the exploration of dark and dangerous dungeons. Vagrant Story is awash in gorgeous scenery and features designs from Yasumi Matsuno and Akihiko Yoshida, the acclaimed artists and creators behind Final Fantasy Tactics.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Product Development Division 4"
+  ],
+  "publisher": [
+   "Square Electronic Arts",
+   "Square Enix",
+   "Square"
+  ],
+  "igdbVideo": "aUkS-w9VhLI",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Vagrant Story",
+  "platform": "PlayStation",
+  "video": "aUkS-w9VhLI",
+  "start": 0,
+  "release": "2000-05-15",
+  "precision": "day",
+  "id": "playstation-vagrant-story",
+  "cover": "covers/co2rso.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy VII",
+  "igdbId": 393025,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-vii--12",
+  "igdbRelease": "1997-01-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobny6.jpg",
+  "summary": "Final Fantasy VII (note: this is the original Japan-exclusive version) is a role-playing game set in a post-modern, steampunk world where technology and fantasy elements coexist. Players control Cloud Strife, an ex-soldier who joins the eco-terrorist group AVALANCHE to oppose Shinra Inc., a corporation draining the planet's life energy. The game features turn-based combat with an active time element, a customizable Materia system for abilities, and unique Limit Break attacks for each character. Players explore 3D environments, engage in various mini-games, and uncover a complex plot involving Cloud's mysterious past and a powerful threat to the world. As the story progresses, players gain access to different vehicles, allowing them to explore new areas and uncover additional content.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Product Development Division 1"
+  ],
+  "publisher": [
+   "Square"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy VII",
+  "platform": "PlayStation",
+  "video": "SeO3N4oymnE",
+  "start": 160,
+  "release": "1997-01-31",
+  "precision": "day",
+  "id": "playstation-final-fantasy-vii",
+  "cover": "covers/cobny6.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy VIII",
+  "igdbId": 425,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-viii",
+  "igdbRelease": "1999-09-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2z7d.jpg",
+  "summary": "Final Fantasy VIII is the eighth main installment in the Final Fantasy series. The gameplay makes a departure from many series standards. While it still uses the Active Time Battle system, it deviates from the series' traditional means of boosting a character's power via leveling, although levels are not completely abandoned as they were in Final Fantasy II. In addition, it does not have a Magic Point-based system for spell-casting. Instead, magic is collected, drawn, and created from items, and is used to power up the characters via the junction system.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure",
+   "Card & Board Game"
+  ],
+  "developer": [
+   "Square Product Development Division 1"
+  ],
+  "publisher": [
+   "Square",
+   "Square Electronic Arts",
+   "Square Enix"
+  ],
+  "igdbVideo": "dixx8iTREMg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy VIII",
+  "platform": "PlayStation",
+  "video": "dixx8iTREMg",
+  "start": 0,
+  "release": "1999-09-09",
+  "precision": "day",
+  "id": "playstation-final-fantasy-viii",
+  "cover": "covers/co2z7d.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fade to Black",
+  "igdbId": 12427,
+  "igdbUrl": "https://www.igdb.com/games/fade-to-black",
+  "igdbRelease": "1996-06-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2j7x.jpg",
+  "summary": "Fade to Black is an action-adventure game developed by Delphine Software International and published by Electronic Arts. It is the sequel to the 1992 video game Flashback. The game was released for DOS and PlayStation; planned Nintendo 64 and Sega Saturn versions were cancelled.",
+  "genres": [
+   "Shooter",
+   "Adventure",
+   "Arcade"
+  ],
+  "developer": [
+   "Delphine Software"
+  ],
+  "publisher": [
+   "Electronic Arts",
+   "JoshProd"
+  ],
+  "igdbVideo": "F6lSCQLgWqM",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fade to Black",
+  "platform": "PlayStation",
+  "video": "F6lSCQLgWqM",
+  "start": 0,
+  "release": "1996-06-28",
+  "precision": "day",
+  "id": "playstation-fade-to-black",
+  "cover": "covers/co2j7x.jpg",
+  "clip": null
+ },
+ {
+  "name": "Brave Fencer Musashi",
+  "igdbId": 1810,
+  "igdbUrl": "https://www.igdb.com/games/brave-fencer-musashi",
+  "igdbRelease": "1998-10-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3bfv.jpg",
+  "summary": "150 years ago, the legendary warrior known as the Brave Fencer Musashi saved the kingdom of Allucaneet from the evil Wizard of Darkness. Now, his spirit is reincarnated in a young, rather short-tempered boy. Fillet, the princess of Allucaneet, summons the reluctant hero to the palace and gives him the powerful sword Fusion, which he needs to defeat the evil Thirstquencher Empire. It soon turns out that the Empire is after another legendary sword, Lumina, so Musashi's first task is to get it before the bad guys do!..\n\nBrave Fencer Musashi is an action game with strong RPG elements. Controlling Musashi, the player explores the pre-rendered backgrounds from third person view (similarly to Final Fantasy VII), visiting towns, talking to NPCs, etc. There is a day/night cycle in the game, which is manifested in the schedules of NPCs and/or monsters, as well as Musashi's fatigue level, which increases if he doesn't sleep enough. Musashi uses the two swords, Fusion and Lumina, to fight his enemies. The two swords have different properties: while Fusion behaves more or less like a traditional melee weapon, Lumina needs to be imbued with various elemental items in order to unleash powerful attacks.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Product Development Division 5"
+  ],
+  "publisher": [
+   "Square Electronic Arts",
+   "Square",
+   "Square Enix"
+  ],
+  "igdbVideo": "F-m9LTRxIJ4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Brave Fencer Musashi",
+  "platform": "PlayStation",
+  "video": "F-m9LTRxIJ4",
+  "start": 0,
+  "release": "1998-10-31",
+  "precision": "day",
+  "id": "playstation-brave-fencer-musashi",
+  "cover": "covers/co3bfv.jpg",
+  "clip": null
+ },
+ {
+  "name": "Tekken 2",
+  "igdbId": 305775,
+  "igdbUrl": "https://www.igdb.com/games/tekken-2--4",
+  "igdbRelease": "1996-08-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co8ckt.jpg",
+  "summary": "The console version of Tekken 2, which adds more content to the original arcade game, such as new characters and additional game modes.",
+  "genres": [
+   "Fighting"
+  ],
+  "developer": [
+   "Namco"
+  ],
+  "publisher": [
+   "Namco",
+   "Sony Computer Entertainment",
+   "Namco Bandai Games"
+  ],
+  "igdbVideo": "fBOfO8LtKqY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Tekken 2",
+  "platform": "PlayStation",
+  "video": "fBOfO8LtKqY",
+  "start": 0,
+  "release": "1996-08-28",
+  "precision": "day",
+  "id": "playstation-tekken-2",
+  "cover": "covers/co8ckt.jpg",
+  "clip": null
+ },
+ {
   "name": "Metal Gear Solid 3: Snake Eater",
   "igdbId": 379,
   "igdbUrl": "https://www.igdb.com/games/metal-gear-solid-3-snake-eater",
