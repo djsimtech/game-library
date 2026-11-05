@@ -7013,5 +7013,672 @@ window.GAMES = [
   "id": "wii-u-mario-kart-8",
   "cover": "covers/co213q.jpg",
   "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Tears of the Kingdom",
+  "igdbId": 119388,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-tears-of-the-kingdom",
+  "igdbRelease": "2023-05-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5vmg.jpg",
+  "summary": "An epic adventure across the land and skies of Hyrule awaits in The Legend of Zelda: Tears of the Kingdom for Nintendo Switch. The adventure is yours to create in a world fueled by your imagination.\n\nIn this sequel to The Legend of Zelda: Breath of the Wild, you'll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link's new abilities to fight back against the malevolent forces that threaten the kingdom?",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "a6qna-ZCbxA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Tears of the Kingdom",
+  "platform": "Switch",
+  "video": "a6qna-ZCbxA",
+  "start": 0,
+  "release": "2023-05-12",
+  "precision": "day",
+  "id": "switch-the-legend-of-zelda-tears-of-the-kingdom",
+  "cover": "covers/co5vmg.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "igdbId": 7346,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-breath-of-the-wild",
+  "igdbRelease": "2017-03-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3p2d.jpg",
+  "summary": "The Legend of Zelda: Breath of the Wild is the first 3D open-world game in the Zelda series. Link can travel anywhere and be equipped with weapons and armor found throughout the world to grant him various bonuses. Unlike many games in the series, Breath of the Wild does not impose a specific order in which quests or dungeons must be completed. While the game still has environmental obstacles such as weather effects, inhospitable lands, or powerful enemies, many of them can be overcome using the right method. A lot of critics ranked Breath of the Wild as one of the best video games of all time.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "Ze05xdORvYs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Breath of the Wild",
+  "platform": "Switch",
+  "video": "Ze05xdORvYs",
+  "start": 0,
+  "release": "2017-03-03",
+  "precision": "day",
+  "id": "switch-the-legend-of-zelda-breath-of-the-wild",
+  "cover": "covers/co3p2d.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario Odyssey",
+  "igdbId": 26758,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-odyssey",
+  "igdbRelease": "2017-10-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1mxf.jpg",
+  "summary": "Explore incredible places far from the Mushroom Kingdom as you join Mario and his new ally Cappy on a massive, globe-trotting 3D adventure. Use amazing new abilities, like the power to capture and control objects, animals, and enemies to collect Power Moons so you can power up the Odyssey airship and save Princess Peach from Bowser’s wedding plans!",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 8"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "_GQGUGe7kDU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario Odyssey",
+  "platform": "Switch",
+  "video": "_GQGUGe7kDU",
+  "start": 0,
+  "release": "2017-10-27",
+  "precision": "day",
+  "id": "switch-super-mario-odyssey",
+  "cover": "covers/co1mxf.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario 3D World + Bowser's Fury",
+  "igdbId": 138227,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-3d-world-plus-bowsers-fury",
+  "igdbRelease": "2021-02-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobb2d.jpg",
+  "summary": "The Super Mario 3D World + Bowser’s Fury game features the same lively co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode, pause the action to get the perfect shot, apply filters, and decorate with stamps!",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 8"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "MPx6_JB7pkk",
+  "score": 0.99,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario 3D World + Bowsers Fury",
+  "platform": "Switch",
+  "video": "MPx6_JB7pkk",
+  "start": 0,
+  "release": "2021-02-12",
+  "precision": "day",
+  "id": "switch-super-mario-3d-world-bowser-s-fury",
+  "cover": "covers/cobb2d.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metroid Dread",
+  "igdbId": 15698,
+  "igdbUrl": "https://www.igdb.com/games/metroid-dread",
+  "igdbRelease": "2021-10-07",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coba9g.jpg",
+  "summary": "Join intergalactic bounty hunter Samus Aran in her first new 2D Metroid story in 19 years. Samus’ story continues after the events of the Metroid Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Planning & Development",
+   "MercurySteam",
+   "Nintendo EPD Production Group No. 7"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "nSybAYyVpPY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metroid Dread",
+  "platform": "Switch",
+  "video": "nSybAYyVpPY",
+  "start": 0,
+  "release": "2021-10-07",
+  "precision": "day",
+  "id": "switch-metroid-dread",
+  "cover": "covers/coba9g.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario Bros. Wonder",
+  "igdbId": 254339,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-bros-wonder",
+  "igdbRelease": "2023-10-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6nnl.jpg",
+  "summary": "Super Mario Bros. Wonder is a side-scrolling platform game and the first 2D Super Mario entry since New Super Mario Bros. U (2012). Players choose from twelve characters and traverse levels across the Flower Kingdom, a new setting for the series. The game's central mechanic is the Wonder Flower, which dramatically alters levels in unpredictable ways when touched. New power-ups include an elephant transformation, a bubble flower, and a drill hat, while an equippable badge system allows players to customize their abilities. The game supports local multiplayer for up to four active players and includes an asynchronous online mode.",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 10"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "ljx3QQ4uApg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario Bros. Wonder",
+  "platform": "Switch",
+  "video": "ljx3QQ4uApg",
+  "start": 0,
+  "release": "2023-10-20",
+  "precision": "day",
+  "id": "switch-super-mario-bros-wonder",
+  "cover": "covers/co6nnl.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Smash Bros. Ultimate",
+  "igdbId": 90101,
+  "igdbUrl": "https://www.igdb.com/games/super-smash-bros-ultimate",
+  "igdbRelease": "2018-12-07",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2255.jpg",
+  "summary": "Super Smash Bros. Ultimate is a crossover fighting game for the Nintendo Switch and the fifth main entry in the series. It features every playable fighter from previous installments alongside new additions such as Inkling and Ridley. The game includes faster combat, new items, and expanded defensive mechanics. Modes include local and online multiplayer, a single-player adventure mode called World of Light, and various casual and competitive rulesets.",
+  "genres": [
+   "Fighting",
+   "Platform"
+  ],
+  "developer": [
+   "Sora",
+   "Bandai Namco Studios"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "GY2YQzqydSw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Smash Bros. Ultimate",
+  "platform": "Switch",
+  "video": "GY2YQzqydSw",
+  "start": 0,
+  "release": "2018-12-07",
+  "precision": "day",
+  "id": "switch-super-smash-bros-ultimate",
+  "cover": "covers/co2255.jpg",
+  "clip": null
+ },
+ {
+  "name": "Captain Toad: Treasure Tracker",
+  "igdbId": 243900,
+  "igdbUrl": "https://www.igdb.com/games/captain-toad-treasure-tracker--3",
+  "igdbRelease": "2018-07-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6c6f.jpg",
+  "summary": "Captain Toad stars in his own puzzling quest on the Nintendo Switch system! Our stubby hero must dodge dangers and track treasures across many trap-filled courses. Survive smoldering volcanoes, hazardous steam engines, haunted houses, and even new courses based on the Super Mario Odyssey game! Luckily, a second player can join in by tossing turnips at enemies.",
+  "genres": [
+   "Platform",
+   "Puzzle"
+  ],
+  "developer": [
+   "Nintendo Software Technology",
+   "Nintendo Entertainment Planning & Development"
+  ],
+  "publisher": [
+   "1-UP Studio",
+   "Nintendo"
+  ],
+  "igdbVideo": "9mNWNYelWq0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Captain Toad: Treasure Tracker",
+  "platform": "Switch",
+  "video": "9mNWNYelWq0",
+  "start": 0,
+  "release": "2018-07-13",
+  "precision": "day",
+  "id": "switch-captain-toad-treasure-tracker",
+  "cover": "covers/co6c6f.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Link's Awakening",
+  "igdbId": 115284,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-links-awakening--1",
+  "igdbRelease": "2019-09-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1qve.jpg",
+  "summary": "As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.\n\nIn this new version of the game, the classic soundtrack has been reborn with new arrangements, and now you can equip more items at once, review key conversations, and navigate the map in new ways. Try your hand at the renovated mini-games to earn dolls based on the Super Mario series...or Chamber Stones, which you can use to arrange your own Chamber Dungeons. Each one is a puzzle in and of itself!",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Grezzo"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "LHwhTv-LdPY",
+  "score": 0.98,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Links Awakening",
+  "platform": "Switch",
+  "video": "LHwhTv-LdPY",
+  "start": 0,
+  "release": "2019-09-20",
+  "precision": "day",
+  "id": "switch-the-legend-of-zelda-link-s-awakening",
+  "cover": "covers/co1qve.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario + Rabbids Kingdom Battle",
+  "igdbId": 28414,
+  "igdbUrl": "https://www.igdb.com/games/mario-plus-rabbids-kingdom-battle",
+  "igdbRelease": "2017-08-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2274.jpg",
+  "summary": "This is the story of an unexpected encounter between Mario and the irreverent Rabbids. The Mushroom Kingdom has been torn apart by a mysterious vortex, transporting the Rabbids into the once-peaceful area, splintering this beloved land. To bring order back to the Kingdom, Mario, Luigi, Princess Peach, and Yoshi team up with Rabbids heroes in a journey through four different worlds.",
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Milan",
+   "Ubisoft Paris"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "SEn3MZHWOtU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario + Rabbids Kingdom Battle",
+  "platform": "Switch",
+  "video": "SEn3MZHWOtU",
+  "start": 0,
+  "release": "2017-08-29",
+  "precision": "day",
+  "id": "switch-mario-rabbids-kingdom-battle",
+  "cover": "covers/co2274.jpg",
+  "clip": null
+ },
+ {
+  "name": "Ring Fit Adventure",
+  "igdbId": 122338,
+  "igdbUrl": "https://www.igdb.com/games/ring-fit-adventure",
+  "igdbRelease": "2019-10-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobcnq.jpg",
+  "summary": "In this fitness-focused title, you'll be moving the ring and a leg strap -- both of which house a Switch Joy-Con -- to move your character through a fantasy world.\n\nAt certain intervals, you'll be thrown into battles. These so-called \"fit battles\" play out like a traditional turn-based RPG. All of your attacks are triggered by completing a specific pose or stretch, with four attack types that target different parts of your body\n\nThe world will be broken up into courses that, upon completion, reward you with experience points. Levelling up will increase your character's base stats and slowly unlock new skills that can be utilised in battle.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Sport",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Planning & Development",
+   "Nintendo EPD Production Group No. 4"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "skBNiJd61Qw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Ring Fit Adventure",
+  "platform": "Switch",
+  "video": "skBNiJd61Qw",
+  "start": 0,
+  "release": "2019-10-18",
+  "precision": "day",
+  "id": "switch-ring-fit-adventure",
+  "cover": "covers/cobcnq.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario Kart 8 Deluxe",
+  "igdbId": 26764,
+  "igdbUrl": "https://www.igdb.com/games/mario-kart-8-deluxe",
+  "igdbRelease": "2017-04-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co213p.jpg",
+  "summary": "Hit the road with the definitive version of Mario Kart 8 and play anytime, anywhere! Race your friends or battle them in a revised battle mode on new and returning battle courses. Play locally in up to 4-player multiplayer in 1080p while playing in TV Mode. Every track from the Wii U version, including DLC, makes a glorious return. Plus, the Inklings appear as all-new guest characters, along with returning favorites, such as King Boo, Dry Bones, and Bowser Jr.!",
+  "genres": [
+   "Racing",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 9",
+   "Nintendo Entertainment Planning & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "5xUDkHudgbg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario Kart 8 Deluxe",
+  "platform": "Switch",
+  "video": "5xUDkHudgbg",
+  "start": 0,
+  "release": "2017-04-28",
+  "precision": "day",
+  "id": "switch-mario-kart-8-deluxe",
+  "cover": "covers/co213p.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario 3D All-Stars",
+  "igdbId": 138225,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-3d-all-stars",
+  "igdbRelease": "2020-09-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob8wk.jpg",
+  "summary": "Discover three of Mario’s grandest 3D adventures with Super Mario 3D All-Stars on Nintendo Switch! This special bundle includes Super Mario 64, Super Mario Sunshine and Super Mario Galaxy, all optimized for Nintendo Switch with updated HD graphics, Joy-Con controls, as well as a music player featuring the epic soundtracks from all three games!",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Planning & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "CPJcaGWoO2c",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario 3D All Stars",
+  "platform": "Switch",
+  "video": "CPJcaGWoO2c",
+  "start": 0,
+  "release": "2020-09-18",
+  "precision": "day",
+  "id": "switch-super-mario-3d-all-stars",
+  "cover": "covers/cob8wk.jpg",
+  "clip": null
+ },
+ {
+  "name": "Xenoblade Chronicles 2",
+  "igdbId": 26766,
+  "igdbUrl": "https://www.igdb.com/games/xenoblade-chronicles-2",
+  "igdbRelease": "2017-12-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cob8r2.jpg",
+  "summary": "The next adventure is on the Nintendo Switch console set on the backs of colossal, living Titans. Discover each Titan's diverse regions, culture, wildlife, equipment, and hidden secrets. Find, bond with, and command weaponized life forms known as Blades to earn abilities and enhance them. Uncover the history of Alrest and the mystery of its endless ocean of clouds.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Monolith Soft"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "vXSTAM5fP0s",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Xenoblade Chronicles 2",
+  "platform": "Switch",
+  "video": "vXSTAM5fP0s",
+  "start": 0,
+  "release": "2017-12-01",
+  "precision": "day",
+  "id": "switch-xenoblade-chronicles-2",
+  "cover": "covers/cob8r2.jpg",
+  "clip": null
+ },
+ {
+  "name": "Diablo III: Eternal Collection",
+  "igdbId": 90628,
+  "igdbUrl": "https://www.igdb.com/games/diablo-iii-eternal-collection",
+  "igdbRelease": "2018-11-02",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2dha.jpg",
+  "summary": "Generations of gamers have battled the demonic hordes of Diablo, and now it’s your turn to take part in the action-RPG legacy. This Eternal Collection features Diablo III, the Reaper of Souls expansion set and the Rise of the Necromancer pack—all together in one definitive volume. Prepare yourself, mortal hero. The hellgates are opening.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Blizzard Entertainment"
+  ],
+  "publisher": [
+   "Blizzard Entertainment"
+  ],
+  "igdbVideo": "pDf4J42Otbo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Diablo III Eternal Collection",
+  "platform": "Switch",
+  "video": "pDf4J42Otbo",
+  "start": 0,
+  "release": "2018-11-02",
+  "precision": "day",
+  "id": "switch-diablo-iii-eternal-collection",
+  "cover": "covers/co2dha.jpg",
+  "clip": null
+ },
+ {
+  "name": "Yoshi's Crafted World",
+  "igdbId": 37135,
+  "igdbUrl": "https://www.igdb.com/games/yoshis-crafted-world",
+  "igdbRelease": "2019-03-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobav7.jpg",
+  "summary": "Lead Yoshi on a brand new adventure that will turn everything you've come to expect from side-scrolling games upside down! Explore a great, big world decorated like a miniature diorama in a new art style for the franchise, where each side-scrolling stage has the traditional front side as well as a flip side with different views and surprises. Look for items throughout the stage as Yoshi makes his way to the goal. You can even join up with a friend!",
+  "genres": [
+   "Platform"
+  ],
+  "developer": [
+   "Good-Feel"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "k9xHZXiLvLY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Yoshi's Crafted World",
+  "platform": "Switch",
+  "video": "k9xHZXiLvLY",
+  "start": 0,
+  "release": "2019-03-29",
+  "precision": "day",
+  "id": "switch-yoshi-s-crafted-world",
+  "cover": "covers/cobav7.jpg",
+  "clip": null
+ },
+ {
+  "name": "Prince of Persia: The Lost Crown",
+  "igdbId": 252476,
+  "igdbUrl": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
+  "igdbRelease": "2024-01-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co6lli.jpg",
+  "summary": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate. Play as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Montpellier"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "MmX7a_e65uU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Prince of Persia: The Lost Crown",
+  "platform": "Switch",
+  "video": "MmX7a_e65uU",
+  "start": 0,
+  "release": "2024-01-18",
+  "precision": "day",
+  "id": "switch-prince-of-persia-the-lost-crown",
+  "cover": "covers/co6lli.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fire Emblem: Three Houses",
+  "igdbId": 26845,
+  "igdbUrl": "https://www.igdb.com/games/fire-emblem-three-houses",
+  "igdbRelease": "2019-07-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1n8t.jpg",
+  "summary": "Fire Emblem: Three Houses is a tactical role-playing game developed by Intelligent Systems and Koei Tecmo for the Nintendo Switch. Players take the role of a professor at Garreg Mach Monastery, where they teach and guide one of three student houses. Gameplay combines turn-based battles, character development, exploration, and relationship-building.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "rkux5h0PeXo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fire Emblem: Three Houses",
+  "platform": "Switch",
+  "video": "rkux5h0PeXo",
+  "start": 0,
+  "release": "2019-07-26",
+  "precision": "day",
+  "id": "switch-fire-emblem-three-houses",
+  "cover": "covers/co1n8t.jpg",
+  "clip": null
+ },
+ {
+  "name": "Donkey Kong Bananza",
+  "igdbId": 338106,
+  "igdbUrl": "https://www.igdb.com/games/donkey-kong-bananza",
+  "igdbRelease": "2025-07-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobd1q.jpg",
+  "summary": "Donkey Kong Bananza is exclusively on Nintendo Switch 2! Explore a vast underground world—by smashing your way through it! Bash, throw, and climb through just about anything in DK’s brand-new 3D platforming action-adventure game!",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EPD Production Group No. 8"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "YVUidGTR8xg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Donkey Kong Bananza",
+  "platform": "Switch 2",
+  "video": "YVUidGTR8xg",
+  "start": 0,
+  "release": "2025-07-17",
+  "precision": "day",
+  "id": "switch-2-donkey-kong-bananza",
+  "cover": "covers/cobd1q.jpg",
+  "clip": null
+ },
+ {
+  "name": "Cyberpunk 2077",
+  "igdbId": 1877,
+  "igdbUrl": "https://www.igdb.com/games/cyberpunk-2077",
+  "igdbRelease": "2025-06-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coaih8.jpg",
+  "summary": "Cyberpunk 2077 is an open-world action-adventure game set in Night City, a sprawling metropolis driven by power, glamour, and body modification. Players assume the role of V, a mercenary outlaw in pursuit of a unique implant that holds the key to immortality. The game allows extensive customization of cyberware, skills, and playstyle. Choices made throughout the journey influence both the narrative and the world.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "CD Projekt RED"
+  ],
+  "publisher": [
+   "CD Projekt"
+  ],
+  "igdbVideo": "vjF9GgrY9c0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Cyberpunk 2077",
+  "platform": "Switch 2",
+  "video": "vjF9GgrY9c0",
+  "start": 0,
+  "release": "2025-06-05",
+  "precision": "day",
+  "id": "switch-2-cyberpunk-2077",
+  "cover": "covers/coaih8.jpg",
+  "clip": null
+ },
+ {
+  "name": "Resident Evil Requiem",
+  "igdbId": 347668,
+  "igdbUrl": "https://www.igdb.com/games/resident-evil-requiem",
+  "igdbRelease": "2026-02-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobmj0.jpg",
+  "summary": "Resident Evil Requiem is the ninth entry in the Resident Evil series. Experience terrifying survival horror with FBI analyst Grace Ashcroft, and dive into pulse-pounding action with legendary agent Leon S. Kennedy. Both of their journeys and unique gameplay styles intertwine into a heart-stopping, emotional experience that will chill you to your core.",
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Capcom Development Division 1"
+  ],
+  "publisher": [
+   "Capcom"
+  ],
+  "igdbVideo": "POz1-EmLsTY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Resident Evil Requiem",
+  "platform": "Switch 2",
+  "video": "POz1-EmLsTY",
+  "start": 0,
+  "release": "2026-02-27",
+  "precision": "day",
+  "id": "switch-2-resident-evil-requiem",
+  "cover": "covers/cobmj0.jpg",
+  "clip": null
  }
 ];
