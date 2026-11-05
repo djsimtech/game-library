@@ -3306,6 +3306,38 @@ window.GAMES = [
   "clip": null
  },
  {
+  "name": "Resident Evil",
+  "igdbId": 24869,
+  "igdbUrl": "https://www.igdb.com/games/resident-evil--1",
+  "igdbRelease": "2002-04-30",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2vz8.jpg",
+  "summary": "Resident Evil is the 2002 remake of the original 1996 video game of the same name featuring various improvements and gameplay overhaul. The game features all-new graphics and sound, and also incorporates gameplay elements from the earlier installments. While the overall plot remained mostly unchanged, several new areas and rooms were added to the game. This remake also features many additional modes, secrets and various endings over the original.",
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Capcom Production Studio 4"
+  ],
+  "publisher": [
+   "Capcom"
+  ],
+  "igdbVideo": "08YJsi7GaiM",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Resident Evil",
+  "platform": "GameCube",
+  "video": "08YJsi7GaiM",
+  "start": 0,
+  "release": "2002-04-30",
+  "precision": "day",
+  "id": "gamecube-resident-evil",
+  "cover": "covers/co2vz8.jpg",
+  "clip": null
+ },
+ {
   "name": "Dance Dance Revolution",
   "igdbId": 3679,
   "igdbUrl": "https://www.igdb.com/games/dance-dance-revolution",
@@ -4285,6 +4317,1148 @@ window.GAMES = [
   "precision": "day",
   "id": "playstation-2-nfl-street-2",
   "cover": "covers/co7l5m.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mortal Kombat: Deception",
+  "igdbId": 1613,
+  "igdbUrl": "https://www.igdb.com/games/mortal-kombat-deception",
+  "igdbRelease": "2004-10-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20ky.jpg",
+  "summary": "Mortal Kombat: Deception is the sixth installment in the Mortal Kombat franchise. Based on the Mortal Kombat: Deadly Alliance engine, players once again have to fight to stop this new threat in the sixth installment of the fighting series. The standard Arcade, Versus, and Practice modes return, as well as new items to be found in the Krypt. In addition, there are new Konquest Adventure, Chess Kombat, and Puzzle Kombat modes to give the player new mini-games.\n\nThe Playstation 2 and Xbox versions offer online, competitive play against other players. The Gamecube version does not include online play, but offers Goro and Shao Kahn as exclusive playable characters.",
+  "genres": [
+   "Fighting",
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Card & Board Game"
+  ],
+  "developer": [
+   "Midway Games"
+  ],
+  "publisher": [
+   "Midway Games"
+  ],
+  "igdbVideo": "vK4mreqtSXo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mortal Kombat Deception",
+  "platform": "PlayStation 2",
+  "video": "vK4mreqtSXo",
+  "start": 0,
+  "release": "2004-10-04",
+  "precision": "day",
+  "id": "playstation-2-mortal-kombat-deception",
+  "cover": "covers/co20ky.jpg",
+  "clip": null
+ },
+ {
+  "name": "Red Dead Redemption",
+  "igdbId": 434,
+  "igdbUrl": "https://www.igdb.com/games/red-dead-redemption",
+  "igdbRelease": "2010-05-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2lcv.jpg",
+  "summary": "A modern-day Western epic, Red Dead Redemption takes John Marston, a relic from the fast-closing time of the gunslinger, through an open world filled with wildlife, mini-games, and shootouts. Marston sets out to hunt down his old gang mates for the government, who have taken away his family. Along his journey, he meets many characters emblematic of the Wild West, heroism, and the new civilization.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Rockstar North",
+   "Rockstar San Diego"
+  ],
+  "publisher": [
+   "Rockstar Games",
+   "Take-Two Interactive"
+  ],
+  "igdbVideo": "PD24MkbHQrc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Red Dead Redemption",
+  "platform": "PlayStation 3",
+  "video": "PD24MkbHQrc",
+  "start": 0,
+  "release": "2010-05-18",
+  "precision": "day",
+  "id": "playstation-3-red-dead-redemption",
+  "cover": "covers/co2lcv.jpg",
+  "clip": null
+ },
+ {
+  "name": "Uncharted 3: Drake's Deception",
+  "igdbId": 512,
+  "igdbUrl": "https://www.igdb.com/games/uncharted-3-drake-s-deception",
+  "igdbRelease": "2011-11-01",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1tp8.jpg",
+  "summary": "A search for the fabled \"Atlantis of the Sands\" propels fortune hunter Nathan Drake on a trek into the heart of the Arabian Desert. When the terrible secrets of this lost city are unearthed, Drake's quest descends into a desperate bid for survival that strains the limits of his endurance and forces him to confront his deepest fears.",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Naughty Dog"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "fvpu003drCk",
+  "score": 1.0,
+  "igdbOverride": 512,
+  "sheetTitle": "Uncharted 3",
+  "platform": "PlayStation 3",
+  "video": "fvpu003drCk",
+  "start": 0,
+  "release": "2011-11-01",
+  "precision": "day",
+  "id": "playstation-3-uncharted-3-drake-s-deception",
+  "cover": "covers/co1tp8.jpg",
+  "clip": null
+ },
+ {
+  "name": "Dead Space",
+  "igdbId": 37,
+  "igdbUrl": "https://www.igdb.com/games/dead-space",
+  "igdbRelease": "2008-10-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2g7w.jpg",
+  "summary": "Dead Space is a 2008 science fiction survival horror video game developed by EA Redwood Shores (now Visceral Games) for Microsoft Windows, PlayStation 3 and Xbox 360. The game was released on all platforms through October 2008. The game puts the player in control of an engineer named Isaac Clarke, who battles the Necromorphs, reanimated human corpses, aboard an interstellar mining ship, the USG Ishimura.",
+  "genres": [
+   "Shooter",
+   "Puzzle"
+  ],
+  "developer": [
+   "EA Redwood Shores"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "S7VvKGlVZu8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dead Space",
+  "platform": "PlayStation 3",
+  "video": "S7VvKGlVZu8",
+  "start": 0,
+  "release": "2008-10-14",
+  "precision": "day",
+  "id": "playstation-3-dead-space",
+  "cover": "covers/co2g7w.jpg",
+  "clip": null
+ },
+ {
+  "name": "Uncharted 2: Among Thieves",
+  "igdbId": 565,
+  "igdbUrl": "https://www.igdb.com/games/uncharted-2-among-thieves",
+  "igdbRelease": "2009-10-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1tnb.jpg",
+  "summary": "In the sequel to Drake's Fortune, Nathan Drake comes across a map that showcases the location of Marco Polo's missing ships. It takes him on a journey to find the infamous Cintamani Stone, and uncover the truth behind it.",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Naughty Dog"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "GXlat34jGFk",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Uncharted 2",
+  "platform": "PlayStation 3",
+  "video": "GXlat34jGFk",
+  "start": 0,
+  "release": "2009-10-13",
+  "precision": "day",
+  "id": "playstation-3-uncharted-2-among-thieves",
+  "cover": "covers/co1tnb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Killzone 2",
+  "igdbId": 1866,
+  "igdbUrl": "https://www.igdb.com/games/killzone-2",
+  "igdbRelease": "2009-02-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3j9z.jpg",
+  "summary": "Killzone 2 is the third game in the Killzone franchise and continues the story two years after the events of the first two games. The gameplay consists of what the developers describe as Hollywood Realism, focusing on scripted, cinematic gameplay. The game is played entirely from the first-person perspective, except for the portions with vehicular combat with a tank and an exoskeleton. Next to the single-player campaign, there is squad-based multiplayer called Warzone with five different kinds of missions (Assassination, Search & Retrieve, Search & Destroy, Bodycount and Capture & Hold) based on seven kinds of classes. There is support for up to 32 players, with the addition of bots to fill the remaining spots.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Guerrilla Games"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "ZFOugKGWSeE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Killzone 2",
+  "platform": "PlayStation 3",
+  "video": "ZFOugKGWSeE",
+  "start": 0,
+  "release": "2009-02-27",
+  "precision": "day",
+  "id": "playstation-3-killzone-2",
+  "cover": "covers/co3j9z.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Last of Us",
+  "igdbId": 1009,
+  "igdbUrl": "https://www.igdb.com/games/the-last-of-us",
+  "igdbRelease": "2013-06-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1r7f.jpg",
+  "summary": "The Last of Us is a third-person action-adventure game featuring a mix of exploration, stealth and combat. Players face both infected creatures and hostile human enemies while progressing through varied environments. The game includes a narrative-driven single-player campaign and a competitive online multiplayer mode called Factions. Trophy support is included, and additional downloadable content was made available separately.",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Naughty Dog"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "8ZYkj0glnqs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Last of Us",
+  "platform": "PlayStation 3",
+  "video": "8ZYkj0glnqs",
+  "start": 0,
+  "release": "2013-06-14",
+  "precision": "day",
+  "id": "playstation-3-the-last-of-us",
+  "cover": "covers/co1r7f.jpg",
+  "clip": null
+ },
+ {
+  "name": "Call of Duty 4: Modern Warfare",
+  "igdbId": 623,
+  "igdbUrl": "https://www.igdb.com/games/call-of-duty-4-modern-warfare",
+  "igdbRelease": "2007-11-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wko.jpg",
+  "summary": "Call of Duty 4: Modern Warfare differs from previous installments of the Call of Duty series. Previous Call of Duty games have a distinct three country-specific campaign style, while Call of Duty 4 has a more film-like plot with interlaced story lines from the perspectives of Sgt. Paul Jackson of the Marines 1st Force Recon and Sgt. 'Soap' MacTavish of the British 22nd SAS Regiment.",
+  "genres": [
+   "Shooter",
+   "Simulator"
+  ],
+  "developer": [
+   "Infinity Ward"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "LhuIjNSg7Gg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Call of Duty 4 Modern Warfare",
+  "platform": "PlayStation 3",
+  "video": "LhuIjNSg7Gg",
+  "start": 0,
+  "release": "2007-11-05",
+  "precision": "day",
+  "id": "playstation-3-call-of-duty-4-modern-warfare",
+  "cover": "covers/co1wko.jpg",
+  "clip": null
+ },
+ {
+  "name": "Assassin's Creed",
+  "igdbId": 128,
+  "igdbUrl": "https://www.igdb.com/games/assassin-s-creed",
+  "igdbRelease": "2007-11-13",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1rrw.jpg",
+  "summary": "Assassin's Creed is a non-linear action-adventure video game, during which the player controls a 12th-century Levantine Assassin named Altaïr Ibn-La'Ahad during the Third Crusade, whose life is experienced through the Animus by his 21st century descendant, Desmond Miles.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "RjQ6ZtyXoA0",
+  "score": 0.97,
+  "igdbOverride": null,
+  "sheetTitle": "Assassins Creed",
+  "platform": "PlayStation 3",
+  "video": "RjQ6ZtyXoA0",
+  "start": 0,
+  "release": "2007-11-13",
+  "precision": "day",
+  "id": "playstation-3-assassin-s-creed",
+  "cover": "covers/co1rrw.jpg",
+  "clip": null
+ },
+ {
+  "name": "Dragon Age: Origins",
+  "igdbId": 76,
+  "igdbUrl": "https://www.igdb.com/games/dragon-age-origins",
+  "igdbRelease": "2009-11-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2mvs.jpg",
+  "summary": "Dragon Age: Origins is a third-person role-playing game described as a spiritual successor to Baldur's Gate and Neverwinter Nights franchises. Players create their own character by customizing gender and appearance as well as choosing a race and class. Combat is in real time with the ability to pause at any moment: tactical options include an editor which allows the player to give the AI detailed instructions on how to behave in every possible situation. Although the main storyline is the same for every character created, the game features six unique prologues, two for each race. Dragon Age: Origins received critical acclaim upon release, with praise mostly directed at its story, setting, characters, music and combat system.",
+  "genres": [
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "BioWare Edmonton"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "VaZXJQIHgEA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Dragon Age Origins",
+  "platform": "PlayStation 3",
+  "video": "VaZXJQIHgEA",
+  "start": 0,
+  "release": "2009-11-03",
+  "precision": "day",
+  "id": "playstation-3-dragon-age-origins",
+  "cover": "covers/co2mvs.jpg",
+  "clip": null
+ },
+ {
+  "name": "Resistance: Fall of Man",
+  "igdbId": 1278,
+  "igdbUrl": "https://www.igdb.com/games/resistance-fall-of-man",
+  "igdbRelease": "2006-11-14",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2b4m.jpg",
+  "summary": "In an alternate 1951, Sgt. Nathan Hale is among a unit of US soldiers sent to aid the British military against the invading aliens, known as Chimera. When Hale's unit is completely wiped out in a surprise attack, he struggles for survival...",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Insomniac Games"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "XSlp0H6NtQE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Resistance Fall of Man",
+  "platform": "PlayStation 3",
+  "video": "XSlp0H6NtQE",
+  "start": 0,
+  "release": "2006-11-14",
+  "precision": "day",
+  "id": "playstation-3-resistance-fall-of-man",
+  "cover": "covers/co2b4m.jpg",
+  "clip": null
+ },
+ {
+  "name": "Ni no Kuni: Wrath of the White Witch",
+  "igdbId": 1864,
+  "igdbUrl": "https://www.igdb.com/games/ni-no-kuni-wrath-of-the-white-witch",
+  "igdbRelease": "2013-01-22",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1rbw.jpg",
+  "summary": "\"Ni no Kuni: Wrath of the White Witch, a heart-warming tale of a young boy named Oliver, who embarks on a journey into a parallel world in an attempt to bring his mother back from the dead. Along the way, Oliver makes new friends and adopts many of the wonderful creatures that inhabit the world, raising them to battle other creatures on his behalf as he takes on formidable enemies. Developed by LEVEL-5 alongside Studio Ghibli, the legendary animation studio, Ni no Kuni: Wrath of the White Witch combines beautiful animated visuals, masterful storytelling and a sweeping score into an epic role-playing adventure like no other.\"\n\nNi no Kuni: Wrath of the White Witch is an enhanced version of the Nintendo DS game Ni no Kuni: Dominion of the Dark Djin that was only released in Japan.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "LEVEL-5"
+  ],
+  "publisher": [
+   "LEVEL-5",
+   "Namco Bandai Games"
+  ],
+  "igdbVideo": "Xsu5dRJjQF4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Ni No Kuni: Wrath of the White Witch",
+  "platform": "PlayStation 3",
+  "video": "Xsu5dRJjQF4",
+  "start": 0,
+  "release": "2013-01-22",
+  "precision": "day",
+  "id": "playstation-3-ni-no-kuni-wrath-of-the-white-witch",
+  "cover": "covers/co1rbw.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Beatles: Rock Band",
+  "igdbId": 2693,
+  "igdbUrl": "https://www.igdb.com/games/the-beatles-rock-band",
+  "igdbRelease": "2009-09-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wqo.jpg",
+  "summary": "The Beatles: Rock Band is a 2009 music video game. It is the third major console release in the Rock Band music video game series, in which players can simulate the playing of rock music by using controllers shaped like musical instruments. The Beatles: Rock Band is the first band-centric game in the series, and it is centered on the popular English rock group the Beatles.\nThe game features virtual portrayals of the four band members performing the songs throughout the band's history, including depictions of some of their famous live performances, as well as a number of \"dreamscape\" sequences for songs from the Abbey Road Studios recording sessions during the group's studio years.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems",
+   "Pi Studios"
+  ],
+  "publisher": [
+   "MTV Games",
+   "Electronic Arts"
+  ],
+  "igdbVideo": "NFgEmu9ARVA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Beatles Rock Band",
+  "platform": "PlayStation 3",
+  "video": "NFgEmu9ARVA",
+  "start": 0,
+  "release": "2009-09-09",
+  "precision": "day",
+  "id": "playstation-3-the-beatles-rock-band",
+  "cover": "covers/co1wqo.jpg",
+  "clip": null
+ },
+ {
+  "name": "Rock Band",
+  "igdbId": 2685,
+  "igdbUrl": "https://www.igdb.com/games/rock-band",
+  "igdbRelease": "2007-11-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20bb.jpg",
+  "summary": "Rock Band is a music video game that allows up to four players to simulate the performance of popular rock music songs by playing with controllers modeled after musical instruments.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems",
+   "Pi Studios"
+  ],
+  "publisher": [
+   "MTV Games",
+   "Electronic Arts"
+  ],
+  "igdbVideo": "4nQxAYx56Sg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Rock band",
+  "platform": "PlayStation 3",
+  "video": "4nQxAYx56Sg",
+  "start": 0,
+  "release": "2007-11-20",
+  "precision": "day",
+  "id": "playstation-3-rock-band",
+  "cover": "covers/co20bb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Valkyria Chronicles",
+  "igdbId": 7477,
+  "igdbUrl": "https://www.igdb.com/games/valkyria-chronicles",
+  "igdbRelease": "2008-11-04",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/bvmjjiorjpcclmdorauw.jpg",
+  "summary": "Set in a fictitious continent reminiscent of the 1930s, Valkyria Chronicles depicts Europe divided in two and ruled by two super powers: the Empire and the Federation. The Empire has set its sights on invading a small neutral country called Gallia, situated in the middle of the two superpowers territories, in an attempt to secure invaluable natural resources. Within this struggle a hero named Welkin, and his fellow soldiers of the Federation's 7th Platoon, are fighting back against the invasion and the Empires attempts to unify the continent under its power.\n\nDuring the ensuing war the Federation discovers that the Empire possesses a secret weapon, known as the \"Valkyria\" - an ancient race with special powers thought to exist only in legends. With this new discovery the fate of the Federation's ability to turn the tide of the war, and the hope for a better future, hang in the balance.\n\n“CANVAS” graphics engine: A unique engine that produces breath taking images that look like watercolour paintings in motion.\n\n“BLiTZ” tactical battle system: Experience strategic manoeuvring of units combined with conventional RPG gameplay, all layered on top of the moment to moment action afforded by real-time controls as players command each squad member and tank in battle.\n\nEpic storyline: Players will immerse themselves in the epic struggle for freedom, as the fate of the world lies in the hands of Welkin and the members of the 7th platoon.\n\nCustomisation: Over 100 customisable characters allow players to create a variety of platoons to suit each battle’s needs.\n\nBeautifully rendered battlefields: Players explore 30 different environments, using unique terrain features to gain advantages in battle.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Sega WOW"
+  ],
+  "publisher": [
+   "Sega"
+  ],
+  "igdbVideo": "cpsALQWRSTM",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Valkyria Chronicles",
+  "platform": "PlayStation 3",
+  "video": "cpsALQWRSTM",
+  "start": 0,
+  "release": "2008-11-04",
+  "precision": "day",
+  "id": "playstation-3-valkyria-chronicles",
+  "cover": "covers/bvmjjiorjpcclmdorauw.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fallout 3",
+  "igdbId": 15,
+  "igdbUrl": "https://www.igdb.com/games/fallout-3",
+  "igdbRelease": "2008-10-28",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1ycw.jpg",
+  "summary": "Fallout 3 from the creators of the award-winning Oblivion, featuring one of the most realized game worlds ever created. Create any kind of character you want and explore the open wastes of post-apocalyptic Washington D.C. Every minute is a fight for survival as you encounter Super Mutants, Ghouls, Raiders and other dangers of the Wasteland. Prepare for the future.\n\nThe third game in the Fallout series, Fallout 3 is a singleplayer action role-playing game (RPG) set in a post-apocalyptic Washington DC. Combining the horrific insanity of the Cold War era theory of mutually assured destruction gone terribly wrong, with the kitschy naivety of American 1950s nuclear propaganda, Fallout 3 will satisfy both players familiar with the popular first two games in its series as well as those coming to the franchise for the first time.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Bethesda Game Studios"
+  ],
+  "publisher": [
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "H5h-Q5RNzNU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fallout 3",
+  "platform": "PlayStation 3",
+  "video": "H5h-Q5RNzNU",
+  "start": 0,
+  "release": "2008-10-28",
+  "precision": "day",
+  "id": "playstation-3-fallout-3",
+  "cover": "covers/co1ycw.jpg",
+  "clip": null
+ },
+ {
+  "name": "Gran Turismo 5 Prologue",
+  "igdbId": 1599,
+  "igdbUrl": "https://www.igdb.com/games/gran-turismo-5-prologue",
+  "igdbRelease": "2008-04-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20bj.jpg",
+  "summary": "Gran Turismo 5 Prologue is a precursor and sampling of Gran Turismo 5 and replaced Gran Turismo HD Concept. The \"Prologue\" suffix is a self-reference to Gran Turismo 4 Prologue, which was released one year before the full version of Gran Turismo 4. Since October 3, 2008, the game is now referred to as Gran Turismo 5 Prologue Spec III which is the software's version 3.0 title. Gran Turismo 5 Prologue Spec III features 16-player online races, over 70 cars (including tuned cars), 6 tracks, 12 layouts, a 60 frames per second frame rate (during races, replays are displayed at 30 frames per second) and LPCM 7.1ch high definition sound.",
+  "genres": [
+   "Racing",
+   "Simulator"
+  ],
+  "developer": [
+   "Polyphony Digital"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "6bxJnlNpYVg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Gran Turismo 5 Prologue",
+  "platform": "PlayStation 3",
+  "video": "6bxJnlNpYVg",
+  "start": 0,
+  "release": "2008-04-15",
+  "precision": "day",
+  "id": "playstation-3-gran-turismo-5-prologue",
+  "cover": "covers/co20bj.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Orange Box",
+  "igdbId": 339,
+  "igdbUrl": "https://www.igdb.com/games/the-orange-box",
+  "igdbRelease": "2007-12-11",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2yez.jpg",
+  "summary": "The Orange Box is a bundle that includes five titles from Valve: Half-Life 2; Half-Life 2:Episode 1; Half-Life 2: Episode Two; Team Fortress 2, the sequel to the game that put class-based, multiplayer team warfare on the map; and Portal, the game that blends puzzles, first person action, and adventure gaming to produce an experience like no other.",
+  "genres": [
+   "Shooter",
+   "Puzzle"
+  ],
+  "developer": [
+   "Valve"
+  ],
+  "publisher": [
+   "Electronic Arts",
+   "Valve"
+  ],
+  "igdbVideo": "LOSGVFG9vBI",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Orange Box",
+  "platform": "PlayStation 3",
+  "video": "LOSGVFG9vBI",
+  "start": 0,
+  "release": "2007-12-11",
+  "precision": "day",
+  "id": "playstation-3-the-orange-box",
+  "cover": "covers/co2yez.jpg",
+  "clip": null
+ },
+ {
+  "name": "God of War III",
+  "igdbId": 499,
+  "igdbUrl": "https://www.igdb.com/games/god-of-war-iii",
+  "igdbRelease": "2010-03-16",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3koi.jpg",
+  "summary": "Set in the realm of brutal Greek mythology, God of War III is a single-player game that allows players to take on the climatic role of the ex-Spartan warrior, Kratos, as he scales through the intimidating heights of Mt. Olympus and the dark depths of Hell to seek revenge on those who have betrayed him. Armed with double-chained blades, and an array of new weapons and magic for this iteration of the trilogy, Kratos must take on mythology's darkest creatures while solving intricate puzzles throughout his merciless quest to destroy Olympus. Utilizing a new game engine built from the ground up and state-of-the-art visual technologies, the development team behind God of War III has made standard-setting strides in giving players the realistic feel of actually being on the battlegrounds. With texture resolutions quadrupling since God of War II on PlayStation 2 computer entertainment system, God of War III, in its debut on the PS3 system, will feature fluid, life-like characters, as well as dynamic lighting effects, a robust weapon system, and world-changing scenarios that will truly bring unmistakable realism to Kratos' fateful quest. Players will have a chance to join battles on a grand scale that is four times larger than its predecessor.",
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "SCE Santa Monica Studio"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "MMUbcBbIXIA",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "God of War III",
+  "platform": "PlayStation 3",
+  "video": "MMUbcBbIXIA",
+  "start": 0,
+  "release": "2010-03-16",
+  "precision": "day",
+  "id": "playstation-3-god-of-war-iii",
+  "cover": "covers/co3koi.jpg",
+  "clip": null
+ },
+ {
+  "name": "Street Fighter IV",
+  "igdbId": 884,
+  "igdbUrl": "https://www.igdb.com/games/street-fighter-iv",
+  "igdbRelease": "2009-02-17",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1w4t.jpg",
+  "summary": "Street Fighter IV brings the legendary fighting series back to its roots by taking the beloved fighting moves and techniques of the original Street Fighter II, and infusing them with Capcom’s latest advancements in next generation technology to create a truly extraordinary experience that will re-introduce the world to the time-honored art of virtual martial arts.\n\nNewcomers:\n- Abel\n- C.Viper\n- Rufus\n- El Fuerte\n- Gouken",
+  "genres": [
+   "Fighting"
+  ],
+  "developer": [
+   "Dimps"
+  ],
+  "publisher": [
+   "Capcom"
+  ],
+  "igdbVideo": "DJ3ONTRFSqE",
+  "score": 1.0,
+  "igdbOverride": 884,
+  "sheetTitle": "Super Street Fighter IV",
+  "platform": "PlayStation 3",
+  "video": "DJ3ONTRFSqE",
+  "start": 0,
+  "release": "2009-02-17",
+  "precision": "day",
+  "id": "playstation-3-street-fighter-iv",
+  "cover": "covers/co1w4t.jpg",
+  "clip": null
+ },
+ {
+  "name": "Call of Duty: World at War",
+  "igdbId": 625,
+  "igdbUrl": "https://www.igdb.com/games/call-of-duty-world-at-war",
+  "igdbRelease": "2008-11-11",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wl8.jpg",
+  "summary": "Call of Duty: World at War is a first-person shooter set during World War II, focusing on the Pacific and Eastern Front theaters. The single-player campaign follows two perspectives: U.S. Marine Private C. Miller fighting against the Imperial Japanese Army across islands in the Pacific, and Soviet Red Army Private Dimitri Petrenko advancing from Stalingrad to Berlin.\n\nThe game features more graphic violence than previous entries in the series, including limb dismemberment and destructible environments. Multiplayer retains the leveling, perk, and killstreak systems from Call of Duty 4: Modern Warfare. The game also introduced the cooperative Nazi Zombies survival mode, in which up to four players fight increasingly difficult waves of undead while purchasing weapons and unlocking new areas.",
+  "genres": [
+   "Shooter",
+   "Adventure"
+  ],
+  "developer": [
+   "Treyarch"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "ondfCsioE0E",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Call of Duty World at War",
+  "platform": "PlayStation 3",
+  "video": "ondfCsioE0E",
+  "start": 0,
+  "release": "2008-11-11",
+  "precision": "day",
+  "id": "playstation-3-call-of-duty-world-at-war",
+  "cover": "covers/co1wl8.jpg",
+  "clip": null
+ },
+ {
+  "name": "Demon's Souls",
+  "igdbId": 5619,
+  "igdbUrl": "https://www.igdb.com/games/demon-s-souls",
+  "igdbRelease": "2009-10-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co27sk.jpg",
+  "summary": "A third-person action RPG with cooperative and competitive multiplayer elements in which the player enters the kingdom of Boletaria as it is being ravaged by a fog that spawns murderous demons. The player has to hunt down the arch demons situated in five disparate areas within the kingdom and partake in punishing combat to reach the Old One, the vengeful being that brought the fog to Boletaria.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "FromSoftware"
+  ],
+  "publisher": [
+   "Atlus",
+   "Namco Bandai Partners",
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "FRnIyXvonAU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Demon's Souls",
+  "platform": "PlayStation 3",
+  "video": "FRnIyXvonAU",
+  "start": 0,
+  "release": "2009-10-06",
+  "precision": "day",
+  "id": "playstation-3-demon-s-souls",
+  "cover": "covers/co27sk.jpg",
+  "clip": null
+ },
+ {
+  "name": "Prince of Persia",
+  "igdbId": 2438,
+  "igdbUrl": "https://www.igdb.com/games/prince-of-persia",
+  "igdbRelease": "2008-12-02",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2bva.jpg",
+  "summary": "Prince of Persia is an action-adventure and platforming video game developed by Ubisoft Montreal and published by Ubisoft. It is part of the Prince of Persia franchise.\nThe game is set in ancient Persia, with a player-character whose name is not revealed in the game. He is accompanied by a woman named Elika, whom he met after a large sandstorm diverted him from his course and he ended up in a mysterious land. Players traverse many different environments using his acrobatic abilities to scale walls and even crawl on the ceilings. Throughout the journey, players combat various enemies as they attempt to cleanse the land of corruption.",
+  "genres": [
+   "Platform",
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Montreal"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "DdZT6HIwoU4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Prince of Persia",
+  "platform": "PlayStation 3",
+  "video": "DdZT6HIwoU4",
+  "start": 0,
+  "release": "2008-12-02",
+  "precision": "day",
+  "id": "playstation-3-prince-of-persia",
+  "cover": "covers/co2bva.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mass Effect 2",
+  "igdbId": 74,
+  "igdbUrl": "https://www.igdb.com/games/mass-effect-2",
+  "igdbRelease": "2011-01-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co20ac.jpg",
+  "summary": "Are you prepared to lose everything to save the galaxy? You'll need to be, Commander Shephard. It's time to bring together your greatest allies and recruit the galaxy's fighting elite to continue the resistance against the invading Reapers. So steel yourself, because this is an astronomical mission where sacrifices must be made. You'll face tougher choices and new, deadlier enemies. Arm yourself and prepare for an unforgettable intergalactic adventure.\n\nGame Features:\n\nShift the fight in your favour. Equip yourself with powerful new weapons almost instantly thanks to a new inventory system. Plus, an improved health regeneration system means you'll spend less time hunting for restorative items.\n\nMake every decision matter. Divisive crew members are just the tip of the iceberg, Commander, because you'll also be tasked with issues of intergalactic diplomacy. And time's a wastin' so don't be afraid to use new prompt-based actions that let you interrupt conversations, even if they could alter the fate of your crew...and the galaxy.\n\nForge new alliances, carefully. You'll fight alongside some of your most trustworthy crew members, but you'll also get the opportunity to recruit new talent. Just choose your new partners with care because the fate of the galaxy rests on your shoulders, Commander.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "BioWare",
+   "BioWare Edmonton"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "Ugq9Iv7tFVc",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mass Effect 2",
+  "platform": "PlayStation 3",
+  "video": "Ugq9Iv7tFVc",
+  "start": 0,
+  "release": "2011-01-18",
+  "precision": "day",
+  "id": "playstation-3-mass-effect-2",
+  "cover": "covers/co20ac.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metal Gear Solid 4: Guns of the Patriots",
+  "igdbId": 380,
+  "igdbUrl": "https://www.igdb.com/games/metal-gear-solid-4-guns-of-the-patriots",
+  "igdbRelease": "2008-06-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5eju.jpg",
+  "summary": "Metal Gear Solid 4: Guns of the Patriots is the final canonical Metal Gear game to feature Solid Snake as the main character. The gameplay of the previous games have been kept along with some new features, such as the ability to roll on your back and also to hide in bins scattered around the environment. Most of the story and the relationship between the characters are explained through cut-scenes with a considerable length, so knowledge of the prior games is recommended to fully understand the story. The game also features a complex multiplayer mode entitled Metal Gear Online with some original missions based on the stealth aspects of the single-player games.",
+  "genres": [
+   "Shooter",
+   "Tactical",
+   "Adventure"
+  ],
+  "developer": [
+   "Kojima Productions"
+  ],
+  "publisher": [
+   "Konami"
+  ],
+  "igdbVideo": "RRDc68wpbIQ",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metal Gear Solid 4 Guns of the Patriots",
+  "platform": "PlayStation 3",
+  "video": "RRDc68wpbIQ",
+  "start": 0,
+  "release": "2008-06-12",
+  "precision": "day",
+  "id": "playstation-3-metal-gear-solid-4-guns-of-the-patriots",
+  "cover": "covers/co5eju.jpg",
+  "clip": null
+ },
+ {
+  "name": "LittleBigPlanet 3",
+  "igdbId": 7330,
+  "igdbUrl": "https://www.igdb.com/games/littlebigplanet-3",
+  "igdbRelease": "2014-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3t1c.jpg",
+  "summary": "In LittleBigPlanet 3, explore a world filled with creativity as you explore all corners of the Imagisphere, meet the inhabitants of the mysterious planet Bunkum and face the nefarious Newton. Discover endless surprises that the LittleBigPlanet Community have created and shared for you to enjoy, with new levels and games to play every day. Then if you're feeling inspired, flex your creative muscles with the powerful and intuitive customization tools, to bring your own imagination to life in LittleBigPlanet 3.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Sumo Digital"
+  ],
+  "publisher": [
+   "Sony Computer Entertainment"
+  ],
+  "igdbVideo": "z1xbGlDOKHU",
+  "score": 1.0,
+  "igdbOverride": 7330,
+  "sheetTitle": "Little Big Planet",
+  "platform": "PlayStation 3",
+  "video": "z1xbGlDOKHU",
+  "start": 0,
+  "release": "2014-11-18",
+  "precision": "day",
+  "id": "playstation-3-littlebigplanet-3",
+  "cover": "covers/co3t1c.jpg",
+  "clip": null
+ },
+ {
+  "name": "Grand Theft Auto IV",
+  "igdbId": 731,
+  "igdbUrl": "https://www.igdb.com/games/grand-theft-auto-iv",
+  "igdbRelease": "2008-04-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2lbv.jpg",
+  "summary": "Grand Theft Auto IV is an action-adventure video game developed by Rockstar North and published by Rockstar Games. It is the eleventh title in the Grand Theft Auto series, and the first main entry since 2004's Grand Theft Auto: San Andreas.\n\nThe game is played from a third-person perspective and its world is navigated on-foot or by vehicle. Throughout the single-player mode, players play as Niko Bellic. An online multiplayer mode is included with the game, allowing up to 32 players to engage in both co-operative and competitive gameplay in a recreation of the single-player setting.\n\nTwo expansion packs were later released for the game, The Lost and Damned and The Ballad of Gay Tony, which both feature new plots that are interconnected with the main Grand Theft Auto IV storyline, and follow new protagonists.",
+  "genres": [
+   "Shooter",
+   "Racing",
+   "Adventure"
+  ],
+  "developer": [
+   "Rockstar North"
+  ],
+  "publisher": [
+   "Take-Two Interactive",
+   "Rockstar Games"
+  ],
+  "igdbVideo": "O3QBb6GeDsY",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Grand Theft Auto IV",
+  "platform": "PlayStation 3",
+  "video": "O3QBb6GeDsY",
+  "start": 0,
+  "release": "2008-04-29",
+  "precision": "day",
+  "id": "playstation-3-grand-theft-auto-iv",
+  "cover": "covers/co2lbv.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy XIII",
+  "igdbId": 389,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-xiii",
+  "igdbRelease": "2010-03-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coboys.jpg",
+  "summary": "Final Fantasy XIII is a single-player Japanese role-playing game and the thirteenth main entry in the Final Fantasy series. Combat uses a real-time variant of the series' Active Time Battle system, in which the player directs one lead character while the Paradigm system lets the party switch between combat roles such as attacker, healer, and support. Character growth is handled through the Crystarium, a grid-based progression system that unlocks abilities and stat bonuses. Set across the floating world of Cocoon and the wilderness of Gran Pulse, the game combines science fiction and fantasy elements with series staples like summoned creatures and airships. It was followed by two sequels, Final Fantasy XIII-2 and Lightning Returns: Final Fantasy XIII.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Enix Product Development Division 1"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "ZgzuJ2rBS84",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy XIII",
+  "platform": "PlayStation 3",
+  "video": "ZgzuJ2rBS84",
+  "start": 0,
+  "release": "2010-03-09",
+  "precision": "day",
+  "id": "playstation-3-final-fantasy-xiii",
+  "cover": "covers/coboys.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero World Tour",
+  "igdbId": 2669,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-world-tour",
+  "igdbRelease": "2008-10-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wng.jpg",
+  "summary": "Guitar Hero: World Tour is the fourth main game in the series and brings a major change to the concept. Following the release of Rock Band that built on the Guitar Hero concept but added additional instruments, World Tour introduces these as well to allow players to play together simultaneously as a real band. Next to the guitar that was the main peripheral for the previous titles, the bundled edition of the game adds a microphone for the vocal parts and drums for percussion. Just like the previous game, the guitar tracks are split up for the lead and bass. The lyrics and the vocal pitch is shown near the top of the screen, while the bottom part is split up for bass guitar, lead guitar and drums, each with a separate set of notes that need to be hit to correctly play the part.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Neversoft Entertainment"
+  ],
+  "publisher": [
+   "Activision",
+   "Aspyr Media"
+  ],
+  "igdbVideo": "8Pib8dWONIk",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero World Tour",
+  "platform": "PlayStation 3",
+  "video": "8Pib8dWONIk",
+  "start": 0,
+  "release": "2008-10-26",
+  "precision": "day",
+  "id": "playstation-3-guitar-hero-world-tour",
+  "cover": "covers/co1wng.jpg",
+  "clip": null
+ },
+ {
+  "name": "Rock Band: Track Pack - Volume 2",
+  "igdbId": 80287,
+  "igdbUrl": "https://www.igdb.com/games/rock-band-track-pack-volume-2",
+  "igdbRelease": "2008-11-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7ya9.jpg",
+  "summary": "This is the second of retail track packs for Rock Band. While the first pack was only made available for the platforms that do not support downloadable content, this one covers all major platforms. The original game is not required to play and Volume 2 includes twenty songs. The game also includes a code to export the songs to a hard drive for use in other Rock Band games (PS3/Xbox 360).",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems"
+  ],
+  "publisher": [
+   "MTV Games"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": 80287,
+  "sheetTitle": "RockBand Track Pack Volume 2",
+  "platform": "PlayStation 3",
+  "video": "CN1LwY1ejTQ",
+  "start": 0,
+  "release": "2008-11-18",
+  "precision": "day",
+  "id": "playstation-3-rock-band-track-pack-volume-2",
+  "cover": "covers/co7ya9.jpg",
+  "clip": null
+ },
+ {
+  "name": "Rock Band 2",
+  "igdbId": 2692,
+  "igdbUrl": "https://www.igdb.com/games/rock-band-2",
+  "igdbRelease": "2008-10-19",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wp9.jpg",
+  "summary": "Rock Band 2 is the sequel to the 2007 musical simulation game Rock Band and offers similar gameplay. Directly competing with Guitar Hero: World Tour, the game allows different people to play together as in a band, with the same peripherals as the first game: lead guitar, bass guitar, microphone and a drum set.\n\nThe new drum and guitar controllers for this version, bundled or sold separately, have been revised and older controllers are also supported. The guitar controller, modelled after the Fender Stratocaster, has five additional fret buttons near the neck, for fast fingertapping sessions. There is also an effect switch to toggle between five different effects. Players use the instruments to match notes on the screen, divided in different portions for different instruments, along with the lyrics for the singer who need to match the pitch.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems"
+  ],
+  "publisher": [
+   "MTV Games"
+  ],
+  "igdbVideo": "UbYi3arisw8",
+  "score": 1.0,
+  "igdbOverride": 2692,
+  "sheetTitle": "Rockband 2",
+  "platform": "PlayStation 3",
+  "video": "UbYi3arisw8",
+  "start": 0,
+  "release": "2008-10-19",
+  "precision": "day",
+  "id": "playstation-3-rock-band-2",
+  "cover": "covers/co1wp9.jpg",
+  "clip": null
+ },
+ {
+  "name": "Rock Band 3",
+  "igdbId": 2691,
+  "igdbUrl": "https://www.igdb.com/games/rock-band-3",
+  "igdbRelease": "2010-10-26",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wpd.jpg",
+  "summary": "Rock Band 3 adds 83 new songs to the Rock Band library and for the first time supports a keyboard/keytar peripheral.",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Harmonix Music Systems",
+   "Backbone Entertainment"
+  ],
+  "publisher": [
+   "MTV Games",
+   "Mad Catz",
+   "Electronic Arts"
+  ],
+  "igdbVideo": "MbWC0QvAW5w",
+  "score": 0.95,
+  "igdbOverride": null,
+  "sheetTitle": "Rockband 3",
+  "platform": "PlayStation 3",
+  "video": "MbWC0QvAW5w",
+  "start": 0,
+  "release": "2010-10-26",
+  "precision": "day",
+  "id": "playstation-3-rock-band-3",
+  "cover": "covers/co1wpd.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fallout: New Vegas",
+  "igdbId": 16,
+  "igdbUrl": "https://www.igdb.com/games/fallout-new-vegas",
+  "igdbRelease": "2010-10-19",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1u60.jpg",
+  "summary": "In this first-person Western RPG, the player takes on the role of Courier 6, barely surviving after being robbed of their cargo, shot and put into a shallow grave by a New Vegas mob boss. The Courier sets out to track down their robbers and retrieve their cargo, and winds up getting tangled in the complex ideological and socioeconomic web of the many factions and settlements of post-nuclear Nevada.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Obsidian Entertainment"
+  ],
+  "publisher": [
+   "Bandai Namco Entertainment",
+   "1C/Cenega",
+   "Bethesda Softworks"
+  ],
+  "igdbVideo": "l-x-1fm2cq8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fallout New Vegas",
+  "platform": "PlayStation 3",
+  "video": "l-x-1fm2cq8",
+  "start": 0,
+  "release": "2010-10-19",
+  "precision": "day",
+  "id": "playstation-3-fallout-new-vegas",
+  "cover": "covers/co1u60.jpg",
+  "clip": null
+ },
+ {
+  "name": "Deus Ex: Human Revolution",
+  "igdbId": 43,
+  "igdbUrl": "https://www.igdb.com/games/deus-ex-human-revolution",
+  "igdbRelease": "2011-08-23",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1rd2.jpg",
+  "summary": "In Deus Ex: Human Revolution you play Adam Jensen, a security specialist, handpicked to oversee the defense of one of America's most experimental biotechnology firms. But when a black ops team breaks in and kills the scientists you were hired to protect, everything you thought you knew about your job changes. At a time when scientific advancements are routinely turning athletes, soldiers and spies into super-enhanced beings, someone is working very hard to ensure mankind's evolution follows a particular path. You need to discover why - because the decisions you take and the choices you make will be the only things that can determine mankind's future.",
+  "genres": [
+   "Shooter",
+   "Puzzle",
+   "Role-playing (RPG)"
+  ],
+  "developer": [
+   "Eidos Montréal"
+  ],
+  "publisher": [
+   "Feral Interactive",
+   "Square Enix"
+  ],
+  "igdbVideo": "EBsHm4Ccz5c",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Deus Ex Human Revolution",
+  "platform": "PlayStation 3",
+  "video": "EBsHm4Ccz5c",
+  "start": 0,
+  "release": "2011-08-23",
+  "precision": "day",
+  "id": "playstation-3-deus-ex-human-revolution",
+  "cover": "covers/co1rd2.jpg",
+  "clip": null
+ },
+ {
+  "name": "Final Fantasy XIII-2",
+  "igdbId": 384,
+  "igdbUrl": "https://www.igdb.com/games/final-fantasy-xiii-2",
+  "igdbRelease": "2012-01-31",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1tr9.jpg",
+  "summary": "Final Fantasy XIII‑2 is a story-driven JRPG that blends fast-paced, party-based combat with time-travel exploration. Lead a dynamic duo across branching timelines and varied environments, recruit and customize powerful allies, and refine strategies through real-time command combos, monster collection, and layered progression systems that reward experimentation and replay.",
+  "genres": [
+   "Real Time Strategy (RTS)",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Square Enix 1st Production Department"
+  ],
+  "publisher": [
+   "Square Enix"
+  ],
+  "igdbVideo": "tXflRadhm54",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Final Fantasy XIII-2",
+  "platform": "PlayStation 3",
+  "video": "tXflRadhm54",
+  "start": 0,
+  "release": "2012-01-31",
+  "precision": "day",
+  "id": "playstation-3-final-fantasy-xiii-2",
+  "cover": "covers/co1tr9.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mass Effect 3",
+  "igdbId": 75,
+  "igdbUrl": "https://www.igdb.com/games/mass-effect-3",
+  "igdbRelease": "2012-03-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1x7q.jpg",
+  "summary": "Mass Effect 3 is an action role-playing game in which Commander Shepard leads a final campaign against the Reapers, a machine race that has invaded Earth and is conquering civilizations across the galaxy. Players recruit squad members from various species and classes, forge alliances, and make choices that determine which characters survive. Combat features squad-based tactics with combinable biotic and tech powers, blind fire, and enhanced melee attacks.\n\nThe game includes a cooperative multiplayer mode where up to four players fight waves of enemies to liberate conflict zones. Progress in multiplayer contributes to war preparedness in the single-player campaign. New and returning squad members join Shepard's team, including soldier James Vega and EDI, an AI in a physical body.",
+  "genres": [
+   "Shooter",
+   "Role-playing (RPG)",
+   "Strategy",
+   "Adventure"
+  ],
+  "developer": [
+   "BioWare",
+   "BioWare Edmonton"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "ricv7YoBB8c",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mass Effect 3",
+  "platform": "PlayStation 3",
+  "video": "ricv7YoBB8c",
+  "start": 0,
+  "release": "2012-03-06",
+  "precision": "day",
+  "id": "playstation-3-mass-effect-3",
+  "cover": "covers/co1x7q.jpg",
   "clip": null
  }
 ];
