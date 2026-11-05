@@ -2280,5 +2280,67 @@ window.GAMES = [
   "id": "nintendo-3ds-super-mario-3d-land",
   "cover": "covers/cobab1.jpg",
   "clip": null
+ },
+ {
+  "name": "Doom 3",
+  "igdbId": 280,
+  "igdbUrl": "https://www.igdb.com/games/doom-3",
+  "igdbRelease": "2005-04-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1v3n.jpg",
+  "summary": "Doom 3 is a first-person shooter with survival horror elements. Played mostly from a first-person perspective, it sends the player through the corridors and facilities of a research base, fighting waves of enemies while managing limited resources. A signature design choice forces the player to choose between holding a weapon or a flashlight, encouraging a slower, tense pace built around darkness and ambush. The game uses a story-driven structure supported by radio messages, audio logs, and data devices that unlock areas and reveal information. It also includes a separate deathmatch-focused multiplayer mode.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "id Software",
+   "Aspyr Media"
+  ],
+  "publisher": [
+   "Activision",
+   "Aspyr Media"
+  ],
+  "igdbVideo": "j8NaZZa54cs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Doom 3",
+  "platform": "Xbox",
+  "video": "j8NaZZa54cs",
+  "start": 0,
+  "release": "2005-04-03",
+  "precision": "day",
+  "id": "xbox-doom-3",
+  "cover": "covers/co1v3n.jpg",
+  "clip": null
+ },
+ {
+  "name": "Black",
+  "igdbId": 5749,
+  "igdbUrl": "https://www.igdb.com/games/black",
+  "igdbRelease": "2006-02-24",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co8c32.jpg",
+  "summary": "Black takes place in Chechnya (Southern Russia). The protagonist is a black ops soldier named Sergeant First Class Jack Kellar (portrayed by Marty Papazian). Kellar tells most of the story in first-person at an interrogation four days after the events in the story begin.\n\nKellar is an inadequately disciplined member of a CIA black ops group and a veteran of several conflicts including Guatemala, Colombia, Iran and Croatia. The unknown interrogator (portrayed by Paul Pape) questions Kellar about an arms smuggling and terrorist operation called the Seventh Wave. Seventh Wave have been responsible for a number of terrorist attacks. Kellar is told that, unless he co-operates, he and his actions will be declassified, he will be dishonorably discharged and imprisoned for life. Though initially resistant, Kellar at last agrees to tell his story.",
+  "genres": [
+   "Shooter"
+  ],
+  "developer": [
+   "Criterion Games"
+  ],
+  "publisher": [
+   "Electronic Arts"
+  ],
+  "igdbVideo": "94mdwPFkC8U",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Black",
+  "platform": "Xbox",
+  "video": "94mdwPFkC8U",
+  "start": 0,
+  "release": "2006-02-24",
+  "precision": "day",
+  "id": "xbox-black",
+  "cover": "covers/co8c32.jpg",
+  "clip": null
  }
 ];
