@@ -6027,5 +6027,828 @@ window.GAMES = [
   "id": "playstation-4-elden-ring",
   "cover": "covers/co4jni.jpg",
   "clip": null
+ },
+ {
+  "name": "Elden Ring",
+  "igdbId": 119133,
+  "igdbUrl": "https://www.igdb.com/games/elden-ring",
+  "igdbRelease": "2022-02-25",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4jni.jpg",
+  "summary": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord.\n\nThe game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "FromSoftware"
+  ],
+  "publisher": [
+   "Bandai Namco Entertainment",
+   "FromSoftware"
+  ],
+  "igdbVideo": "E3Huy2cdih0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Elden Ring",
+  "platform": "PlayStation 5",
+  "video": "E3Huy2cdih0",
+  "start": 0,
+  "release": "2022-02-25",
+  "precision": "day",
+  "id": "playstation-5-elden-ring",
+  "cover": "covers/co4jni.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Nioh Collection",
+  "igdbId": 140979,
+  "igdbUrl": "https://www.igdb.com/games/the-nioh-collection",
+  "igdbRelease": "2021-02-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2kiz.jpg",
+  "summary": "The Nioh Collection is a package released by Team Ninja and Koei Tecmo in February 2021. This collection includes remastered versions of both Nioh games, optimized for next-gen consoles. Specifically, it features:\n\n- Nioh Remastered - Complete Edition: The original Nioh game, along with all its DLC expansions (Dragon of the North, Defiant Honor, and Bloodshed's End), enhanced for improved graphics, faster load times, and support for 4K resolution and up to 120 FPS on compatible hardware.\n\n- Nioh 2 Remastered - Complete Edition: The second installment, including all its DLC expansions (The Tengu's Disciple, Darkness in the Capital, and The First Samurai), also optimized with enhanced visuals, performance, and technical improvements.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Team NINJA"
+  ],
+  "publisher": [
+   "Koei Tecmo"
+  ],
+  "igdbVideo": "v9CP2GXo3Ew",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Nioh Collection",
+  "platform": "PlayStation 5",
+  "video": "v9CP2GXo3Ew",
+  "start": 0,
+  "release": "2021-02-05",
+  "precision": "day",
+  "id": "playstation-5-the-nioh-collection",
+  "cover": "covers/co2kiz.jpg",
+  "clip": null
+ },
+ {
+  "name": "Astro Bot",
+  "igdbId": 303811,
+  "igdbUrl": "https://www.igdb.com/games/astro-bot",
+  "igdbRelease": "2024-09-06",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coba3k.jpg",
+  "summary": "Buckle up for some epic PlayStation camaraderie, join forces with your favourite PlayStation icons and show the universe that small is mighty in this fresh new Astro adventure, exclusive to PS5 consoles!",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Team Asobi"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "wHMNQzLG_Jg",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Astro Bot",
+  "platform": "PlayStation 5",
+  "video": "wHMNQzLG_Jg",
+  "start": 0,
+  "release": "2024-09-06",
+  "precision": "day",
+  "id": "playstation-5-astro-bot",
+  "cover": "covers/coba3k.jpg",
+  "clip": null
+ },
+ {
+  "name": "Ghost of Tsushima",
+  "igdbId": 75235,
+  "igdbUrl": "https://www.igdb.com/games/ghost-of-tsushima",
+  "igdbRelease": "2020-11-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2crj.jpg",
+  "summary": "Uncover the hidden wonders of Tsushima in this open-world action adventure. Forge a new path and wage an unconventional war for the freedom of Tsushima. Challenge opponents with your katana, master the bow to eliminate distant threats, develop stealth tactics to ambush enemies in order to win over the mongols.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Sucker Punch Productions"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "Ur0pQblaZcE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Ghost of Tsushima",
+  "platform": "PlayStation 5",
+  "video": "Ur0pQblaZcE",
+  "start": 0,
+  "release": "2020-11-12",
+  "precision": "day",
+  "id": "playstation-5-ghost-of-tsushima",
+  "cover": "covers/co2crj.jpg",
+  "clip": null
+ },
+ {
+  "name": "Marvel's Spider-Man: Miles Morales",
+  "igdbId": 134581,
+  "igdbUrl": "https://www.igdb.com/games/marvels-spider-man-miles-morales",
+  "igdbRelease": "2020-11-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobg1j.jpg",
+  "summary": "Marvel's Spider-Man: Miles Morales is a third-person action-adventure game and a standalone continuation of Marvel's Spider-Man (2018). Set in an open-world version of New York City during winter, the game follows Miles Morales as he takes on the role of Spider-Man while Peter Parker is abroad. Gameplay focuses on traversal, combat, and completing missions across the city. Miles has unique abilities distinct from Peter, including bio-electric \"Venom\" attacks and temporary invisibility. The game features unlockable suits, gadgets, and a skill tree progression system.",
+  "genres": [
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Insomniac Games"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "T03PxxuCfDA",
+  "score": 0.85,
+  "igdbOverride": null,
+  "sheetTitle": "Spider-Man Miles Morales",
+  "platform": "PlayStation 5",
+  "video": "T03PxxuCfDA",
+  "start": 0,
+  "release": "2020-11-12",
+  "precision": "day",
+  "id": "playstation-5-marvel-s-spider-man-miles-morales",
+  "cover": "covers/cobg1j.jpg",
+  "clip": null
+ },
+ {
+  "name": "God of War Ragnarök",
+  "igdbId": 112875,
+  "igdbUrl": "https://www.igdb.com/games/god-of-war-ragnarok",
+  "igdbRelease": "2022-11-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coba3d.jpg",
+  "summary": "God of War: Ragnarök is the ninth installment in the God of War series and the sequel to 2018's God of War. Continuing with the Norse mythology theme, the game is set in ancient Norway and features series protagonists Kratos, the former Greek God of War, and his young son Atreus. The game kicked off the events of Ragnarök, where Kratos and Atreus must journey to each of the Nine Realms in search of answers as they prepare for the prophesied battle that will end the world.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Hack and slash/Beat 'em up",
+   "Adventure"
+  ],
+  "developer": [
+   "Santa Monica Studio"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "EE-4GvjKcfs",
+  "score": 0.95,
+  "igdbOverride": null,
+  "sheetTitle": "God of War Ragnarok",
+  "platform": "PlayStation 5",
+  "video": "EE-4GvjKcfs",
+  "start": 0,
+  "release": "2022-11-09",
+  "precision": "day",
+  "id": "playstation-5-god-of-war-ragnar-k",
+  "cover": "covers/coba3d.jpg",
+  "clip": null
+ },
+ {
+  "name": "Horizon Forbidden West",
+  "igdbId": 112874,
+  "igdbUrl": "https://www.igdb.com/games/horizon-forbidden-west",
+  "igdbRelease": "2022-02-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2gvu.jpg",
+  "summary": "Horizon Forbidden West continues Aloy’s story as she moves west to a far-future America to brave a majestic, but dangerous frontier where she’ll face awe-inspiring machines and mysterious new threats.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Guerrilla Games"
+  ],
+  "publisher": [
+   "Sony Interactive Entertainment"
+  ],
+  "igdbVideo": "wQATS4HOxdo",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Horizon Forbidden West",
+  "platform": "PlayStation 5",
+  "video": "wQATS4HOxdo",
+  "start": 0,
+  "release": "2022-02-18",
+  "precision": "day",
+  "id": "playstation-5-horizon-forbidden-west",
+  "cover": "covers/co2gvu.jpg",
+  "clip": null
+ },
+ {
+  "name": "Immortals Fenyx Rising",
+  "igdbId": 119357,
+  "igdbUrl": "https://www.igdb.com/games/immortals-fenyx-rising",
+  "igdbRelease": "2020-12-03",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co9kcb.jpg",
+  "summary": "From the creators of Assassin’s Creed Odyssey comes a storybook adventure about a forgotten hero on a quest to save the Greek gods.\n\nEmbark on a journey to the Isle of the Blessed, taken over by dangerous creatures of mythology. Prove your legendary heroism by taking on their leader, Typhon, the deadliest monster in all of mythology in a face-off for the ages.\nExplore a beautiful fantasy world where tricky puzzles, mysterious dungeons and heroic feats await. The journey will be as challenging and rewarding as the final destination.\nWill you be the Hero of the legends foretold?",
+  "genres": [
+   "Puzzle",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Ubisoft Québec"
+  ],
+  "publisher": [
+   "Ubisoft Entertainment"
+  ],
+  "igdbVideo": "phpm8v_uRWs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Immortals Fenyx Rising",
+  "platform": "PlayStation 5",
+  "video": "phpm8v_uRWs",
+  "start": 0,
+  "release": "2020-12-03",
+  "precision": "day",
+  "id": "playstation-5-immortals-fenyx-rising",
+  "cover": "covers/co9kcb.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero III: Legends of Rock",
+  "igdbId": 2671,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-iii-legends-of-rock",
+  "igdbRelease": "2007-10-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co1wqm.jpg",
+  "summary": "Rock out to the third entry in in Red Octane's music series for guitar gods! Songs for Guitar Hero III include Barracuda by Heart, Sabotage by Beastie Boys, Rock And Roll All Nite by Kiss, and much more! In addition, players can experience an incredible number of added features and explosive content including a new multiplayer action-inspired battle mode, grueling boss battles, a bevy of exclusive unlockable content and authentic rock venues.",
+  "genres": [
+   "Music",
+   "Simulator"
+  ],
+  "developer": [
+   "Vicarious Visions",
+   "Budcat Creations",
+   "Neversoft Entertainment"
+  ],
+  "publisher": [
+   "Activision"
+  ],
+  "igdbVideo": "WlvMkvTLO8Y",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero III Legends of Rock",
+  "platform": "Wii",
+  "video": "WlvMkvTLO8Y",
+  "start": 0,
+  "release": "2007-10-29",
+  "precision": "day",
+  "id": "wii-guitar-hero-iii-legends-of-rock",
+  "cover": "covers/co1wqm.jpg",
+  "clip": null
+ },
+ {
+  "name": "MadWorld",
+  "igdbId": 3214,
+  "igdbUrl": "https://www.igdb.com/games/madworld",
+  "igdbRelease": "2009-03-10",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co22ou.jpg",
+  "summary": "\"MadWorld is a unique action game experience with two signature characteristics:\nAn eye-catching, monochromatic visual style that’s yet to be matched; and sense-shattering, bone-shredding violence.\n\nExperience a unique blend of brutality, humor and madness in a graphic novel-style world that’s black and white and blood-red all over.\n\nIn sharp contrast to what you’ve come to expect on the Wii, MadWorld was available in American and European markets almost a full year before it was finally allowed in Japan.\"",
+  "genres": [
+   "Hack and slash/Beat 'em up"
+  ],
+  "developer": [
+   "PlatinumGames"
+  ],
+  "publisher": [
+   "Spike",
+   "Sega Europe",
+   "Sega of America"
+  ],
+  "igdbVideo": "twhpsx4gMKw",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "MadWorld",
+  "platform": "Wii",
+  "video": "twhpsx4gMKw",
+  "start": 0,
+  "release": "2009-03-10",
+  "precision": "day",
+  "id": "wii-madworld",
+  "cover": "covers/co22ou.jpg",
+  "clip": null
+ },
+ {
+  "name": "Fire Emblem: Radiant Dawn",
+  "igdbId": 1442,
+  "igdbUrl": "https://www.igdb.com/games/fire-emblem-radiant-dawn",
+  "igdbRelease": "2007-11-05",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobb09.jpg",
+  "summary": "Radiant Dawn is a turn-based tactics RPG and a direct sequel, 3 years have passed, to the game \"Fire Emblem: Path of Radiance\" for the Nintendo GameCube. It features new magic, class upgrades, weapons, and a reworked forging system.\n\nThe game uses a somewhat upgraded version of the previous engine so the games look similar. You can carry over some data from the previous games save file but only a normal or hard mode file will work because a bug will cause the Wii to freeze if an easy mode save file is on the GameCube memory card.",
+  "genres": [
+   "Role-playing (RPG)",
+   "Strategy",
+   "Turn-based strategy (TBS)",
+   "Tactical"
+  ],
+  "developer": [
+   "Nintendo SPD Production Group No. 2",
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "QRK_97PAeyk",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Fire Emblem Radiant Dawn",
+  "platform": "Wii",
+  "video": "QRK_97PAeyk",
+  "start": 0,
+  "release": "2007-11-05",
+  "precision": "day",
+  "id": "wii-fire-emblem-radiant-dawn",
+  "cover": "covers/cobb09.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Twilight Princess",
+  "igdbId": 134014,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-twilight-princess--1",
+  "igdbRelease": "2006-11-19",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co3w1h.jpg",
+  "summary": "The Legend of Zelda: Twilight Princess was initially developed with the Nintendo GameCube in mind, but ended up receiving a Wii port when it was released to promote the new console. This version has motion control compatibility for the sword and pointer controls for the menus, the bow and the boomerang. This version of the game has a completely inverted map and locations when comparing with the GameCube release. The change in layout was meant to adapt Link's usually left-handed design to right-handed people, given the motion controls.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "KqUqxVKd5q0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Twilight Princess",
+  "platform": "Wii",
+  "video": "KqUqxVKd5q0",
+  "start": 0,
+  "release": "2006-11-19",
+  "precision": "day",
+  "id": "wii-the-legend-of-zelda-twilight-princess",
+  "cover": "covers/co3w1h.jpg",
+  "clip": null
+ },
+ {
+  "name": "WarioWare: Smooth Moves",
+  "igdbId": 1706,
+  "igdbUrl": "https://www.igdb.com/games/warioware-smooth-moves",
+  "igdbRelease": "2007-01-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4b0v.jpg",
+  "summary": "Wario and his pals learn fun, wacky moves after discovering a strange book and a mystical device called the Form Baton. Familiar characters from the WarioWare universe will return to this installment and some new ones will appear. Players must clear fast-paced sets of microgames, changing the way they hold the Wii Remote each time.",
+  "genres": [
+   "Puzzle",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo",
+   "Nintendo SPD Production Group No. 1",
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "Q0aUDWERmJE",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "WarioWare: Smooth Moves",
+  "platform": "Wii",
+  "video": "Q0aUDWERmJE",
+  "start": 0,
+  "release": "2007-01-15",
+  "precision": "day",
+  "id": "wii-warioware-smooth-moves",
+  "cover": "covers/co4b0v.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario Strikers Charged",
+  "igdbId": 2255,
+  "igdbUrl": "https://www.igdb.com/games/mario-strikers-charged",
+  "igdbRelease": "2007-07-30",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co220c.jpg",
+  "summary": "Mario Strikers Charged is a Mario soccer Wii game and the sequel to the Nintendo GameCube game Super Mario Strikers. Up to four players can participate in this game as play soccer, attempting to kick the ball into another opponent's goal. The soccer in this game, however, has several differences than the real soccer, such as the ability to tackle other players with a minimal penalty, using Mario-themed items to give players an advantage over their opponents, and playing with stage hazards effectively. This game places a higher emphasis on individual character attributes compared to its precedent, by not only assigning stats, but by also giving team captains a unique Super Ability and the Mega Strike, an opportunity to score up to six goals. Another introduced mechanic is the power level of the ball: indicated by the color of the glow, the shots of the ball become more quick and powerful the more active it is, thus making it easier to score goals with.",
+  "genres": [
+   "Sport"
+  ],
+  "developer": [
+   "Next Level Games"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "ezqDwJ4evOM",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario Strikers Charged",
+  "platform": "Wii",
+  "video": "ezqDwJ4evOM",
+  "start": 0,
+  "release": "2007-07-30",
+  "precision": "day",
+  "id": "wii-mario-strikers-charged",
+  "cover": "covers/co220c.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Paper Mario",
+  "igdbId": 2191,
+  "igdbUrl": "https://www.igdb.com/games/super-paper-mario",
+  "igdbRelease": "2007-04-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/coba44.jpg",
+  "summary": "The newest chapter of the Paper Mario story isn't just out of this world... it's out of this dimension. What at first glance appears to be a 2D side-scroller ripped straight from the stylized pages of the Paper Mario universe soon turns into a hilarious dimension-shifting platformer possible only on Wii.",
+  "genres": [
+   "Platform",
+   "Role-playing (RPG)",
+   "Adventure"
+  ],
+  "developer": [
+   "Intelligent Systems"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "gJZiClBAKo0",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Paper Mario",
+  "platform": "Wii",
+  "video": "gJZiClBAKo0",
+  "start": 0,
+  "release": "2007-04-09",
+  "precision": "day",
+  "id": "wii-super-paper-mario",
+  "cover": "covers/coba44.jpg",
+  "clip": null
+ },
+ {
+  "name": "Mario Kart Wii",
+  "igdbId": 2183,
+  "igdbUrl": "https://www.igdb.com/games/mario-kart-wii",
+  "igdbRelease": "2008-04-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co214e.jpg",
+  "summary": "Mario Kart Wii is a multiplayer-oriented racing game for the Wii, and the sixth main installment in the Mario Kart series. Mario Kart Wii retains the traditional item-based weaponry familiar with the franchise, where players can select a Mario franchise driver and themed vehicles. As with most racing games, the overarching goal is to place first among other competitors, through the usage of such items and taking the fastest routes to secure the leads. Several new key elements introduced to Mario Kart Wii include increasing the number of racers to 12 racers from 8 racers from previous entries in the series, as well as introducing a new type of vehicle to the franchise: bikes. The game takes advantage of features unique to the Wii, most notably its motion control capabilities. A Wii Wheel is included in most Mario Kart Wii packages, though the game is still compatible with other controllers. Game modes are also present such as the traditional Grand Prix, Versus, Battle, and Time Trial modes.",
+  "genres": [
+   "Racing"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.1"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "MKHLzFGA8o8",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Mario Kart Wii",
+  "platform": "Wii",
+  "video": "MKHLzFGA8o8",
+  "start": 0,
+  "release": "2008-04-27",
+  "precision": "day",
+  "id": "wii-mario-kart-wii",
+  "cover": "covers/co214e.jpg",
+  "clip": null
+ },
+ {
+  "name": "Wii Play",
+  "igdbId": 2185,
+  "igdbUrl": "https://www.igdb.com/games/wii-play",
+  "igdbRelease": "2007-02-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobwcx.jpg",
+  "summary": "Wii Play collects nine quick and addictive games that are easy to pick up and play and hard to put away. Thanks to the intuitive controls of the Wii Remote, even the most inexperienced gamers will have no trouble mastering the controls.",
+  "genres": [
+   "Point-and-click",
+   "Shooter",
+   "Sport",
+   "Arcade"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.2"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "gfz-l5GI-v4",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Wii Play",
+  "platform": "Wii",
+  "video": "gfz-l5GI-v4",
+  "start": 0,
+  "release": "2007-02-12",
+  "precision": "day",
+  "id": "wii-wii-play",
+  "cover": "covers/cobwcx.jpg",
+  "clip": null
+ },
+ {
+  "name": "Guitar Hero: Aerosmith",
+  "igdbId": 2673,
+  "igdbUrl": "https://www.igdb.com/games/guitar-hero-aerosmith",
+  "igdbRelease": "2008-06-29",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co53lc.jpg",
+  "summary": "Guitar Hero: Aerosmith puts the player in the shoes of \"America's Greatest Rock and Roll Band\" as they evolve from unknowns to rock superstars. In a guitar hero game dedicated to the band that is Aerosmith!",
+  "genres": [
+   "Music"
+  ],
+  "developer": [
+   "Neversoft Entertainment"
+  ],
+  "publisher": [
+   "Activision",
+   "Aspyr Media"
+  ],
+  "igdbVideo": "dE4A-1dpqYs",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Guitar Hero Aerosmith",
+  "platform": "Wii",
+  "video": "dE4A-1dpqYs",
+  "start": 0,
+  "release": "2008-06-29",
+  "precision": "day",
+  "id": "wii-guitar-hero-aerosmith",
+  "cover": "covers/co53lc.jpg",
+  "clip": null
+ },
+ {
+  "name": "Trauma Center: New Blood",
+  "igdbId": 1525,
+  "igdbUrl": "https://www.igdb.com/games/trauma-center-new-blood",
+  "igdbRelease": "2007-11-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co4dx3.jpg",
+  "summary": "Keep your hands steady and your mind focused for Trauma Center: New Blood, sequel to Trauma Center: Second Opinion. This time around there's a lot more on the line, as every cut of the scalpel, every pinch of the forceps, each and every second that ticks by is of the absolute greatest importance. If you think it's too much to handle alone, invite a friend to assist with the operation and work together to save patients from flat lining.",
+  "genres": [
+   "Simulator"
+  ],
+  "developer": [
+   "Atlus"
+  ],
+  "publisher": [
+   "Atlus",
+   "Nintendo"
+  ],
+  "igdbVideo": null,
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Trauma Center New Blood",
+  "platform": "Wii",
+  "video": "lWd0ssdV4CI",
+  "start": 729,
+  "release": "2007-11-20",
+  "precision": "day",
+  "id": "wii-trauma-center-new-blood",
+  "cover": "covers/co4dx3.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Smash Bros. Brawl",
+  "igdbId": 1628,
+  "igdbUrl": "https://www.igdb.com/games/super-smash-bros-brawl",
+  "igdbRelease": "2008-03-09",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co221w.jpg",
+  "summary": "Super Smash Bros. Brawl is the third installment in the Super Smash Bros. series and the follow-up to Super Smash Bros. Melee. This edition introduces super attacks referred to as final smashes, as well as a brand-new adventure mode in The Subspace Emissary which is a side-scrolling adventure in the style of a platformer. It retains all basic mechanics of the Super Smash Bros. series, such as a damage meter, stocks, and Smash-style attacks.",
+  "genres": [
+   "Fighting",
+   "Platform"
+  ],
+  "developer": [
+   "Sora"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "tDD5xj5HYsk",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Smash Bros. Brawl",
+  "platform": "Wii",
+  "video": "tDD5xj5HYsk",
+  "start": 0,
+  "release": "2008-03-09",
+  "precision": "day",
+  "id": "wii-super-smash-bros-brawl",
+  "cover": "covers/co221w.jpg",
+  "clip": null
+ },
+ {
+  "name": "Super Mario Galaxy",
+  "igdbId": 1077,
+  "igdbUrl": "https://www.igdb.com/games/super-mario-galaxy",
+  "igdbRelease": "2007-11-12",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co21ro.jpg",
+  "summary": "A 3D platformer and first Wii entry in the Super Mario franchise, Super Mario Galaxy sees Mario jump across planets and galaxies with varying items, enemies, geographies and gravity mechanics in order to reach his enemy Bowser, who has attacked the Mushroom Kingdom and hijacked Princess Peach's castle with her inside.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "-ZH0SHeu46Q",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario Galaxy",
+  "platform": "Wii",
+  "video": "-ZH0SHeu46Q",
+  "start": 0,
+  "release": "2007-11-12",
+  "precision": "day",
+  "id": "wii-super-mario-galaxy",
+  "cover": "covers/co21ro.jpg",
+  "clip": null
+ },
+ {
+  "name": "New Super Mario Bros. Wii",
+  "igdbId": 2178,
+  "igdbUrl": "https://www.igdb.com/games/new-super-mario-bros-wii",
+  "igdbRelease": "2009-11-15",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co21tj.jpg",
+  "summary": "New Super Mario Bros. Wii is a side-scrolling 2.5D Mario platformer for the Wii and the tenth game in the Super Mario series. In addition to the single-player experience, New Super Mario Bros. Wii also features a multiplayer mode for up to four players. This is the first Super Mario game to feature co-op and vs. modes at the same time since Mario Bros. It features more items, new levels, and more enemies than the DS predecessor. The game introduces two new power-ups, the Propeller Mushroom and the Penguin Suit, which turn characters into their propeller and penguin forms, respectively.",
+  "genres": [
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo Entertainment Analysis & Development"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "__x__iktPxE",
+  "score": 0.91,
+  "igdbOverride": null,
+  "sheetTitle": "Super Mario Bros Wii",
+  "platform": "Wii",
+  "video": "__x__iktPxE",
+  "start": 0,
+  "release": "2009-11-15",
+  "precision": "day",
+  "id": "wii-new-super-mario-bros-wii",
+  "cover": "covers/co21tj.jpg",
+  "clip": null
+ },
+ {
+  "name": "Zack & Wiki: Quest for Barbaros' Treasure",
+  "igdbId": 2264,
+  "igdbUrl": "https://www.igdb.com/games/zack-and-wiki-quest-for-barbaros-treasure--1",
+  "igdbRelease": "2007-10-16",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co7k8g.jpg",
+  "summary": "Zack is a new pirate on a quest to become the greatest pirate ever. In this puzzle adventure game he and his magical monkey sidekick search for treasure as they help the skeleton of the legendary pirate Barbaros.\n\nZack & Wiki: Quest for Barbaros' Treasure is presented as a series of stages where the player directs Zack to perform a number of actions to let him collect the treasure. The player must deduce what actions will have the desired effect without triggering traps or attracting the attention of the enemies. Using most of the tools causes the game to switch to a first-person point of view, and the player is expected to hold and manipulate the Wii remote as if it were the item on the screen.",
+  "genres": [
+   "Point-and-click",
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Capcom"
+  ],
+  "publisher": [
+   "Capcom"
+  ],
+  "igdbVideo": "AgBpEXSg4fU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Zack and Wiki Quest for Barbaros' Treasure",
+  "platform": "Wii",
+  "video": "AgBpEXSg4fU",
+  "start": 0,
+  "release": "2007-10-16",
+  "precision": "day",
+  "id": "wii-zack-wiki-quest-for-barbaros-treasure",
+  "cover": "covers/co7k8g.jpg",
+  "clip": null
+ },
+ {
+  "name": "The Legend of Zelda: Skyward Sword",
+  "igdbId": 534,
+  "igdbUrl": "https://www.igdb.com/games/the-legend-of-zelda-skyward-sword",
+  "igdbRelease": "2011-11-20",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co5wrj.jpg",
+  "summary": "The Legend of Zelda: Skyward Sword is the first Zelda game created specifically with the Wii in mind. The game makes use of the Wii MotionPlus peripheral for sword fighting, with a revised Wii Remote pointing system used for targeting. Skyward Sword is structured very similar to previous Zelda games, as you travel through an overworld in search of temples to visit and once in you solve a series of puzzles before fighting a boss at the end and receive the next bit of plot. The biggest change is that the overworld is more focused on puzzles with only a handful of action.",
+  "genres": [
+   "Puzzle",
+   "Adventure"
+  ],
+  "developer": [
+   "Nintendo EAD Software Development Group No.3"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "SMkvcKhVCEk",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "The Legend of Zelda: Skyward Sword",
+  "platform": "Wii",
+  "video": "SMkvcKhVCEk",
+  "start": 0,
+  "release": "2011-11-20",
+  "precision": "day",
+  "id": "wii-the-legend-of-zelda-skyward-sword",
+  "cover": "covers/co5wrj.jpg",
+  "clip": null
+ },
+ {
+  "name": "Metroid Prime 3: Corruption",
+  "igdbId": 1111,
+  "igdbUrl": "https://www.igdb.com/games/metroid-prime-3-corruption",
+  "igdbRelease": "2007-08-27",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/cobaun.jpg",
+  "summary": "The trilogy closes as corruption creeps over the universe… and into Samus Aran. Using the Wii Remote and Nunchuk, players control Samus as she partners with other bounty hunters, shoots down enemies, and explores alien worlds in a harrowing mission to stop the mutagenic Phazon from spreading across the galaxy.",
+  "genres": [
+   "Shooter",
+   "Platform",
+   "Adventure"
+  ],
+  "developer": [
+   "Retro Studios"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "lQLIwauAVNU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Metroid Prime 3: Corruption",
+  "platform": "Wii",
+  "video": "lQLIwauAVNU",
+  "start": 0,
+  "release": "2007-08-27",
+  "precision": "day",
+  "id": "wii-metroid-prime-3-corruption",
+  "cover": "covers/cobaun.jpg",
+  "clip": null
+ },
+ {
+  "name": "Punch-Out!!",
+  "igdbId": 2194,
+  "igdbUrl": "https://www.igdb.com/games/punch-out",
+  "igdbRelease": "2009-05-18",
+  "igdbPrecision": "day",
+  "igdbCover": "covers/co2f72.jpg",
+  "summary": "Get ready for some head-to-head punching action!\n\nLittle Mac is back and ready to step into the ring once more! Our favorite underdog from the 1980s joins the best of the original Punch-Out!! fighters, including Glass Joe, King Hippo, Von Kaiser, and more. These boxers come to life in cel-shaded 2-D, complete with hilarious fighting animations and backstories that capture all the fun and flair of the original Punch-Out!! games.\n\nHook, jab, swing, then flawlessly execute a Star Punch to take down your opponent. Train with Doc to prepare for the next match, then get back into the ring to face your next challenger. Some defeated opponents may return for a rematch, but come out victorious and you'll be one step closer to winning the Championship Belt!",
+  "genres": [
+   "Fighting",
+   "Sport",
+   "Adventure"
+  ],
+  "developer": [
+   "Next Level Games"
+  ],
+  "publisher": [
+   "Nintendo"
+  ],
+  "igdbVideo": "eiuq4gHxCIU",
+  "score": 1.0,
+  "igdbOverride": null,
+  "sheetTitle": "Punch-Out!!",
+  "platform": "Wii",
+  "video": "eiuq4gHxCIU",
+  "start": 0,
+  "release": "2009-05-18",
+  "precision": "day",
+  "id": "wii-punch-out",
+  "cover": "covers/co2f72.jpg",
+  "clip": null
  }
 ];
